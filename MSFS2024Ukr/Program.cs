@@ -18,8 +18,7 @@ namespace MSFS2024Ukr
             Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
 
             var files = Directory
-                  .EnumerateFiles(AppContext.BaseDirectory, "*", SearchOption.AllDirectories)
-                  .Where(path => string.Equals(Path.GetExtension(path), ".*", StringComparison.OrdinalIgnoreCase));
+                  .EnumerateFiles(AppContext.BaseDirectory, "*", SearchOption.AllDirectories);
 
             foreach (var file in files)
             {
