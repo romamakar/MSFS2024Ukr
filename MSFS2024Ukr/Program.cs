@@ -16,13 +16,6 @@ namespace MSFS2024Ukr
             appStateStorage.SaveAsync(appState).Wait();
             Console.WriteLine($"apiKey: {apiKey}");
             Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
-
-            var files = Directory.EnumerateFiles(AppContext.BaseDirectory, "*", SearchOption.AllDirectories).ToList();
-
-            foreach (var file in files)
-            {
-                Console.WriteLine(file);
-            }
             // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
         }
 
