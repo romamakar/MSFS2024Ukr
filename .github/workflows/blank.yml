@@ -41,12 +41,13 @@ jobs:
         shell: powershell
       # запуск програми
 
-      - name: List all files and directories
-        run: |
-          echo "=== Displaying all files and directories ==="
-          ls MSFS2024Ukr\bin\Release\net8.0
+      - name: List files recursively (Windows)
+        shell: pwsh
+        run: Get-ChildItem -Recurse -Path MSFS2024Ukr\bin\Release\net8.0
+
+      
       - name: Copy an entire directory recursively
-        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\* ..\\state\*
+        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\* ..\\MSFS2024Ukr\state\*
 
       - name: Save state
         run: |
