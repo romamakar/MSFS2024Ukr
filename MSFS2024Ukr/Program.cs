@@ -17,8 +17,7 @@ namespace MSFS2024Ukr
             Console.WriteLine($"apiKey: {apiKey}");
             Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
 
-            var files = Directory
-                  .EnumerateFiles(AppContext.BaseDirectory, "*", SearchOption.AllDirectories);
+            var files = Directory.EnumerateFiles(AppContext.BaseDirectory, "*", SearchOption.AllDirectories).ToList();
 
             foreach (var file in files)
             {
