@@ -52,21 +52,21 @@ jobs:
       - name: Zip MSFS2024ukr-en folder
         shell: pwsh
         run: |
-          $source = "MSFS2024ukr-en\*"
+          $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-en\*"
           $zipFile = "MSFS2024ukr-en.zip"
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
       - name: Zip MSFS2024ukr-ru folder
         shell: pwsh
         run: |
-          $source = "MSFS2024ukr-ru\*"
+          $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-ru\*"
           $zipFile = "MSFS2024ukr-ru.zip"
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
       - name: Zip MSFS2024ukr-pl folder
         shell: pwsh
         run: |
-          $source = "MSFS2024ukr-pl\*"
+          $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-pl\*"
           $zipFile = "MSFS2024ukr-pl.zip"
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
