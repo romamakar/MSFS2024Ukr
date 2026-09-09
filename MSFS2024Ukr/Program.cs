@@ -12,7 +12,7 @@ namespace MSFS2024Ukr
         static TranslationClient client = null;
         static void Main(string[] args)
         {
-            appState.LastDate = DateTime.Now;
+            appState.LastDate = GetUkrainianTime();
             appStateStorage.SaveAsync(appState).Wait();
             Console.WriteLine($"apiKey: {apiKey}");
             Console.WriteLine($"API key configured: {!string.IsNullOrWhiteSpace(apiKey)}");
@@ -31,7 +31,7 @@ namespace MSFS2024Ukr
 
             if (appState.CurrentSymbols > 500000)
             {
-                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = DateTime.Now }).Wait();
+                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = GetUkrainianTime() }).Wait();
                 throw new Exception();
             }
 
@@ -47,9 +47,22 @@ namespace MSFS2024Ukr
             }
             catch (Exception)
             {
-                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = DateTime.Now }).Wait();
+                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = GetUkrainianTime() }).Wait();
                 throw;
             }
+        }
+
+        public static DateTime GetUkrainianTime()
+        {
+            var timeZoneId = OperatingSystem.IsWindows()
+                ? "FLE Standard Time"
+                : "Europe/Kyiv";
+
+            var timeZone = TimeZoneInfo.FindSystemTimeZoneById(timeZoneId);
+
+            return TimeZoneInfo.ConvertTimeFromUtc(
+                DateTime.UtcNow,
+                timeZone);
         }
 
         static void oldCode()
