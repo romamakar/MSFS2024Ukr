@@ -41,6 +41,9 @@ jobs:
         shell: powershell
       # запуск програми
 
+      - name: Copy an entire directory recursively
+        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\app.json ..\\MSFS2024Ukr\MSFS2024Ukr\state\app.json
+
       - name: Save state
         run: |
           git config user.name "github-actions[bot]"
