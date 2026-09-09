@@ -49,7 +49,7 @@ namespace MSFS2024Ukr
                 }
             }
 
-            LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"), "en-EN");
+            LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"), "en-US");
             LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-pl"), "pl-PL");
             LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-ru"), "ru-RU");
             LayoutFile.UpdateLocPakSizes(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"));
