@@ -70,10 +70,18 @@ namespace MSFS2024Ukr
             var sourceLocPakFiles = EnumerateLocPakFiles(newestDataRoot);
             var targetLocPakFiles = EnumerateLocPakFiles(dataRoot)
                 .ToDictionary(path => Path.GetRelativePath(dataRoot, path), StringComparer.OrdinalIgnoreCase);
-            var newFiles = new List<string>();
+ 
+            var existingFiles = new List<FileWithKeys>();
             foreach (var sourceLocPakPath in sourceLocPakFiles)
             {
+                
                 var relativePath = Path.GetRelativePath(newestDataRoot, sourceLocPakPath);
+
+                var fileWithKeys = new FileWithKeys
+                {
+                    FilePath = relativePath,
+                    Keys = new List<string>()
+                };
 
                 if (!targetLocPakFiles.TryGetValue(relativePath, out var targetLocPakPath))
                 {
@@ -86,15 +94,49 @@ namespace MSFS2024Ukr
                     }
 
                     File.Copy(sourceLocPakPath, targetLocPakPath);
+                    var locPak = Read(targetLocPakPath);
+
+                    bool isError = false;
+                    var translatedKeys = new List<string>();
+                    try
+                    {
+                        foreach (var key in locPak.LocalisationPackage.Strings.Keys.ToList())
+                        {
+                            locPak.LocalisationPackage.Strings[key] = Program.TranslateText(locPak.LocalisationPackage.Strings[key], targetLocPakPath, key);
+                            translatedKeys.Add(key);
+                            fileWithKeys.Keys.Add(key);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        isError = true;
+                        result.WasError = true;
+                        locPak.LocalisationPackage.Strings = locPak.LocalisationPackage.Strings
+                            .Where(kvp => translatedKeys.Contains(kvp.Key))
+                            .ToDictionary(kvp => kvp.Key, kvp => kvp.Value, StringComparer.Ordinal);
+                        Console.WriteLine($"Помилка при перекладі файлу '{targetLocPakPath}': {ex.Message}");
+                    }
+                    locPak.Write(targetLocPakPath);
+
+                    if (isError)
+                    {
+                        Console.WriteLine($"Файл '{targetLocPakPath}' не був перекладений через помилку.");
+                        existingFiles.Add(fileWithKeys);
+                        break;
+                    }
                     targetLocPakFiles[relativePath] = targetLocPakPath;
+                    existingFiles.Add(fileWithKeys);
                     result.CopiedFiles++;
-                    newFiles.Add(targetLocPakPath);
+                   
                     continue;
                 }
 
                 var sourceLocPak = Read(sourceLocPakPath);
                 var targetLocPak = Read(targetLocPakPath);
                 var fileChanged = false;
+
+                
+
 
                 foreach (var sourceString in sourceLocPak.LocalisationPackage.Strings)
                 {
@@ -103,38 +145,76 @@ namespace MSFS2024Ukr
                         continue;
                     }
 
-                    targetLocPak.LocalisationPackage.Strings[sourceString.Key] = sourceString.Value; //Program.TranslateText(sourceString.Value);
+                    try
+                    {
+                        targetLocPak.LocalisationPackage.Strings[sourceString.Key] = Program.TranslateText(sourceString.Value, targetLocPakPath, sourceString.Key);
+
+                    }
+                    catch (Exception ex)
+                    {
+                        result.WasError = true;
+                        Console.WriteLine($"Помилка при перекладі ключа '{sourceString.Key}' у файлі '{targetLocPakPath}': {ex.Message}");
+                        break;
+                    }
+                    fileWithKeys.Keys.Add(sourceString.Key);
                     result.AddedStrings++;
                     fileChanged = true;
+                    targetLocPak.Write(targetLocPakPath);
                 }
+
 
                 if (!fileChanged)
                 {
                     continue;
                 }
-
-                targetLocPak.Write(targetLocPakPath);
+               
                 result.UpdatedFiles++;
+                existingFiles.Add(fileWithKeys);
             }
 
-            foreach (var newFile in newFiles)
-            {
-                var locPak = Read(newFile);
-                foreach (var key in locPak.LocalisationPackage.Strings.Keys.ToList())
-                {
-                    locPak.LocalisationPackage.Strings[key] = Program.TranslateText(locPak.LocalisationPackage.Strings[key], newFile);
-                }
-                locPak.Write(newFile);
-            }
+      
+            result.ExistingFiles = existingFiles;
 
             return result;
         }
 
-        private static IEnumerable<string> EnumerateLocPakFiles(string rootFolder)
+        private static List<string> EnumerateLocPakFiles(string rootFolder)
         {
             return Directory
                 .EnumerateFiles(rootFolder, "*", SearchOption.AllDirectories)
-                .Where(path => string.Equals(Path.GetExtension(path), ".locPak", StringComparison.OrdinalIgnoreCase)).OrderBy(path => path);
+                .Where(path => string.Equals(Path.GetExtension(path), ".locPak", StringComparison.OrdinalIgnoreCase)).OrderBy(path => path).ToList();
+        }
+
+        public static void MakeArftifactDirectory(string sourceDirectory, string destinationDirectory, string language)
+        {
+            Directory.CreateDirectory(destinationDirectory);
+
+            foreach (var file in Directory.GetFiles(sourceDirectory))
+            {
+                var fileName = Path.GetFileName(file);
+
+                if (string.Equals(
+                        Path.GetExtension(file),
+                        ".locPak",
+                        StringComparison.OrdinalIgnoreCase))
+                {
+                    fileName = $"{language}.locPak";
+                }
+
+                var destinationFile = Path.Combine(destinationDirectory, fileName);
+
+                File.Copy(file, destinationFile, overwrite: true);
+            }
+
+            foreach (var directory in Directory.GetDirectories(sourceDirectory))
+            {
+                var directoryName = Path.GetFileName(directory);
+
+                var destinationSubDirectory =
+                    Path.Combine(destinationDirectory, directoryName);
+
+                MakeArftifactDirectory(directory, destinationSubDirectory, language);
+            }
         }
     }
 
@@ -145,6 +225,8 @@ namespace MSFS2024Ukr
         public int UpdatedFiles { get; set; }
 
         public int AddedStrings { get; set; }
+        public List<FileWithKeys> ExistingFiles { get; set; }
+        public bool WasError { get; set; } = false;
     }
 
     public sealed class LocalisationPackage

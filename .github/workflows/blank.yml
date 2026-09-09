@@ -41,10 +41,56 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: .\MSFS2024Ukr\bin\Release\net8.0\MSFS2024Ukr.exe
         shell: powershell
-      # запуск програми
 
       - name: Copy an entire directory recursively
         run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\app.json ..\\MSFS2024Ukr\MSFS2024Ukr\state\app.json
+      - name: Copy an entire directory recursively
+        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\data\* ..\\MSFS2024Ukr\MSFS2024Ukr\data\
+
+      - name: Zip MSFS2024ukr-en folder
+        shell: pwsh
+        run: |
+          $source = "MSFS2024ukr-en\*"
+          $zipFile = "MSFS2024ukr-en.zip"
+          Compress-Archive -Path $source -DestinationPath $zipFile -Force
+
+      - name: Zip MSFS2024ukr-ru folder
+        shell: pwsh
+        run: |
+          $source = "MSFS2024ukr-ru\*"
+          $zipFile = "MSFS2024ukr-ru.zip"
+          Compress-Archive -Path $source -DestinationPath $zipFile -Force
+
+      - name: Zip MSFS2024ukr-pl folder
+        shell: pwsh
+        run: |
+          $source = "MSFS2024ukr-pl\*"
+          $zipFile = "MSFS2024ukr-pl.zip"
+          Compress-Archive -Path $source -DestinationPath $zipFile -Force
+
+      - name: Upload release asset en
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "MSFS2024ukr-en.zip"
+          tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload release asset pl
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "MSFS2024ukr-pl.zip"
+          tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload release asset ru
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "MSFS2024ukr-ru.zip"
+          tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Save state
         run: |
@@ -52,7 +98,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add D:/a/MSFS2024Ukr/MSFS2024Ukr/MSFS2024Ukr/state/app.json
-
+          git add D:/a/MSFS2024Ukr/MSFS2024Ukr/MSFS2024Ukr/data/
           git diff --cached --quiet || git commit -m "Update application state"
 
           git push

@@ -1,4 +1,5 @@
 ﻿using Google.Cloud.Translation.V2;
+using Newtonsoft.Json;
 using System.CodeDom;
 
 namespace MSFS2024Ukr
@@ -21,9 +22,40 @@ namespace MSFS2024Ukr
             // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
         }
 
-        public static string TranslateText(string text, string file)
+        private static void ContnueWork()
         {
-            if (string.IsNullOrEmpty(text.Trim()) || !containsCyrillic(text))
+            if (appState.CurrentSymbols >= 500000 && appState.LastDate.Month == GetUkrainianTime().Month)
+            {
+                Console.WriteLine($"CurrentSymbols: {appState.CurrentSymbols}");
+                Console.WriteLine($"LastFilePath: {appState.LastFilePath}");
+                Console.WriteLine($"LastDate: {appState.LastDate}");
+                Console.WriteLine($"LastKey: {appState.LastKey}");
+                throw new Exception("Перевищено ліміт символів для перекладу. Будь ласка, продовжіть роботу з останнього збереженого стану.");
+            }
+
+            if (appState.CurrentSymbols > 500000)
+            {
+                appState.CurrentSymbols = 0;
+            }
+
+            var result = LocPakFile.SyncFromNewestDataAndTranslate(Path.Combine(AppContext.BaseDirectory, "newestdata"), Path.Combine(AppContext.BaseDirectory, "data"));
+            Console.WriteLine($"Result of translation: {JsonConvert.SerializeObject(result)}");
+            if (result.WasError)
+            {
+                throw new Exception("Сталася помилка під час синхронізації та перекладу файлів .locPak. Будь ласка, перевірте журнали для отримання додаткової інформації.");
+            }
+
+            LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"), "en-EN");
+            LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-pl"), "pl-PL");
+            LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-ru"), "ru-RU");
+            LayoutFile.UpdateLocPakSizes(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"));
+            LayoutFile.UpdateLocPakSizes(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-pl"));
+            LayoutFile.UpdateLocPakSizes(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-ru"));
+        }
+
+        public static string TranslateText(string text, string file, string key)
+        {
+            if (string.IsNullOrWhiteSpace(text.Trim()) || !containsCyrillic(text))
             {
                 return text;
             }
@@ -31,7 +63,7 @@ namespace MSFS2024Ukr
 
             if (appState.CurrentSymbols > 500000)
             {
-                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = GetUkrainianTime() }).Wait();
+                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = GetUkrainianTime(), LastKey = key }).Wait();
                 throw new Exception();
             }
 
@@ -47,7 +79,7 @@ namespace MSFS2024Ukr
             }
             catch (Exception)
             {
-                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = GetUkrainianTime() }).Wait();
+                appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = GetUkrainianTime(), LastKey = key }).Wait();
                 throw;
             }
         }
@@ -92,7 +124,7 @@ namespace MSFS2024Ukr
                 }
                 lastKey = item.Key;
                 Console.WriteLine($"Total length of all strings: {sum}");
-                locPak.LocalisationPackage.Strings[item.Key] = TranslateText(item.Value, filePath);
+                locPak.LocalisationPackage.Strings[item.Key] = TranslateText(item.Value, filePath, item.Key);
             }
 
             Console.WriteLine($"lastKey: {lastKey}");
