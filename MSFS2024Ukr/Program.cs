@@ -19,30 +19,34 @@ namespace MSFS2024Ukr
             Console.WriteLine($"API key configured: {!string.IsNullOrWhiteSpace(apiKey)}");
             Console.WriteLine($"API key length: {apiKey?.Length ?? 0}");
             Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
+            ContnueWork();
             // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
         }
 
         private static void ContnueWork()
         {
-            if (appState.CurrentSymbols >= 500000 && appState.LastDate.Month == GetUkrainianTime().Month)
+            if (false)
             {
-                Console.WriteLine($"CurrentSymbols: {appState.CurrentSymbols}");
-                Console.WriteLine($"LastFilePath: {appState.LastFilePath}");
-                Console.WriteLine($"LastDate: {appState.LastDate}");
-                Console.WriteLine($"LastKey: {appState.LastKey}");
-                throw new Exception("Перевищено ліміт символів для перекладу. Будь ласка, продовжіть роботу з останнього збереженого стану.");
-            }
+                if (appState.CurrentSymbols >= 500000 && appState.LastDate.Month == GetUkrainianTime().Month)
+                {
+                    Console.WriteLine($"CurrentSymbols: {appState.CurrentSymbols}");
+                    Console.WriteLine($"LastFilePath: {appState.LastFilePath}");
+                    Console.WriteLine($"LastDate: {appState.LastDate}");
+                    Console.WriteLine($"LastKey: {appState.LastKey}");
+                    throw new Exception("Перевищено ліміт символів для перекладу. Будь ласка, продовжіть роботу з останнього збереженого стану.");
+                }
 
-            if (appState.CurrentSymbols > 500000)
-            {
-                appState.CurrentSymbols = 0;
-            }
+                if (appState.CurrentSymbols > 500000)
+                {
+                    appState.CurrentSymbols = 0;
+                }
 
-            var result = LocPakFile.SyncFromNewestDataAndTranslate(Path.Combine(AppContext.BaseDirectory, "newestdata"), Path.Combine(AppContext.BaseDirectory, "data"));
-            Console.WriteLine($"Result of translation: {JsonConvert.SerializeObject(result)}");
-            if (result.WasError)
-            {
-                throw new Exception("Сталася помилка під час синхронізації та перекладу файлів .locPak. Будь ласка, перевірте журнали для отримання додаткової інформації.");
+                var result = LocPakFile.SyncFromNewestDataAndTranslate(Path.Combine(AppContext.BaseDirectory, "newestdata"), Path.Combine(AppContext.BaseDirectory, "data"));
+                Console.WriteLine($"Result of translation: {JsonConvert.SerializeObject(result)}");
+                if (result.WasError)
+                {
+                    throw new Exception("Сталася помилка під час синхронізації та перекладу файлів .locPak. Будь ласка, перевірте журнали для отримання додаткової інформації.");
+                }
             }
 
             LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"), "en-EN");
