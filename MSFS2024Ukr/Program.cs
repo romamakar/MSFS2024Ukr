@@ -23,7 +23,7 @@ namespace MSFS2024Ukr
         {
             if (string.IsNullOrEmpty(text.Trim()) || !containsCyrillic(text))
             {
-                return text;
+                return text; 
             }
             appState.CurrentSymbols += text.Length;
 
