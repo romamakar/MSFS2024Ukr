@@ -122,7 +122,7 @@ namespace MSFS2024Ukr
                 var locPak = Read(newFile);
                 foreach (var key in locPak.LocalisationPackage.Strings.Keys.ToList())
                 {
-                    locPak.LocalisationPackage.Strings[key] = Program.TranslateText(locPak.LocalisationPackage.Strings[key]);
+                    locPak.LocalisationPackage.Strings[key] = Program.TranslateText(locPak.LocalisationPackage.Strings[key], newFile);
                 }
                 locPak.Write(newFile);
             }
@@ -134,7 +134,7 @@ namespace MSFS2024Ukr
         {
             return Directory
                 .EnumerateFiles(rootFolder, "*", SearchOption.AllDirectories)
-                .Where(path => string.Equals(Path.GetExtension(path), ".locPak", StringComparison.OrdinalIgnoreCase));
+                .Where(path => string.Equals(Path.GetExtension(path), ".locPak", StringComparison.OrdinalIgnoreCase)).OrderBy(path => path);
         }
     }
 
