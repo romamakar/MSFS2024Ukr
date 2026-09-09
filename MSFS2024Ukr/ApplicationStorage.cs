@@ -2,7 +2,7 @@
 
 namespace MSFS2024Ukr
 {
-    public  class AppStateStorage
+    public class AppStateStorage
     {
         private readonly string _filePath;
 
