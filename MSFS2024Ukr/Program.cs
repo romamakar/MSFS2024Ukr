@@ -9,7 +9,7 @@ namespace MSFS2024Ukr
         static AppState appState = appStateStorage.LoadAsync().Result;
         static string apiKey = Environment.GetEnvironmentVariable("GOOGLE_API_KEY");
         // Створюємо клієнт для Google Translation API
-        static TranslationClient client = TranslationClient.CreateFromApiKey(apiKey);
+        static TranslationClient client = null;
         static void Main(string[] args)
         {
             appState.LastDate = DateTime.Now;
@@ -24,7 +24,7 @@ namespace MSFS2024Ukr
             {
                 Console.WriteLine(file);
             }
-           // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
+            // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
         }
 
         public static string TranslateText(string text, string file)
@@ -43,6 +43,10 @@ namespace MSFS2024Ukr
 
             try
             {
+                if (client == null)
+                {
+                    client = TranslationClient.CreateFromApiKey(apiKey);
+                }
                 string val = client.TranslateText(text, "uk", sourceLanguage: "ru", model: TranslationModel.ServiceDefault).TranslatedText;
                 val = val.Replace("«", "\"").Replace("»", "\"");
                 return val;
