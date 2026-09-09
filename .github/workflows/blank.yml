@@ -42,10 +42,12 @@ jobs:
         run: .\MSFS2024Ukr\bin\Release\net8.0\MSFS2024Ukr.exe
         shell: powershell
 
-      - name: Copy an entire directory recursively
+      - name: Refresh state
         run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\app.json ..\\MSFS2024Ukr\MSFS2024Ukr\state\app.json
-      - name: Copy an entire directory recursively
-        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\data\* ..\\MSFS2024Ukr\MSFS2024Ukr\data\
+      
+      - name: Refresh data directory recursively
+        run: Copy-Item ".\MSFS2024Ukr\bin\Release\net8.0\data\*" "..\MSFS2024Ukr\MSFS2024Ukr\data\" -Recurse -Force
+        shell: powershell
 
       - name: Zip MSFS2024ukr-en folder
         shell: pwsh
