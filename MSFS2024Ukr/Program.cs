@@ -15,6 +15,7 @@ namespace MSFS2024Ukr
             appState.LastDate = DateTime.Now;
             appStateStorage.SaveAsync(appState).Wait();
             Console.WriteLine($"apiKey: {apiKey}");
+            Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
 
             var files = Directory
                   .EnumerateFiles(AppContext.BaseDirectory, "*", SearchOption.AllDirectories)
