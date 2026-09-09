@@ -5,14 +5,24 @@ namespace MSFS2024Ukr
 {
     internal class Program
     {
-        static AppStateStorage appStateStorage = new AppStateStorage("state//app.json");
+        static AppStateStorage appStateStorage = new AppStateStorage(Path.Combine(AppContext.BaseDirectory, "state", "app.json"));
         static AppState appState = appStateStorage.LoadAsync().Result;
         static string apiKey = Environment.GetEnvironmentVariable("GOOGLE_API_KEY");
         // Створюємо клієнт для Google Translation API
         static TranslationClient client = TranslationClient.CreateFromApiKey(apiKey);
         static void Main(string[] args)
         {
-            allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
+            Console.WriteLine($"apiKey: {apiKey}");
+
+            var files = Directory
+                  .EnumerateFiles(AppContext.BaseDirectory, "*", SearchOption.AllDirectories)
+                  .Where(path => string.Equals(Path.GetExtension(path), ".*", StringComparison.OrdinalIgnoreCase));
+
+            foreach (var file in files)
+            {
+                Console.WriteLine(file);
+            }
+           // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
         }
 
         public static string TranslateText(string text, string file)
