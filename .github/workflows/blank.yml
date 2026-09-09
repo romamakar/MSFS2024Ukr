@@ -1,0 +1,53 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'state/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: my-app
+  cancel-in-progress: false
+
+jobs:
+  run:
+    if: github.actor != 'github-actions[bot]'
+
+    runs-on: windows-2022
+
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build the project
+        run: dotnet build --configuration Release
+
+      - name: Run the program
+        run: .\MSFS2024Ukr\bin\Release\net8.0\ZipBuilder.exe
+        shell: powershell
+      # запуск програми
+
+      - name: Save state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add state/
+
+          git diff --cached --quiet || git commit -m "Update application state"
+
+          git push
