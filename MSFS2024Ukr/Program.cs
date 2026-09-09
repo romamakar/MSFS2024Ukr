@@ -14,7 +14,9 @@ namespace MSFS2024Ukr
         {
             appState.LastDate = DateTime.Now;
             appStateStorage.SaveAsync(appState).Wait();
-            Console.WriteLine($"apiKey: {Environment.GetEnvironmentVariable("GOOGLE_API_KEY")}");
+            Console.WriteLine($"apiKey: {apiKey}");
+            Console.WriteLine($"API key configured: {!string.IsNullOrWhiteSpace(apiKey)}");
+            Console.WriteLine($"API key length: {apiKey?.Length ?? 0}");
             Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
             // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
         }
@@ -23,7 +25,7 @@ namespace MSFS2024Ukr
         {
             if (string.IsNullOrEmpty(text.Trim()) || !containsCyrillic(text))
             {
-                return text; 
+                return text;
             }
             appState.CurrentSymbols += text.Length;
 
