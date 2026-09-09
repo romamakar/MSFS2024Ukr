@@ -45,7 +45,9 @@ jobs:
         shell: pwsh
         run: Get-ChildItem -Recurse -Path MSFS2024Ukr\bin\Release\net8.0
 
-      
+      - name: View text file
+        shell: pwsh
+        run: Get-Content D:\a\MSFS2024Ukr\MSFS2024Ukr\MSFS2024Ukr\bin\Release\net8.0\newestdata\Content\Packages\asobo-activities-aerialadvertising-example\ru-RU.locPak
       - name: Copy an entire directory recursively
         run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\app.json ..\\MSFS2024Ukr\MSFS2024Ukr\state\app.json
 
