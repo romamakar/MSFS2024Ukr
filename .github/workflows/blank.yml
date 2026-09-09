@@ -47,7 +47,7 @@ jobs:
 
       
       - name: Copy an entire directory recursively
-        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\* ..\\MSFS2024Ukr\state\*
+        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\* ..\\MSFS2024Ukr\MSFS2024Ukr\state\*
 
       - name: Save state
         run: |
