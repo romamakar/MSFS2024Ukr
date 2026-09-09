@@ -1,0 +1,224 @@
+{
+  "content": [
+    {
+      "path": "bglindex.bout",
+      "size": 677,
+      "date": 132410218230017058
+    },
+    {
+      "path": "contentinfo/asobo-liveevent/contenthistory.json",
+      "size": 150,
+      "date": 133187011680000000
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 1252,
+      "date": 133912584070000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 1132,
+      "date": 133912584070000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 1277,
+      "date": 133912584070000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 1300,
+      "date": 133912584070000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 1211,
+      "date": 133912584070000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 1225,
+      "date": 133912584070000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 1208,
+      "date": 133912584070000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 1325,
+      "date": 133912584070000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 1289,
+      "date": 133912584070000000
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/library.xml",
+      "size": 4983,
+      "date": 132410197970000004
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/black_4x4.png.ktx2",
+      "size": 464,
+      "date": 132410117160000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/black_4x4.png.ktx2.flags",
+      "size": 39,
+      "date": 132410117160000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/black_4x4.png.ktx2.json",
+      "size": 199,
+      "date": 132410117160000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/smile.png.ktx2",
+      "size": 1398736,
+      "date": 132404247490000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/smile.png.ktx2.flags",
+      "size": 39,
+      "date": 132404247490000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/smile.png.ktx2.json",
+      "size": 238,
+      "date": 132404247490000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/yellow_4x4.png.ktx2",
+      "size": 464,
+      "date": 132410117340000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/yellow_4x4.png.ktx2.flags",
+      "size": 39,
+      "date": 132410117340000007
+    },
+    {
+      "path": "materiallibs/liveevent_materiallib/textures/yellow_4x4.png.ktx2.json",
+      "size": 204,
+      "date": 132410117340000007
+    },
+    {
+      "path": "missions/asobo/liveevent/asobo_liveevent.pc.pck",
+      "size": 8768845,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/images/activity_widget.jpg",
+      "size": 400042,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/images/liveevent_briefing.jpg",
+      "size": 4725168,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/images/liveevent_loading.jpg",
+      "size": 1823448,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/images/rewardscreen.jpg",
+      "size": 3923460,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/liveevent.flt",
+      "size": 4770,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/liveevent.pln",
+      "size": 2452,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/liveevent.spb",
+      "size": 41110,
+      "date": 133543871410000002
+    },
+    {
+      "path": "missions/asobo/liveevent/liveevent_edition.spb",
+      "size": 5523,
+      "date": 133543871410000002
+    },
+    {
+      "path": "missions/asobo/liveevent/overview.htm",
+      "size": 1140,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/sound/liveevent_halloween_staticradio.wav",
+      "size": 466326,
+      "date": 133196342190000000
+    },
+    {
+      "path": "missions/asobo/liveevent/weather.wpr",
+      "size": 2690,
+      "date": 133196342190000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 1139,
+      "date": 133912584070000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 1221,
+      "date": 133912584070000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 1247,
+      "date": 133912584070000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 1181,
+      "date": 133912584070000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 1197,
+      "date": 133912584070000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 1818,
+      "date": 133912584070000000
+    },
+    {
+      "path": "scenery/live_event.bgl",
+      "size": 2237,
+      "date": 132410218220000000
+    },
+    {
+      "path": "scenery/liveevent_thankyou_2020_launch.bgl",
+      "size": 184,
+      "date": 132410218230000006
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 1180,
+      "date": 133912584070000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 1258,
+      "date": 133912584070000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 1034,
+      "date": 133912584070000000
+    }
+  ]
+}

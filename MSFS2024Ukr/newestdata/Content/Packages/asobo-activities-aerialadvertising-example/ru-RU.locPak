@@ -1,0 +1,9 @@
+{
+  "LocalisationPackage": {
+    "Language": "ru-RU",
+    "Strings": {
+      "AerialAdvertising.Waypoint.EndPass": "Конец пролета",
+      "AerialAdvertising.Waypoint.StartPass": "Начало пролета"
+    }
+  }
+}

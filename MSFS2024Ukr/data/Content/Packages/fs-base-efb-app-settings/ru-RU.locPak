@@ -1,0 +1,25 @@
+{
+  "LocalisationPackage": {
+    "Language": "ru-RU",
+    "Strings": {
+      "EFB.COMMON.BACK": "Назад",
+      "EFB.SETTINGS.ADD_FAVORITE": "в избранное",
+      "EFB.SETTINGS.AUTO_BRIGHTNESS": "автояркость",
+      "EFB.SETTINGS.BRIGHTNESS": "яркость",
+      "EFB.SETTINGS.DEFAULT_APP_LAUNCHED": "запущено приложение по умолчанию",
+      "EFB.SETTINGS.FAVORITES": "Избранное",
+      "EFB.SETTINGS.FAVORITES_BAR": "панель «избранное»",
+      "EFB.SETTINGS.HEIGHT": "высота",
+      "EFB.SETTINGS.HORIZONTAL": "ось X",
+      "EFB.SETTINGS.PRESSURE": "Pressure",
+      "EFB.SETTINGS.SPEED": "скорость",
+      "EFB.SETTINGS.TABLET_ORIENTATION": "ориентация планшета",
+      "EFB.SETTINGS.TABLET_SIZE": "размер планета",
+      "EFB.SETTINGS.TEMPERATURE": "температура",
+      "EFB.SETTINGS.UNIT_OF_MEASURE": "единица измерения",
+      "EFB.SETTINGS.VERTICAL": "ось Y",
+      "EFB.SETTINGS.VOLUME": "объем",
+      "EFB.SETTINGS.WEIGHT": "вес"
+    }
+  }
+}

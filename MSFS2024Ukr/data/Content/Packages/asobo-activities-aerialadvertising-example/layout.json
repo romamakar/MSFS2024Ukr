@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "path": "de-de.locpak",
+      "size": 219,
+      "date": 133843677300000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 198,
+      "date": 133843677300000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 207,
+      "date": 133843677300000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 207,
+      "date": 133843677300000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 209,
+      "date": 133843677300000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 212,
+      "date": 133843677300000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 218,
+      "date": 133843677300000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 204,
+      "date": 133843677300000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 206,
+      "date": 133843677300000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 218,
+      "date": 133843677300000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 206,
+      "date": 133843677300000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 229,
+      "date": 133843677300000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 208,
+      "date": 133843677300000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 214,
+      "date": 133843677300000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 232,
+      "date": 133843677300000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 209,
+      "date": 133843677300000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 216,
+      "date": 133843677300000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 204,
+      "date": 133843677300000000
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "content": [
+    {
+      "path": "de-de.locpak",
+      "size": 12203,
+      "date": 134109735740000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 11294,
+      "date": 134109735740000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 12473,
+      "date": 134109735740000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 12458,
+      "date": 134109735740000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 11815,
+      "date": 134109735740000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 12209,
+      "date": 134109735740000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/aircraftapp.css",
+      "size": 197595,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/aircraftapp.js",
+      "size": 967372,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/add.svg",
+      "size": 336,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/aircraft.svg",
+      "size": 748,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/aircraftvertical.svg",
+      "size": 734,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/altitude.svg",
+      "size": 398,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/arrow.svg",
+      "size": 246,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/atc.svg",
+      "size": 558,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/check.svg",
+      "size": 260,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/checklists_conditions.svg",
+      "size": 1471,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/close.svg",
+      "size": 331,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/environmentgearicon.svg",
+      "size": 1749,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/glossary.svg",
+      "size": 1761,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/info.svg",
+      "size": 540,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/loading.svg",
+      "size": 25523,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/lock.svg",
+      "size": 630,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/notes.svg",
+      "size": 977,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/remove.svg",
+      "size": 442,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/replaced.svg",
+      "size": 497,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/settings.svg",
+      "size": 1010,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/snow.svg",
+      "size": 783,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/view.svg",
+      "size": 466,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/warning.svg",
+      "size": 346,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/water.svg",
+      "size": 700,
+      "date": 134321237170000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/aircraftapp/assets/icons/weightandbalancegearicon.svg",
+      "size": 1838,
+      "date": 134321237170000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 12238,
+      "date": 134109735740000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 12477,
+      "date": 134109735740000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 11892,
+      "date": 134109735740000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 11399,
+      "date": 134109735740000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 11654,
+      "date": 134109735740000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 12305,
+      "date": 134109735740000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 12085,
+      "date": 134109735740000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 12197,
+      "date": 134109735740000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 16191,
+      "date": 134109735740000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 11573,
+      "date": 134109735740000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 11889,
+      "date": 134109735740000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 10607,
+      "date": 134109735740000000
+    }
+  ]
+}

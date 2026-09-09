@@ -1,0 +1,1139 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/microsoft-flight-tutorials-ifrnav-ifrchallenge/contenthistory.json",
+      "size": 219,
+      "date": 133431395940000000
+    },
+    {
+      "path": "contentinfo/microsoft-flight-tutorials-ifrnav-ifrchallenge/thumbnail.jpg",
+      "size": 28461,
+      "date": 132804270000000000
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 7708,
+      "date": 134108894580000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 7136,
+      "date": 134108894580000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 7606,
+      "date": 134108894580000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 7601,
+      "date": 134108894580000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 7365,
+      "date": 134108894580000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 7450,
+      "date": 134108894580000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 7321,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 8276,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 7742,
+      "date": 134108894580000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/07_ifrchallenge.flt",
+      "size": 18115,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/customflight.pln",
+      "size": 1864,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/ifrchallenge.spb",
+      "size": 149663,
+      "date": 133008826050000002
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/ifrchallenge_edition.spb",
+      "size": 22765,
+      "date": 133008826050000002
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/images/activity_widget.jpg",
+      "size": 120180,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/images/briefing.jpg",
+      "size": 6272645,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/images/ifr_challenge/ifr_challenge.js",
+      "size": 409,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/images/ifr_challenge/ifr_challenge.uxml",
+      "size": 426,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/images/loading_screen.jpg",
+      "size": 627848,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/images/rewardscreen.jpg",
+      "size": 11152479,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_autopilot_fail.wav",
+      "size": 227534,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_autopilot_fail_male.wav",
+      "size": 264066,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_autopilot_reminder.wav",
+      "size": 307300,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_autopilot_reminder_male.wav",
+      "size": 351654,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_descend3500ft.wav",
+      "size": 855034,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_descend3500ft_male.wav",
+      "size": 936024,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_followgps_reminder.wav",
+      "size": 206928,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_followgps_reminder_male.wav",
+      "size": 232238,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_hdg060.wav",
+      "size": 656516,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_hdg060_male.wav",
+      "size": 701748,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_hdg225.wav",
+      "size": 746778,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_hdg225_male.wav",
+      "size": 787118,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_hdg225_reminder.wav",
+      "size": 291920,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_hdg225_reminder_male.wav",
+      "size": 289002,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro1.wav",
+      "size": 318396,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro1_male.wav",
+      "size": 336118,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro2.wav",
+      "size": 452750,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro2_male.wav",
+      "size": 495058,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro3.wav",
+      "size": 608356,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro3_male.wav",
+      "size": 637764,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro4.wav",
+      "size": 768104,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_intro4_male.wav",
+      "size": 801426,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain110kts_reminder.wav",
+      "size": 358906,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain110kts_reminder_male.wav",
+      "size": 391094,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain3500ft_reminder.wav",
+      "size": 282820,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain3500ft_reminder_male.wav",
+      "size": 305992,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain5000ft_fail.wav",
+      "size": 236070,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain5000ft_fail_male.wav",
+      "size": 272846,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain5000ft_reminder.wav",
+      "size": 284284,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintain5000ft_reminder_male.wav",
+      "size": 322364,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintainhdg060_reminder.wav",
+      "size": 273374,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_maintainhdg060_reminder_male.wav",
+      "size": 307518,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_outro1.wav",
+      "size": 281814,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_outro1_male.wav",
+      "size": 292230,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_outro2.wav",
+      "size": 604222,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_outro2_male.wav",
+      "size": 611790,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_outro3.wav",
+      "size": 639412,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_outro3_male.wav",
+      "size": 676704,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_reach110kts.wav",
+      "size": 319264,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_reach110kts_male.wav",
+      "size": 340440,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_reach110kts_reminder.wav",
+      "size": 371114,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_reach110kts_reminder_male.wav",
+      "size": 377724,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_reach70kts_reminder.wav",
+      "size": 313722,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_reach70kts_reminder_male.wav",
+      "size": 334080,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_slowto70kts1.wav",
+      "size": 271246,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_slowto70kts1_male.wav",
+      "size": 284370,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_slowto70kts2.wav",
+      "size": 311882,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/de-de/ifrchallenge_dlg_slowto70kts2_male.wav",
+      "size": 318866,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_autopilot_fail.wav",
+      "size": 204684,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_autopilot_fail_male.wav",
+      "size": 204654,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_autopilot_reminder.wav",
+      "size": 246220,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_autopilot_reminder_alt01_male.wav",
+      "size": 253318,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_autopilot_reminder_male.wav",
+      "size": 244280,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_descend3500ft.wav",
+      "size": 753112,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_descend3500ft_alt01_male.wav",
+      "size": 823144,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_descend3500ft_male.wav",
+      "size": 793044,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_followgps_reminder.wav",
+      "size": 198604,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_followgps_reminder_male.wav",
+      "size": 202380,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_hdg060.wav",
+      "size": 623166,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_hdg060_male.wav",
+      "size": 566244,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_hdg225.wav",
+      "size": 718772,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_hdg225_male.wav",
+      "size": 769094,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_hdg225_reminder.wav",
+      "size": 220940,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_hdg225_reminder_male.wav",
+      "size": 187934,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro1.wav",
+      "size": 261130,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro1_male.wav",
+      "size": 309844,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro2.wav",
+      "size": 385164,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro2_male.wav",
+      "size": 383344,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro3.wav",
+      "size": 419374,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro3_male.wav",
+      "size": 452344,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro4.wav",
+      "size": 678080,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_intro4_male.wav",
+      "size": 731544,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain110kts_reminder.wav",
+      "size": 260812,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain110kts_reminder_male.wav",
+      "size": 318402,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain3500ft_reminder.wav",
+      "size": 224460,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain3500ft_reminder_male.wav",
+      "size": 227772,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain5000ft_fail.wav",
+      "size": 218828,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain5000ft_fail_male.wav",
+      "size": 227776,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain5000ft_reminder.wav",
+      "size": 269644,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintain5000ft_reminder_male.wav",
+      "size": 291882,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintainhdg060_reminder.wav",
+      "size": 208204,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_maintainhdg060_reminder_male.wav",
+      "size": 232376,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_outro1.wav",
+      "size": 261066,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_outro1_alt01.wav",
+      "size": 241142,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_outro1_male.wav",
+      "size": 275146,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_outro2.wav",
+      "size": 569984,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_outro2_male.wav",
+      "size": 535770,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_outro3.wav",
+      "size": 499916,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_outro3_male.wav",
+      "size": 493394,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_reach110kts.wav",
+      "size": 272824,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_reach110kts_male.wav",
+      "size": 283544,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_reach110kts_reminder.wav",
+      "size": 291276,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_reach110kts_reminder_male.wav",
+      "size": 317582,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_reach70kts_reminder.wav",
+      "size": 248268,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_reach70kts_reminder_male.wav",
+      "size": 267400,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_slowto70kts1.wav",
+      "size": 256302,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_slowto70kts1_male.wav",
+      "size": 249344,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_slowto70kts2.wav",
+      "size": 239382,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/en-us/ifrchallenge_dlg_slowto70kts2_male.wav",
+      "size": 217744,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_autopilot_fail.wav",
+      "size": 189376,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_autopilot_fail_male.wav",
+      "size": 182394,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_autopilot_reminder.wav",
+      "size": 263766,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_autopilot_reminder_male.wav",
+      "size": 223512,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_descend3500ft.wav",
+      "size": 601208,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_descend3500ft_male.wav",
+      "size": 569524,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_followgps_reminder.wav",
+      "size": 216906,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_followgps_reminder_male.wav",
+      "size": 201726,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_hdg060.wav",
+      "size": 563826,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_hdg060_male.wav",
+      "size": 514590,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_hdg225.wav",
+      "size": 692054,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_hdg225_male.wav",
+      "size": 632154,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_hdg225_reminder.wav",
+      "size": 200480,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_hdg225_reminder_male.wav",
+      "size": 166510,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro1.wav",
+      "size": 305246,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro1_male.wav",
+      "size": 277720,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro2.wav",
+      "size": 468876,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro2_male.wav",
+      "size": 429764,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro3.wav",
+      "size": 485374,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro3_male.wav",
+      "size": 446068,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro4.wav",
+      "size": 637682,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_intro4_male.wav",
+      "size": 561422,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain110kts_reminder.wav",
+      "size": 247232,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain110kts_reminder_male.wav",
+      "size": 235722,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain3500ft_reminder.wav",
+      "size": 209578,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain3500ft_reminder_male.wav",
+      "size": 184746,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain5000ft_fail.wav",
+      "size": 246006,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain5000ft_fail_male.wav",
+      "size": 202958,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain5000ft_reminder.wav",
+      "size": 270054,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintain5000ft_reminder_male.wav",
+      "size": 247378,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintainhdg060_reminder.wav",
+      "size": 170762,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_maintainhdg060_reminder_male.wav",
+      "size": 141996,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_outro1.wav",
+      "size": 233624,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_outro1_male.wav",
+      "size": 201216,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_outro2.wav",
+      "size": 467814,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_outro2_male.wav",
+      "size": 479524,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_outro3.wav",
+      "size": 551914,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_outro3_male.wav",
+      "size": 492342,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_reach110kts.wav",
+      "size": 287600,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_reach110kts_male.wav",
+      "size": 222636,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_reach110kts_reminder.wav",
+      "size": 248570,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_reach110kts_reminder_male.wav",
+      "size": 226894,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_reach70kts_reminder.wav",
+      "size": 275850,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_reach70kts_reminder_male.wav",
+      "size": 258668,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_slowto70kts1.wav",
+      "size": 241562,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_slowto70kts1_male.wav",
+      "size": 214344,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_slowto70kts2.wav",
+      "size": 243966,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/fr-fr/ifrchallenge_dlg_slowto70kts2_male.wav",
+      "size": 228112,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_autopilot_fail.wav",
+      "size": 200446,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_autopilot_fail_male.wav",
+      "size": 191860,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_autopilot_reminder.wav",
+      "size": 317182,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_autopilot_reminder_male.wav",
+      "size": 280052,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_descend3500ft.wav",
+      "size": 812438,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_descend3500ft_male.wav",
+      "size": 821592,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_followgps_reminder.wav",
+      "size": 260936,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_followgps_reminder_male.wav",
+      "size": 253498,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_hdg060.wav",
+      "size": 691106,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_hdg060_male.wav",
+      "size": 728846,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_hdg225.wav",
+      "size": 662190,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_hdg225_male.wav",
+      "size": 696294,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_hdg225_reminder.wav",
+      "size": 234872,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_hdg225_reminder_male.wav",
+      "size": 222290,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro1.wav",
+      "size": 314242,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro1_male.wav",
+      "size": 327358,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro2.wav",
+      "size": 461742,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro2_male.wav",
+      "size": 490682,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro3.wav",
+      "size": 520684,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro3_male.wav",
+      "size": 543334,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro4.wav",
+      "size": 592560,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_intro4_male.wav",
+      "size": 684816,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain110kts_reminder.wav",
+      "size": 293692,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain110kts_reminder_male.wav",
+      "size": 346508,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain3500ft_reminder.wav",
+      "size": 223608,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain3500ft_reminder_male.wav",
+      "size": 205150,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain5000ft_fail.wav",
+      "size": 248368,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain5000ft_fail_male.wav",
+      "size": 266332,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain5000ft_reminder.wav",
+      "size": 281250,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintain5000ft_reminder_male.wav",
+      "size": 302106,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintainhdg060_reminder.wav",
+      "size": 258844,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_maintainhdg060_reminder_male.wav",
+      "size": 231276,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_outro1.wav",
+      "size": 309746,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_outro1_male.wav",
+      "size": 276708,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_outro2.wav",
+      "size": 630258,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_outro2_male.wav",
+      "size": 546992,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_outro3.wav",
+      "size": 539932,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_outro3_male.wav",
+      "size": 482216,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_reach110kts.wav",
+      "size": 276438,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_reach110kts_male.wav",
+      "size": 299680,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_reach110kts_reminder.wav",
+      "size": 308208,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_reach110kts_reminder_male.wav",
+      "size": 315724,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_reach70kts_reminder.wav",
+      "size": 292906,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_reach70kts_reminder_male.wav",
+      "size": 289896,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_slowto70kts1.wav",
+      "size": 275494,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_slowto70kts1_male.wav",
+      "size": 301648,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_slowto70kts2.wav",
+      "size": 242746,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/sound/pt-br/ifrchallenge_dlg_slowto70kts2_male.wav",
+      "size": 248666,
+      "date": 134200498300000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/7-ifrchallenge/weather.wpr",
+      "size": 2589,
+      "date": 134200498300000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 6558,
+      "date": 134108894580000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 7726,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 7289,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 7390,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 7335,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 10624,
+      "date": 134108894580000000
+    },
+    {
+      "path": "stringsspeakers.spk",
+      "size": 8409,
+      "date": 134108894580000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 6958,
+      "date": 134108894580000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 7583,
+      "date": 134108894580000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 6781,
+      "date": 134108894580000000
+    }
+  ]
+}

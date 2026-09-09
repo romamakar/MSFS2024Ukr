@@ -1,0 +1,178 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/fcr-embedded/thumbnail.jpg",
+      "size": 22415,
+      "date": 133726826610000000,
+      "hash": 5908951692724218943
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 2261,
+      "date": 133755505520000000,
+      "hash": 18222986694817452867
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 2096,
+      "date": 133755505520000000,
+      "hash": 6402633787113551143
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 2435,
+      "date": 133755505520000000,
+      "hash": 11251314594261673762
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 2413,
+      "date": 133755505520000000,
+      "hash": 16096586457672742160
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 2206,
+      "date": 133755505520000000,
+      "hash": 15520332870159876153
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 2418,
+      "date": 133755505520000000,
+      "hash": 9145279331404404643
+    },
+    {
+      "path": "html_ui/fcr-embedded/css/mainpanel.css",
+      "size": 892632,
+      "date": 133944711040000000,
+      "hash": 14109139158733906492
+    },
+    {
+      "path": "html_ui/fcr-embedded/js/mainpanel.bundle.js",
+      "size": 116486,
+      "date": 133944711040000000,
+      "hash": 4824692052964818996
+    },
+    {
+      "path": "html_ui/fcr-embedded/js/runtime.bundle.js",
+      "size": 5951,
+      "date": 133944711040000000,
+      "hash": 6280278426507411207
+    },
+    {
+      "path": "html_ui/fcr-embedded/mainpanel.html",
+      "size": 718,
+      "date": 133944711040000000,
+      "hash": 9150752077681414270
+    },
+    {
+      "path": "html_ui/icons/toolbar/icon_toolbar_directreplay.svg",
+      "size": 1860,
+      "date": 133944711040000000,
+      "hash": 14295247292160174194
+    },
+    {
+      "path": "html_ui/ingamepanels/fcr-embedded/main.css",
+      "size": 1695,
+      "date": 133944711040000000,
+      "hash": 11558827566440653828
+    },
+    {
+      "path": "html_ui/ingamepanels/fcr-embedded/main.html",
+      "size": 1670,
+      "date": 133944711040000000,
+      "hash": 12556473556683154821
+    },
+    {
+      "path": "html_ui/ingamepanels/fcr-embedded/main.js",
+      "size": 502,
+      "date": 133944711040000000,
+      "hash": 2829550701624774700
+    },
+    {
+      "path": "ingamepanels/fcr-embedded-panel.spb",
+      "size": 687,
+      "date": 133846053320000001,
+      "hash": 7101413443718517843
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 2400,
+      "date": 133755505520000000,
+      "hash": 182501895524178658
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 2467,
+      "date": 133755505520000000,
+      "hash": 10024715515592230397
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 2350,
+      "date": 133755505520000000,
+      "hash": 3783004219791001149
+    },
+    {
+      "path": "modules/fcr_embedded_system.wasm",
+      "size": 2653702,
+      "date": 133944710170000000,
+      "hash": 7793728783416814801
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 2182,
+      "date": 133755505520000000,
+      "hash": 10685893531903147297
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 2270,
+      "date": 133755505520000000,
+      "hash": 16825022967050131412
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 2286,
+      "date": 133755505520000000,
+      "hash": 1208005701273699287
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 2352,
+      "date": 133755505520000000,
+      "hash": 15681992782097589705
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 2365,
+      "date": 133755505520000000,
+      "hash": 15109886476592060736
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 2990,
+      "date": 133755505520000000,
+      "hash": 17461029652095266360
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 2236,
+      "date": 133755505520000000,
+      "hash": 1259573592720297349
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 2361,
+      "date": 133755505520000000,
+      "hash": 17530071736736679521
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 2125,
+      "date": 133755505520000000,
+      "hash": 2650919071981944374
+    }
+  ]
+}

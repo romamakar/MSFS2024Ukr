@@ -1,0 +1,514 @@
+{
+  "content": [
+    {
+      "path": "assistancepresets/presetsglobal/preset_global-darkstar.spb",
+      "size": 1301,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetsglobal/preset_global-lowalt.spb",
+      "size": 1281,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetsglobal/preset_global-tutorial_f18.spb",
+      "size": 1306,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-aircraft_systems-darkstar.spb",
+      "size": 659,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-aircraft_systems-lowalt.spb",
+      "size": 653,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-failure_and_damages-darkstar.spb",
+      "size": 664,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-failure_and_damages-lowalt.spb",
+      "size": 658,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-navigation_aids-darkstar.spb",
+      "size": 657,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-navigation_aids-lowalt.spb",
+      "size": 651,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-notification-darkstar.spb",
+      "size": 680,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-notification-lowalt.spb",
+      "size": 674,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-piloting-darkstar.spb",
+      "size": 728,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-piloting-tutorial_lowalt.spb",
+      "size": 751,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-poi-darkstar.spb",
+      "size": 690,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-poi-lowalt.spb",
+      "size": 684,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-user_experience-darkstar.spb",
+      "size": 790,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-user_experience-lowalt.spb",
+      "size": 812,
+      "date": 134152737160000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-user_experience-tutorial_f18.spb",
+      "size": 816,
+      "date": 134152737160000002
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 15795,
+      "date": 134109567140000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 13493,
+      "date": 134109567140000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 15301,
+      "date": 134109567140000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 15222,
+      "date": 134109567140000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 14067,
+      "date": 134109567140000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 15355,
+      "date": 134109567140000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 14603,
+      "date": 134109567140000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 16065,
+      "date": 134109567140000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 14207,
+      "date": 134109567140000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/backontrack/simstate.flt",
+      "size": 2769,
+      "date": 133691557490000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/eventtriggerslowaltitude.spb",
+      "size": 636,
+      "date": 134130317110000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/finishline.css",
+      "size": 755,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/finishline.html",
+      "size": 479,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/finishline.js",
+      "size": 1130,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/finishline.svg",
+      "size": 2097,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/lowalthudwaypoint/lowalthudwaypoint.d.ts",
+      "size": 571,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/lowalthudwaypoint/lowalthudwaypoint.js",
+      "size": 429,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/lowalthudwaypoint/lowalthudwaypoint.uxml",
+      "size": 4954,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/lowalthudwaypoint/wingsleft.svg",
+      "size": 659,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/lowalthudwaypoint/wingsright.svg",
+      "size": 542,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/lowalt_logic_flightpath.spb",
+      "size": 3195,
+      "date": 134130317110000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude.spb",
+      "size": 33446,
+      "date": 134130317110000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude_briefingdata.spb",
+      "size": 885,
+      "date": 134130317110000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude_edition.spb",
+      "size": 319,
+      "date": 134130317110000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude_logic_sound.spb",
+      "size": 666,
+      "date": 134130317110000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowaltghosthud/racelowaltghosthud.css",
+      "size": 1047,
+      "date": 132877513770000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowaltghosthud/racelowaltghosthud.html",
+      "size": 593,
+      "date": 132877513770000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowaltghosthud/racelowaltghosthud.js",
+      "size": 6480,
+      "date": 132877513770000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowaltghosthud/racelowaltghosthud.svg",
+      "size": 1595,
+      "date": 132877513770000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain.d.ts",
+      "size": 720,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/bevelscore_blue.svg",
+      "size": 223,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/bevelscorediff_blue.svg",
+      "size": 265,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/bevelscorediff_white.svg",
+      "size": 262,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/bevelsection_blue.svg",
+      "size": 268,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/bevelsection_white.svg",
+      "size": 258,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/beveltime_blue.svg",
+      "size": 261,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/beveltime_white.svg",
+      "size": 258,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/linescorediff_blue.svg",
+      "size": 191,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/linescorediff_green.svg",
+      "size": 191,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/linescorediff_red.svg",
+      "size": 191,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/lowalthudmain.d.ts",
+      "size": 765,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/lowalthudmain.js",
+      "size": 409,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/lowalthudmain/lowalthudmain.uxml",
+      "size": 17005,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/racelowalthud.css",
+      "size": 290,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/racelowalthud.html",
+      "size": 470,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/racelowalthud.js",
+      "size": 9197,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthud/racelowalthud.svg",
+      "size": 1595,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/lowalthudnotifsection/lowalthudnotifsection.d.ts",
+      "size": 1395,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/lowalthudnotifsection/lowalthudnotifsection.js",
+      "size": 450,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/lowalthudnotifsection/lowalthudnotifsection.uxml",
+      "size": 29700,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/lowalthudnotifsection/sectionblockblue.svg",
+      "size": 229,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/lowalthudnotifsection/sectionblockwhiteanimation.svg",
+      "size": 226,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/lowalthudnotifsection/sectionblockwhitelight.svg",
+      "size": 247,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/racelowalthudnotification.css",
+      "size": 507,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/racelowalthudnotification.html",
+      "size": 600,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/racelowalthudnotification.js",
+      "size": 18457,
+      "date": 133958485000000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowalthudnotification/racelowalthudnotification.js.map",
+      "size": 27252,
+      "date": 133958485000000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 13872,
+      "date": 134109567140000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 14774,
+      "date": 134109567140000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 15456,
+      "date": 134109567140000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 14700,
+      "date": 134109567140000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 14894,
+      "date": 134109567140000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 21006,
+      "date": 134109567140000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 14262,
+      "date": 134109567140000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 14517,
+      "date": 134109567140000000
+    },
+    {
+      "path": "widgets/activities/lc_f18_01_2.jpg",
+      "size": 758661,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/activities/lc_f18_01_2_4k.jpg",
+      "size": 1706851,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/activities/lc_f18_02_2.png",
+      "size": 1471035,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/activities/lc_f18_02_2_4k.png",
+      "size": 3171044,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_mrk_activities.xml",
+      "size": 715,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_mrk_trainings.xml",
+      "size": 613,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/categorywidgetparams_mrk.xml",
+      "size": 679,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/lc_f18_01_2.jpg",
+      "size": 438052,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/lc_f18_01_2_4k.jpg",
+      "size": 611642,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/lc_f18_02_2.png",
+      "size": 1000699,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/lc_f18_02_2_4k.png",
+      "size": 3482997,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/maverick_logo_baked.png",
+      "size": 186854,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/mrk_activities_categ_widget.jpg",
+      "size": 333839,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/mrk_menus_bg.jpg",
+      "size": 2995333,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/images/mrk_trainings_categ_widget.jpg",
+      "size": 443348,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/widgetparams_mrk_activities.xml",
+      "size": 597,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/widgetparams_mrk_trainings.xml",
+      "size": 588,
+      "date": 132965794110000000
+    },
+    {
+      "path": "widgets/widgetsactivities.xml",
+      "size": 956,
+      "date": 132965794110000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 12865,
+      "date": 134109567140000000
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "content": [
+    {
+      "path": "de-de.locpak",
+      "size": 80808,
+      "date": 134181317240000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 71121,
+      "date": 134181317240000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 79884,
+      "date": 134181317240000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 79543,
+      "date": 134181317240000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 76136,
+      "date": 134181317240000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 81783,
+      "date": 134181317240000000
+    },
+    {
+      "path": "html_ui/pages/activitiesbackground/activitiesbackground.css",
+      "size": 1552,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/activitiesbackground/activitiesbackground.html",
+      "size": 1037,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/activitiesbackground/activitiesbackground.js",
+      "size": 3681,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/contentmanager/contentmanager.html",
+      "size": 619,
+      "date": 134200578580000000
+    },
+    {
+      "path": "html_ui/pages/loading/japan/loadingjapan.css",
+      "size": 4884,
+      "date": 134321236810000000
+    },
+    {
+      "path": "html_ui/pages/loading/japan/loadingjapan.html",
+      "size": 1353,
+      "date": 134321236810000000
+    },
+    {
+      "path": "html_ui/pages/loading/japan/loadingjapan.js",
+      "size": 4578,
+      "date": 134321236810000000
+    },
+    {
+      "path": "html_ui/pages/loading/loading.css",
+      "size": 2505,
+      "date": 134321236810000000
+    },
+    {
+      "path": "html_ui/pages/loading/loading.html",
+      "size": 1672,
+      "date": 134321236810000000
+    },
+    {
+      "path": "html_ui/pages/loading/loading.js",
+      "size": 9141,
+      "date": 134321236810000000
+    },
+    {
+      "path": "html_ui/pages/logos/bongfish.png",
+      "size": 14779,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/logos/logos.css",
+      "size": 1802,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/logos/logos.html",
+      "size": 1149,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/logos/logos.js",
+      "size": 1045,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/logos/navblue.png",
+      "size": 3388,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/logos/splash_navlue_logo_4k.jpg",
+      "size": 98988,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/logos/wwise.png",
+      "size": 31102,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_actionstep/notification_actionstep.css",
+      "size": 4269,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_actionstep/notification_actionstep.html",
+      "size": 672,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_actionstep/notification_actionstep.js",
+      "size": 4371,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_gameplay/notification_gameplay.css",
+      "size": 1723,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_gameplay/notification_gameplay.html",
+      "size": 394,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_gameplay/notification_gameplay.js",
+      "size": 636,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_message/notification_message.css",
+      "size": 7591,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_message/notification_message.html",
+      "size": 721,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_message/notification_message.js",
+      "size": 2925,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_objective/notification_objective.css",
+      "size": 1557,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_objective/notification_objective.html",
+      "size": 505,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_objective/notification_objective.js",
+      "size": 5648,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_overlay/notification_overlay.css",
+      "size": 600,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_overlay/notification_overlay.html",
+      "size": 231,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_overlay/notification_overlay.js",
+      "size": 1528,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_popup/notification_popup.css",
+      "size": 5065,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_popup/notification_popup.html",
+      "size": 855,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_popup/notification_popup.js",
+      "size": 11705,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_stackable/notification_stackable.css",
+      "size": 768,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_stackable/notification_stackable.html",
+      "size": 362,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_stackable/notification_stackable.js",
+      "size": 1992,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_stackable/notification_stackable_item/notification_stackable_item.css",
+      "size": 3912,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_stackable/notification_stackable_item/notification_stackable_item.html",
+      "size": 827,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_stackable/notification_stackable_item/notification_stackable_item.js",
+      "size": 1635,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_subtitle/notification_subtitle.css",
+      "size": 1321,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_subtitle/notification_subtitle.html",
+      "size": 419,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_subtitle/notification_subtitle.js",
+      "size": 5414,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_tips/notification_tips.css",
+      "size": 1335,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_tips/notification_tips.html",
+      "size": 475,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notification_tips/notification_tips.js",
+      "size": 1204,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notifications.css",
+      "size": 2322,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notifications.html",
+      "size": 2514,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/notifications.js",
+      "size": 8620,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/notifications/textures/image_generic.png",
+      "size": 11445,
+      "date": 134321236830000000
+    },
+    {
+      "path": "html_ui/pages/pressstart/pressstart.html",
+      "size": 1602,
+      "date": 134200578580000000
+    },
+    {
+      "path": "images/mouse_cursor.png",
+      "size": 12896,
+      "date": 133669942730000000
+    },
+    {
+      "path": "images/mouse_dropshadow.tif",
+      "size": 87392,
+      "date": 133669942730000000
+    },
+    {
+      "path": "images/mouse_headlook.png",
+      "size": 2087,
+      "date": 133669942730000000
+    },
+    {
+      "path": "images/mouse_padcenter.png",
+      "size": 2516,
+      "date": 133669942730000000
+    },
+    {
+      "path": "images/onboarding.jpg",
+      "size": 5274668,
+      "date": 133669942730000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 77650,
+      "date": 134181317240000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 89265,
+      "date": 134181317240000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 79496,
+      "date": 134181317240000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-deluxe-pack/background.jpg",
+      "size": 539937,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-deluxe-pack/install.json",
+      "size": 519,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-fsx-liveries-bundle/background.jpg",
+      "size": 425308,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-fsx-liveries-bundle/install.json",
+      "size": 543,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-japanupdate-pack/background.jpg",
+      "size": 3172760,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-japanupdate-pack/install.json",
+      "size": 529,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-livery-testpilot/background.jpg",
+      "size": 398928,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-livery-testpilot/install.json",
+      "size": 551,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-premium-pack/background.jpg",
+      "size": 542742,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/asobo-premium-pack/install.json",
+      "size": 523,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/standard-content/background.jpg",
+      "size": 544216,
+      "date": 133080650390000000
+    },
+    {
+      "path": "missions/common/expansions/standard-content/install.json",
+      "size": 460,
+      "date": 133080650390000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 73560,
+      "date": 134181317240000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 78584,
+      "date": 134181317240000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 77029,
+      "date": 134181317240000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 76625,
+      "date": 134181317240000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 78175,
+      "date": 134181317240000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 116633,
+      "date": 134181317240000000
+    },
+    {
+      "path": "soundinit/shared_minimal.pc.pck",
+      "size": 12858439,
+      "date": 134287547400000000
+    },
+    {
+      "path": "soundinit/streamsoundnames.pc.names",
+      "size": 4,
+      "date": 134287547400000000
+    },
+    {
+      "path": "soundinit/wwiseids.pc.bin",
+      "size": 4564,
+      "date": 134287547400000000
+    },
+    {
+      "path": "speakers.locspk",
+      "size": 6997,
+      "date": 134181317240000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 75326,
+      "date": 134181317240000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 77343,
+      "date": 134181317240000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 67933,
+      "date": 134181317240000000
+    }
+  ]
+}

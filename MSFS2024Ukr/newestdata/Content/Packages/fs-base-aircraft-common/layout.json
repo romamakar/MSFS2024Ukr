@@ -1,0 +1,1804 @@
+{
+  "content": [
+    {
+      "path": "checkpointslibrary/asobo_defaultcheckpointlibrary.xml",
+      "size": 712527,
+      "date": 134007617600000000
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 2117,
+      "date": 134033570840000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 2065,
+      "date": 134033570840000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 2220,
+      "date": 134033570840000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 2211,
+      "date": 134033570840000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 2004,
+      "date": 134033570840000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/approach.flt",
+      "size": 2745,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/apron.flt",
+      "size": 2437,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/climb.flt",
+      "size": 2717,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/cruise.flt",
+      "size": 2718,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/final.flt",
+      "size": 3083,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/finalwater.flt",
+      "size": 3083,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/hangar.flt",
+      "size": 3988,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/runway.flt",
+      "size": 3015,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/runwaywater.flt",
+      "size": 3015,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/airliner/taxi.flt",
+      "size": 2768,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/approach.flt",
+      "size": 1689,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/apron.flt",
+      "size": 2833,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/climb.flt",
+      "size": 1729,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/cruise.flt",
+      "size": 1728,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/final.flt",
+      "size": 1694,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/finalwater.flt",
+      "size": 1694,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/hangar.flt",
+      "size": 2863,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/runway.flt",
+      "size": 1817,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/runwaywater.flt",
+      "size": 1817,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/glider/taxi.flt",
+      "size": 1873,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/approach.flt",
+      "size": 1982,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/apron.flt",
+      "size": 2902,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/climb.flt",
+      "size": 2057,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/cruise.flt",
+      "size": 2056,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/final.flt",
+      "size": 1987,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/finwalwater.flt",
+      "size": 1987,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/hangar.flt",
+      "size": 2934,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/runway.flt",
+      "size": 1979,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/runwaywater.flt",
+      "size": 1979,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/jet/taxi.flt",
+      "size": 2045,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/approach.flt",
+      "size": 2639,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/apron.flt",
+      "size": 2916,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/climb.flt",
+      "size": 2641,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/cruise.flt",
+      "size": 2640,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/final.flt",
+      "size": 1919,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/finalwater.flt",
+      "size": 1919,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/hangar.flt",
+      "size": 2804,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/runway.flt",
+      "size": 2076,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/runwaywater.flt",
+      "size": 2076,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/propeller/taxi.flt",
+      "size": 2128,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/approach.flt",
+      "size": 1934,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/apron.flt",
+      "size": 2904,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/climb.flt",
+      "size": 1733,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/cruise.flt",
+      "size": 1772,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/final.flt",
+      "size": 1692,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/finalwater.flt",
+      "size": 1692,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/hangar.flt",
+      "size": 2037,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/runway.flt",
+      "size": 1817,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/runwaywater.flt",
+      "size": 1817,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/rotorcraft/taxi.flt",
+      "size": 1877,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/approach.flt",
+      "size": 2034,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/apron.flt",
+      "size": 2831,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/climb.flt",
+      "size": 2037,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/cruise.flt",
+      "size": 2036,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/final.flt",
+      "size": 1967,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/finalwater.flt",
+      "size": 1967,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/hangar.flt",
+      "size": 2863,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/runway.flt",
+      "size": 2113,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/runwaywater.flt",
+      "size": 2114,
+      "date": 133782953850000000
+    },
+    {
+      "path": "flightstateslibrary/turbo/taxi.flt",
+      "size": 2106,
+      "date": 133782953850000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 2169,
+      "date": 134033570840000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 2234,
+      "date": 134033570840000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 2426,
+      "date": 134033570840000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 2238,
+      "date": 134033570840000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/aircrafttypes/gliders.xml",
+      "size": 4761,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/aircrafttypes/rotorcrafts.xml",
+      "size": 16208,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/airliner/airbus.xml",
+      "size": 34276,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/airliner/airlinercommon.xml",
+      "size": 55669,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/airliner/as02a.xml",
+      "size": 5842,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/airliner/boeing.xml",
+      "size": 42871,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/airliner/fmc.xml",
+      "size": 64582,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/airliner/glasscockpit.xml",
+      "size": 1059,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/airliner/inputs/airliner_inputs.xml",
+      "size": 572,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common.xml",
+      "size": 120,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/aircraft.xml",
+      "size": 16436,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/autopilot.xml",
+      "size": 78494,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/deice.xml",
+      "size": 6116,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/electrical.xml",
+      "size": 24076,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/engine.xml",
+      "size": 11701,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/fuel.xml",
+      "size": 8571,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/handling.xml",
+      "size": 29590,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/index.xml",
+      "size": 640,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/aircraft_inputs.xml",
+      "size": 336,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/autopilot_inputs.xml",
+      "size": 338,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/common_inputs.xml",
+      "size": 9395,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/deice_inputs.xml",
+      "size": 19100,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/electrical_inputs.xml",
+      "size": 60336,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/engine_inputs.xml",
+      "size": 86844,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/fuel_inputs.xml",
+      "size": 40053,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/handling_inputs.xml",
+      "size": 31022,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/instrument_inputs.xml",
+      "size": 12806,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/landinggear_inputs.xml",
+      "size": 12377,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/lighting_inputs.xml",
+      "size": 23607,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/passenger_inputs.xml",
+      "size": 338,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/pressurization_inputs.xml",
+      "size": 546,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/inputs/safety_inputs.xml",
+      "size": 332,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/instrument.xml",
+      "size": 62532,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/landinggear.xml",
+      "size": 19066,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/lighting.xml",
+      "size": 25642,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/passenger.xml",
+      "size": 3004,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/pilot.xml",
+      "size": 464,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/pressurization.xml",
+      "size": 8109,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/safety.xml",
+      "size": 34598,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/aircraft_subtemplates.xml",
+      "size": 785,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/autopilot_subtemplates.xml",
+      "size": 50884,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/deice_subtemplates.xml",
+      "size": 52890,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/electrical_subtemplates.xml",
+      "size": 80248,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/engine_subtemplates.xml",
+      "size": 112389,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/fuel_subtemplates.xml",
+      "size": 73827,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/handling_subtemplates.xml",
+      "size": 116091,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/instrument_subtemplates.xml",
+      "size": 86563,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/landinggear_subtemplates.xml",
+      "size": 21182,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/lighting_subtemplates.xml",
+      "size": 40074,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/passenger_subtemplates.xml",
+      "size": 10301,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/pressurization_subtemplates.xml",
+      "size": 41242,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/common/subtemplates/safety_subtemplates.xml",
+      "size": 27244,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/debug.xml",
+      "size": 2299,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/exterior.xml",
+      "size": 86496,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic.xml",
+      "size": 82,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/animations.xml",
+      "size": 2911,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/animationtriggers.xml",
+      "size": 4562,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/complex/index.xml",
+      "size": 326,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/complex/joystick.xml",
+      "size": 17820,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/complex/knob.xml",
+      "size": 25566,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/complex/lever.xml",
+      "size": 6720,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/complex/misc.xml",
+      "size": 3305,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/complex/pushbutton.xml",
+      "size": 23097,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/complex/switch.xml",
+      "size": 24919,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/emissive.xml",
+      "size": 11355,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/fx.xml",
+      "size": 44457,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/helpers.xml",
+      "size": 57293,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/index.xml",
+      "size": 420,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/interactions.xml",
+      "size": 73946,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/subtemplates/animations_subtemplates.xml",
+      "size": 5564,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/subtemplates/interactions_subtemplates.xml",
+      "size": 33580,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/subtemplates/updates_subtemplates.xml",
+      "size": 3643,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/updates.xml",
+      "size": 4399,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/generic/visibility.xml",
+      "size": 1707,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as1000.xml",
+      "size": 87690,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as3000.xml",
+      "size": 26829,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as307.xml",
+      "size": 2393,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as3x.xml",
+      "size": 21779,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as3x_touch.xml",
+      "size": 7955,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as5.xml",
+      "size": 4223,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as580.xml",
+      "size": 20321,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/as650.xml",
+      "size": 8320,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/inputs/as1000_inputs.xml",
+      "size": 927,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/inputs/as3x_inputs.xml",
+      "size": 328,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/glasscockpit/inputs/as5_inputs.xml",
+      "size": 326,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/gps/aera.xml",
+      "size": 4410,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/gps/as430.xml",
+      "size": 22708,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/gps/as530.xml",
+      "size": 1336,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/gps/inputs/aera_inputs.xml",
+      "size": 330,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/gps/inputs/as430_inputs.xml",
+      "size": 552,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/inputs/generic.xml",
+      "size": 36320,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/inputs/helpers.xml",
+      "size": 3103,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/inputs/index.xml",
+      "size": 610,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/inputs/templates.xml",
+      "size": 41646,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/accelerometer.xml",
+      "size": 3584,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/as_epm.xml",
+      "size": 3669,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/asdigiflo.xml",
+      "size": 15117,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/asdigitalfuelmeter_fp5l.xml",
+      "size": 6245,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/aspropeller.xml",
+      "size": 5310,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/asvigilus.xml",
+      "size": 5744,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/clock.xml",
+      "size": 7561,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/groundvehicles.xml",
+      "size": 15448,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/gx2.xml",
+      "size": 4262,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/inop.xml",
+      "size": 13364,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/inputs/misc_inputs.xml",
+      "size": 2100,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/pl463.xml",
+      "size": 6074,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/simobjects.xml",
+      "size": 11264,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/misc/voltsamps.xml",
+      "size": 2939,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/adf.xml",
+      "size": 18133,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/as92.xml",
+      "size": 3511,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/asnav.xml",
+      "size": 11026,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/inputs/navcomsystem_inputs.xml",
+      "size": 514,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/inputs/simplecom_inputs.xml",
+      "size": 338,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/kap140.xml",
+      "size": 21620,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/navcomsystem.xml",
+      "size": 124767,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/navcom/simplecom.xml",
+      "size": 4978,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/transponder/as21.xml",
+      "size": 4762,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/transponder/as330.xml",
+      "size": 5417,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo/transponder/transponder.xml",
+      "size": 19593,
+      "date": 134260978850000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/animation.xml",
+      "size": 5916,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/animationtriggers.xml",
+      "size": 6696,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/inputevent.xml",
+      "size": 36307,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/material.xml",
+      "size": 5290,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/misc.xml",
+      "size": 1790,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/mouserect.xml",
+      "size": 27861,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/update.xml",
+      "size": 1475,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/vfx.xml",
+      "size": 4032,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/component/visibility.xml",
+      "size": 4903,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/helper/macrodefs.xml",
+      "size": 4782,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/helper/parametersfnhelpers.xml",
+      "size": 27907,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/base/index.xml",
+      "size": 597,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/index.xml",
+      "size": 418,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/airframe.xml",
+      "size": 703,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/common.xml",
+      "size": 3310,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/engine.xml",
+      "size": 3739,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/handling.xml",
+      "size": 4678,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/landing.xml",
+      "size": 3143,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/lighting.xml",
+      "size": 1266,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/parametersfn/airframe_parametersfn.xml",
+      "size": 1434,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/parametersfn/common_parametersfn.xml",
+      "size": 12726,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/parametersfn/engine_parametersfn.xml",
+      "size": 8108,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/parametersfn/handling_parametersfn.xml",
+      "size": 7282,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/parametersfn/landing_parametersfn.xml",
+      "size": 3376,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/parametersfn/lighting_parametersfn.xml",
+      "size": 478,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/subtemplates/common_subtemplates.xml",
+      "size": 6493,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/subtemplates/engine_subtemplates.xml",
+      "size": 11321,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/subtemplates/handling_subtemplates.xml",
+      "size": 3270,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/subtemplates/landing_subtemplates.xml",
+      "size": 2792,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/exterior/templates/vfx.xml",
+      "size": 83113,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/index.xml",
+      "size": 195,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/index.xml",
+      "size": 1040,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/airframe.xml",
+      "size": 885,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/autopilot.xml",
+      "size": 890,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/auxiliary.xml",
+      "size": 891,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/balloon.xml",
+      "size": 1060,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/common.xml",
+      "size": 785,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/deice.xml",
+      "size": 873,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/efb.xml",
+      "size": 2674,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/electrical.xml",
+      "size": 898,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/engine.xml",
+      "size": 878,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/fuel.xml",
+      "size": 865,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/handling.xml",
+      "size": 5186,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/hydraulic.xml",
+      "size": 893,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/indicators.xml",
+      "size": 4647,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/airframe_inputs.xml",
+      "size": 819,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/autopilot_inputs.xml",
+      "size": 759,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/auxiliary_inputs.xml",
+      "size": 821,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/common_inputs.xml",
+      "size": 817,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/deice_inputs.xml",
+      "size": 712,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/electrical_inputs.xml",
+      "size": 723,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/engine_inputs.xml",
+      "size": 1875,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/fuel_inputs.xml",
+      "size": 706,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/handling_inputs.xml",
+      "size": 1113,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/hydraulic_inputs.xml",
+      "size": 722,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/instrument_inputs.xml",
+      "size": 938,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/landing_inputs.xml",
+      "size": 758,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/lighting_inputs.xml",
+      "size": 918,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/pneumatics_inputs.xml",
+      "size": 724,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/radio_inputs.xml",
+      "size": 2150,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/inputs/safety_inputs.xml",
+      "size": 817,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/instrument.xml",
+      "size": 8244,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/landing.xml",
+      "size": 880,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/lighting.xml",
+      "size": 888,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/airframe_parametersfn.xml",
+      "size": 1834,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/autopilot_parametersfn.xml",
+      "size": 33655,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/auxiliary_parametersfn.xml",
+      "size": 12206,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/balloon_parametersfn.xml",
+      "size": 3210,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/common_parametersfn.xml",
+      "size": 7504,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/deice_parametersfn.xml",
+      "size": 5444,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/electrical_parametersfn.xml",
+      "size": 37232,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/engine_parametersfn.xml",
+      "size": 48244,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/fuel_parametersfn.xml",
+      "size": 12203,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/handling_parametersfn.xml",
+      "size": 23064,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/hydraulic_parametersfn.xml",
+      "size": 8720,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/indicators_parametersfn.xml",
+      "size": 805,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/instrument_parametersfn.xml",
+      "size": 16746,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/airframe_interactions.xml",
+      "size": 6544,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/autopilot_interactions.xml",
+      "size": 29333,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/auxiliary_interactions.xml",
+      "size": 9560,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/balloon_interactions.xml",
+      "size": 3309,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/common_interactions.xml",
+      "size": 6120,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/deice_interactions.xml",
+      "size": 3461,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/electrical_interactions.xml",
+      "size": 13767,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/engine_interactions.xml",
+      "size": 26264,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/fuel_interactions.xml",
+      "size": 3571,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/handling_interactions.xml",
+      "size": 26095,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/hydraulic_interactions.xml",
+      "size": 1036,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/instrument_interactions.xml",
+      "size": 7637,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/landing_interactions.xml",
+      "size": 6371,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/lighting_interactions.xml",
+      "size": 11124,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/pneumatics_interactions.xml",
+      "size": 9391,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/radio_interactions.xml",
+      "size": 27730,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/interactionpresets/safety_interactions.xml",
+      "size": 7269,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/landing_parametersfn.xml",
+      "size": 8900,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/lighting_parametersfn.xml",
+      "size": 10840,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/pneumatics_parametersfn.xml",
+      "size": 34997,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/radio_parametersfn.xml",
+      "size": 36371,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/parametersfn/safety_parametersfn.xml",
+      "size": 7715,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/pneumatics.xml",
+      "size": 895,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/radio.xml",
+      "size": 1075,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/safety.xml",
+      "size": 878,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/airframe_subtemplates.xml",
+      "size": 305,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/autopilot_subtemplates.xml",
+      "size": 305,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/auxiliary_subtemplates.xml",
+      "size": 306,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/common_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/deice_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/electrical_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/engine_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/fuel_subtemplates.xml",
+      "size": 305,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/handling_subtemplates.xml",
+      "size": 6900,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/hydraulic_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/indicators_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/instrument_subtemplates.xml",
+      "size": 25926,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/landing_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/lighting_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/pneumatics_subtemplates.xml",
+      "size": 305,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/radio_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/interior/templates/subtemplates/safety_subtemplates.xml",
+      "size": 308,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/index.xml",
+      "size": 664,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/templates/auxiliary.xml",
+      "size": 1460,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/templates/common.xml",
+      "size": 8448,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/templates/parametersfn/auxiliary_parametersfn.xml",
+      "size": 8351,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/templates/parametersfn/common_parametersfn.xml",
+      "size": 6845,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/templates/parametersfn/interactionpresets/common_interactions.xml",
+      "size": 5980,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/animations/animation_parametersfn.xml",
+      "size": 2294,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/animations/animation_templates.xml",
+      "size": 987,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/emissives/emissive_parametersfn.xml",
+      "size": 6297,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/emissives/emissive_templates.xml",
+      "size": 11971,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/interaction/interaction_parametersfn.xml",
+      "size": 53404,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/interaction/interaction_templates.xml",
+      "size": 9836,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/interaction/variants/interaction_directional_parametersfn.xml",
+      "size": 16522,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/procedures/common/utils.xml",
+      "size": 10320,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/procedures/procedures.xml",
+      "size": 9686,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/variables/variables.xml",
+      "size": 15815,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/visibility/visibility_parametersfn.xml",
+      "size": 4295,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/common/shared/utils/visibility/visibility_templates.xml",
+      "size": 3536,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/defaultconfig.xml",
+      "size": 1250,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/exteriordefs.xml",
+      "size": 347,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/exterior/index.xml",
+      "size": 85,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/exterior/templates/common.xml",
+      "size": 1111,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/exterior/templates/parametersfn/common_parametersfn.xml",
+      "size": 1129,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/exterior/templates/subtemplates/common_subtemplates.xml",
+      "size": 1324,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/index.xml",
+      "size": 196,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/interior/index.xml",
+      "size": 90,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/interior/templates/interaction.xml",
+      "size": 3876,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/interior/templates/parametersfn/inputevent_parametersfn.xml",
+      "size": 52145,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/interior/templates/parametersfn/interaction_helpers.xml",
+      "size": 72647,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/interior/templates/parametersfn/interaction_parametersfn.xml",
+      "size": 25808,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/interior/templates/parametersfn/variants/interaction_drag_axis_parametersfn.xml",
+      "size": 35446,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/interior/templates/parametersfn/variants/interaction_xstates_parametersfn.xml",
+      "size": 48072,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/helpers/helpers.xml",
+      "size": 103564,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/index.xml",
+      "size": 321,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/templates/animation.xml",
+      "size": 2649,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/templates/common.xml",
+      "size": 13927,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/templates/material.xml",
+      "size": 2355,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/templates/parametersfn/animation.xml",
+      "size": 9071,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/templates/parametersfn/material.xml",
+      "size": 7742,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/templates/parametersfn/visibility.xml",
+      "size": 5422,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/generic/shared/templates/visibility.xml",
+      "size": 2402,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/index.xml",
+      "size": 188,
+      "date": 134292723480000000
+    },
+    {
+      "path": "modelbehaviordefs/asobo_ex1/interiordefs.xml",
+      "size": 347,
+      "date": 134292723480000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 2130,
+      "date": 134033570840000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 2262,
+      "date": 134033570840000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 2028,
+      "date": 134033570840000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 2170,
+      "date": 134033570840000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 2127,
+      "date": 134033570840000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 2880,
+      "date": 134033570840000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 2060,
+      "date": 134033570840000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 2190,
+      "date": 134033570840000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 1926,
+      "date": 134033570840000000
+    }
+  ]
+}

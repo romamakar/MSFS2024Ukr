@@ -1,0 +1,229 @@
+{
+  "content": [
+    {
+      "path": "assistancepresets/presetsglobal/preset_global-worldphotographer.spb",
+      "size": 1328,
+      "date": 134152737470000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-failure_and_damages-worldphotographer.spb",
+      "size": 682,
+      "date": 134152737470000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-notification-discovery.xmlpreset_section-notification-worldphotographer.spb",
+      "size": 739,
+      "date": 134152737470000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-piloting-worldphotographer.spb",
+      "size": 850,
+      "date": 134152737470000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-poi-worldphotographer.spb",
+      "size": 708,
+      "date": 134152737470000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-user_experience-discovery.xmlpreset_section-user_experience-worldphotographer.spb",
+      "size": 908,
+      "date": 134152737470000002
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 18572,
+      "date": 134033570830000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 17790,
+      "date": 134033570830000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 19835,
+      "date": 134033570830000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 19853,
+      "date": 134033570830000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 18367,
+      "date": 134033570830000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 19787,
+      "date": 134033570830000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 20251,
+      "date": 134033570830000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 20382,
+      "date": 134033570830000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 20774,
+      "date": 134033570830000000
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/discovery.spb",
+      "size": 16905,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/discovery_backontrack.spb",
+      "size": 6951,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/discovery_shapedrawer.spb",
+      "size": 451,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/eventtriggersdiscovery.spb",
+      "size": 1457,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/generic_logic_missionfailed.spb",
+      "size": 2252,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/generic_logic_pause.spb",
+      "size": 1554,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/toolbarsettings.spb",
+      "size": 1230,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/worldphotographer.spb",
+      "size": 18193,
+      "date": 134171959010000002
+    },
+    {
+      "path": "missions/asobo/discoverymode/default/worldphotographer_sound.spb",
+      "size": 464,
+      "date": 134171959010000002
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 16681,
+      "date": 134033570830000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 19923,
+      "date": 134033570830000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 18405,
+      "date": 134033570830000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 18835,
+      "date": 134033570830000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 19189,
+      "date": 134033570830000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 29913,
+      "date": 134033570830000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 17575,
+      "date": 134033570830000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 18808,
+      "date": 134033570830000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_discovery.xml",
+      "size": 527,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_01_2.jpg",
+      "size": 621404,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_01_2_4k.jpg",
+      "size": 877790,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_02_2.png",
+      "size": 152539,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_02_2_4k.png",
+      "size": 200962,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_home_01_2.jpg",
+      "size": 426689,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_home_01_2_4k.jpg",
+      "size": 598618,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_home_02_2.png",
+      "size": 1432705,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discovery_home_02_2_4k.png",
+      "size": 2136579,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/images/discoveryhomebg.jpg",
+      "size": 3671066,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/widgetsactivities.xml",
+      "size": 820,
+      "date": 133058211100000000
+    },
+    {
+      "path": "widgets/widgetshome.xml",
+      "size": 27,
+      "date": 133058211100000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 15798,
+      "date": 134033570830000000
+    }
+  ]
+}

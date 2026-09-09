@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "ru-RU",
+    "Strings": {
+      "TARGET.HELIPAD": "Вертолетная площадка",
+      "TARGET.LANDING": "Точка приземления",
+      "TARGET.RUNWAY": "Точка на ВПП"
+    }
+  }
+}

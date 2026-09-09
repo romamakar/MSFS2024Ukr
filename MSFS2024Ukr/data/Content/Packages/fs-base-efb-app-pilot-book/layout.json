@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "path": "de-de.locpak",
+      "size": 2337,
+      "date": 134103691000000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 2320,
+      "date": 134103691000000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 2416,
+      "date": 134103691000000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 2409,
+      "date": 134103691000000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 2364,
+      "date": 134103691000000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 2402,
+      "date": 134103691000000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/assets/icons/aircraft.svg",
+      "size": 737,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/assets/icons/arrow.svg",
+      "size": 249,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/assets/icons/chronometer.svg",
+      "size": 1813,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/assets/icons/day.svg",
+      "size": 1044,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/assets/icons/glossary.svg",
+      "size": 1701,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/assets/icons/night.svg",
+      "size": 1028,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/assets/icons/pilot.svg",
+      "size": 1202,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/pilotbookapp.css",
+      "size": 44134,
+      "date": 134321237320000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/pilotbookapp/pilotbookapp.js",
+      "size": 215965,
+      "date": 134321237320000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 2381,
+      "date": 134103691000000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 2440,
+      "date": 134103691000000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 2358,
+      "date": 134103691000000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 2370,
+      "date": 134103691000000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 2363,
+      "date": 134103691000000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 2415,
+      "date": 134103691000000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 2367,
+      "date": 134103691000000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 2399,
+      "date": 134103691000000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 2901,
+      "date": 134103691000000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 2348,
+      "date": 134103691000000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 2420,
+      "date": 134103691000000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 2294,
+      "date": 134103691000000000
+    }
+  ]
+}

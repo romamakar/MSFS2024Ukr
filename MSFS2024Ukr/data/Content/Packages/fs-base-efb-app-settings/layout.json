@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "path": "de-de.locpak",
+      "size": 976,
+      "date": 134102867050000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 940,
+      "date": 134102867050000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 987,
+      "date": 134102867050000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 987,
+      "date": 134102867050000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 972,
+      "date": 134102867050000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 991,
+      "date": 134102867050000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/settingsapp/assets/icons/add.svg",
+      "size": 550,
+      "date": 134321237080000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/settingsapp/assets/icons/move.svg",
+      "size": 1189,
+      "date": 134321237080000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/settingsapp/assets/icons/settings.svg",
+      "size": 1010,
+      "date": 134321237080000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/settingsapp/assets/icons/trash.svg",
+      "size": 736,
+      "date": 134321237080000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/settingsapp/settingsapp.css",
+      "size": 11165,
+      "date": 134321237080000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/settingsapp/settingsapp.js",
+      "size": 113101,
+      "date": 134321237080000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 983,
+      "date": 134102867050000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 974,
+      "date": 134102867050000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 943,
+      "date": 134102867050000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 949,
+      "date": 134102867050000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 960,
+      "date": 134102867050000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 987,
+      "date": 134102867050000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 972,
+      "date": 134102867050000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 971,
+      "date": 134102867050000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 1121,
+      "date": 134102867050000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 951,
+      "date": 134102867050000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 996,
+      "date": 134102867050000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 929,
+      "date": 134102867050000000
+    }
+  ]
+}

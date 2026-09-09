@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "path": "de-de.locpak",
+      "size": 217,
+      "date": 133776962040000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 199,
+      "date": 133776962040000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 217,
+      "date": 133776962040000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 217,
+      "date": 133776962040000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 224,
+      "date": 133776962040000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 211,
+      "date": 133776962040000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 212,
+      "date": 133776962040000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 225,
+      "date": 133776962040000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 206,
+      "date": 133776962040000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/precisionlanding/default/precisionlanding_airliner.spb",
+      "size": 34556,
+      "date": 134304091750000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/precisionlanding/default/precisionlanding_bush.spb",
+      "size": 37684,
+      "date": 134304091750000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/precisionlanding/default/precisionlanding_generalaviation.spb",
+      "size": 33729,
+      "date": 134304091750000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/precisionlanding/default/precisionlanding_helicopter.edition",
+      "size": 227,
+      "date": 133505688430000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/precisionlanding/default/precisionlanding_helicopter.spb",
+      "size": 19963,
+      "date": 134304091750000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/precisionlanding/default/precisionlanding_logic_sound.spb",
+      "size": 1263,
+      "date": 134304091750000002
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 197,
+      "date": 133776962040000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 203,
+      "date": 133776962040000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 219,
+      "date": 133776962040000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 200,
+      "date": 133776962040000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 204,
+      "date": 133776962040000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 259,
+      "date": 133776962040000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 205,
+      "date": 133776962040000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 204,
+      "date": 133776962040000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 207,
+      "date": 133776962040000000
+    }
+  ]
+}

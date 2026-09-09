@@ -1,0 +1,199 @@
+{
+  "content": [
+    {
+      "path": "assistancepresets/presetsglobal/preset_global-customchallenge.spb",
+      "size": 1399,
+      "date": 134152738260000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-aircraft_systems-customchallenge.spb",
+      "size": 708,
+      "date": 134152738260000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-failure_and_damages-customchallenge.spb",
+      "size": 713,
+      "date": 134152738260000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-navigation_aids-customchallenge.spb",
+      "size": 706,
+      "date": 134152738260000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-notification-customchallenge.spb",
+      "size": 729,
+      "date": 134152738260000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-piloting-tutorial_customchallenge.spb",
+      "size": 806,
+      "date": 134152738260000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-poi-customchallenge.spb",
+      "size": 739,
+      "date": 134152738260000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-user_experience-customchallenge.spb",
+      "size": 867,
+      "date": 134152738260000002
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 151,
+      "date": 133856528950000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 147,
+      "date": 133856528950000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 157,
+      "date": 133856528950000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 157,
+      "date": 133856528950000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 153,
+      "date": 133856528950000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 155,
+      "date": 133856528950000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 162,
+      "date": 133856528950000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 160,
+      "date": 133856528950000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 158,
+      "date": 133856528950000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/custom/default/backontrack/simstate.flt",
+      "size": 2604,
+      "date": 133262174980000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/custom/default/customchallenge.spb",
+      "size": 12936,
+      "date": 134223851750000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/custom/default/customchallenge_briefingdata.spb",
+      "size": 923,
+      "date": 134223851750000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/custom/default/eventtriggerscustomchallenge.spb",
+      "size": 261,
+      "date": 134223851750000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/custom/default/hud/main/customchallengehud.js",
+      "size": 0,
+      "date": 133851177230000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/custom/default/hud/sectionnotification/customchallengehudnotification.js",
+      "size": 0,
+      "date": 133851178420000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/custom/default/toolbarsettings.spb",
+      "size": 861,
+      "date": 134223851750000002
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 149,
+      "date": 133856528950000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 152,
+      "date": 133856528950000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 153,
+      "date": 133856528950000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 157,
+      "date": 133856528950000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 155,
+      "date": 133856528950000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 178,
+      "date": 133856528950000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 150,
+      "date": 133856528950000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 153,
+      "date": 133856528950000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_customchallenge_activities.xml",
+      "size": 535,
+      "date": 133954907170000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_customchallenge_trainings.xml",
+      "size": 528,
+      "date": 133954907170000000
+    },
+    {
+      "path": "widgets/categorywidgetparams_customchallenge.xml",
+      "size": 519,
+      "date": 133954907170000000
+    },
+    {
+      "path": "widgets/widgetparams_customchallenge_activities.xml",
+      "size": 665,
+      "date": 133954907170000000
+    },
+    {
+      "path": "widgets/widgetparams_customchallenge_trainings.xml",
+      "size": 655,
+      "date": 133954907170000000
+    },
+    {
+      "path": "widgets/widgetsactivities.xml",
+      "size": 885,
+      "date": 133954907170000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 160,
+      "date": 133856528950000000
+    }
+  ]
+}

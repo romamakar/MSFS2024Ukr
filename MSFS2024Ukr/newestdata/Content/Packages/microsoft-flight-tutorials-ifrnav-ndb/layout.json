@@ -1,0 +1,769 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/microsoft-flight-tutorials-ifrnav-ndb/contenthistory.json",
+      "size": 205,
+      "date": 133431395840000000
+    },
+    {
+      "path": "contentinfo/microsoft-flight-tutorials-ifrnav-ndb/thumbnail.jpg",
+      "size": 28461,
+      "date": 132804270000000000
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 4983,
+      "date": 134108894580000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 4753,
+      "date": 134108894580000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 5114,
+      "date": 134108894580000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 5055,
+      "date": 134108894580000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 4869,
+      "date": 134108894580000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 5242,
+      "date": 134108894580000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 5070,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 5315,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 5457,
+      "date": 134108894580000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/05_ifrnav5.flt",
+      "size": 18112,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/ifrnav5.spb",
+      "size": 77015,
+      "date": 132804098340000002
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/ifrnav5_edition.spb",
+      "size": 7971,
+      "date": 132804098340000002
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/images/activity_widget.jpg",
+      "size": 538557,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/images/briefing.jpg",
+      "size": 7459293,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/images/loading_screen.jpg",
+      "size": 7721583,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/images/ndb/ndb.js",
+      "size": 359,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/images/ndb/ndb.uxml",
+      "size": 1854,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/images/rewardscreen.jpg",
+      "size": 11152479,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb1.wav",
+      "size": 392968,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb1_fail.wav",
+      "size": 388380,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb1_fail_male.wav",
+      "size": 408980,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb1_male.wav",
+      "size": 435380,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb1_reminder.wav",
+      "size": 297804,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb1_reminder_male.wav",
+      "size": 361844,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb2.wav",
+      "size": 786960,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb2_male.wav",
+      "size": 860362,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb3.wav",
+      "size": 306544,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_followndb3_male.wav",
+      "size": 349894,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_hdg180_reminder.wav",
+      "size": 280346,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_hdg180_reminder_male.wav",
+      "size": 322932,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro1.wav",
+      "size": 457718,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro1_male.wav",
+      "size": 494274,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro2.wav",
+      "size": 726570,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro2_male.wav",
+      "size": 777086,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro3.wav",
+      "size": 644220,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro3_male.wav",
+      "size": 660918,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro4.wav",
+      "size": 506338,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_intro4_male.wav",
+      "size": 556742,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_needlemove1.wav",
+      "size": 338086,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_needlemove1_male.wav",
+      "size": 357378,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_needlemove2.wav",
+      "size": 516122,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_needlemove2_male.wav",
+      "size": 542834,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_needlemove3.wav",
+      "size": 542732,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_needlemove3_male.wav",
+      "size": 587458,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_outro_grade_a.wav",
+      "size": 632886,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_outro_grade_a_male.wav",
+      "size": 727332,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_turnright.wav",
+      "size": 294016,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/de-de/ifrnav5_dlg_turnright_male.wav",
+      "size": 318420,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb1.wav",
+      "size": 383654,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb1_fail.wav",
+      "size": 362662,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb1_fail_male.wav",
+      "size": 383270,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb1_male.wav",
+      "size": 424444,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb1_reminder.wav",
+      "size": 259618,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb1_reminder_male.wav",
+      "size": 260920,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb2.wav",
+      "size": 735190,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb2_alt01.wav",
+      "size": 764978,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb2_male.wav",
+      "size": 786044,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb3.wav",
+      "size": 311068,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_followndb3_male.wav",
+      "size": 300444,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_hdg180_reminder.wav",
+      "size": 207264,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_hdg180_reminder_male.wav",
+      "size": 245644,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro1.wav",
+      "size": 355516,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro1_male.wav",
+      "size": 372744,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro2.wav",
+      "size": 725382,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro2_alt01_male.wav",
+      "size": 646644,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro2_male.wav",
+      "size": 798844,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro3.wav",
+      "size": 528214,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro3_male.wav",
+      "size": 586594,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro4.wav",
+      "size": 495682,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_intro4_male.wav",
+      "size": 536944,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_needlemove1.wav",
+      "size": 397890,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_needlemove1_male.wav",
+      "size": 370444,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_needlemove2.wav",
+      "size": 455106,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_needlemove2_male.wav",
+      "size": 481444,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_needlemove3.wav",
+      "size": 477040,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_needlemove3_male.wav",
+      "size": 470644,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_outro_grade_a.wav",
+      "size": 610050,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_outro_grade_a_male.wav",
+      "size": 632894,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_turnright.wav",
+      "size": 301034,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/en-us/ifrnav5_dlg_turnright_male.wav",
+      "size": 275444,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb1.wav",
+      "size": 402124,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb1_fail.wav",
+      "size": 368778,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb1_fail_male.wav",
+      "size": 344852,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb1_male.wav",
+      "size": 367458,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb1_reminder.wav",
+      "size": 288830,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb1_reminder_male.wav",
+      "size": 277220,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb2.wav",
+      "size": 854712,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb2_male.wav",
+      "size": 851128,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb3.wav",
+      "size": 342610,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_followndb3_male.wav",
+      "size": 329448,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_hdg180_reminder.wav",
+      "size": 216088,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_hdg180_reminder_male.wav",
+      "size": 211498,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro1.wav",
+      "size": 431208,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro1_male.wav",
+      "size": 397778,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro2.wav",
+      "size": 695948,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro2_male.wav",
+      "size": 739066,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro3.wav",
+      "size": 580796,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro3_male.wav",
+      "size": 531278,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro4.wav",
+      "size": 568310,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_intro4_male.wav",
+      "size": 528514,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_needlemove1.wav",
+      "size": 313816,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_needlemove1_male.wav",
+      "size": 302744,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_needlemove2.wav",
+      "size": 498350,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_needlemove2_male.wav",
+      "size": 553828,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_needlemove3.wav",
+      "size": 495954,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_needlemove3_male.wav",
+      "size": 462072,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_outro_grade_a.wav",
+      "size": 590082,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_outro_grade_a_male.wav",
+      "size": 554834,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_turnright.wav",
+      "size": 306566,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/fr-fr/ifrnav5_dlg_turnright_male.wav",
+      "size": 279762,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb1.wav",
+      "size": 437524,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb1_fail.wav",
+      "size": 432566,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb1_fail_male.wav",
+      "size": 448036,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb1_male.wav",
+      "size": 521714,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb1_reminder.wav",
+      "size": 327428,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb1_reminder_male.wav",
+      "size": 329516,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb2.wav",
+      "size": 816430,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb2_male.wav",
+      "size": 852526,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb3.wav",
+      "size": 312628,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_followndb3_male.wav",
+      "size": 328558,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_hdg180_reminder.wav",
+      "size": 253602,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_hdg180_reminder_male.wav",
+      "size": 259586,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro1.wav",
+      "size": 501510,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro1_male.wav",
+      "size": 475802,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro2.wav",
+      "size": 802402,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro2_male.wav",
+      "size": 810072,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro3.wav",
+      "size": 578842,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro3_male.wav",
+      "size": 646990,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro4.wav",
+      "size": 514484,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_intro4_male.wav",
+      "size": 557646,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_needlemove1.wav",
+      "size": 373562,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_needlemove1_male.wav",
+      "size": 349456,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_needlemove2.wav",
+      "size": 691514,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_needlemove2_male.wav",
+      "size": 695930,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_needlemove3.wav",
+      "size": 585562,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_needlemove3_male.wav",
+      "size": 613084,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_outro_grade_a.wav",
+      "size": 602138,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_outro_grade_a_male.wav",
+      "size": 625006,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_turnright.wav",
+      "size": 334320,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/sound/pt-br/ifrnav5_dlg_turnright_male.wav",
+      "size": 373016,
+      "date": 134200498250000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/ifr_nav/5-ndb/weather.wpr",
+      "size": 2611,
+      "date": 134200498250000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 4727,
+      "date": 134108894580000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 5257,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 4924,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 4966,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 5056,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 7536,
+      "date": 134108894580000000
+    },
+    {
+      "path": "stringsspeakers.spk",
+      "size": 4782,
+      "date": 134108894580000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 4717,
+      "date": 134108894580000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 4866,
+      "date": 134108894580000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 4548,
+      "date": 134108894580000000
+    }
+  ]
+}

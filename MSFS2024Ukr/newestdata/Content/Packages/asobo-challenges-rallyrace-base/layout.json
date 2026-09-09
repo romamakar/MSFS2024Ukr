@@ -1,0 +1,379 @@
+{
+  "content": [
+    {
+      "path": "assistancepresets/presetsglobal/preset_global-rallyrace.spb",
+      "size": 1333,
+      "date": 134152737300000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-aircraft_systems-rallyrace.spb",
+      "size": 684,
+      "date": 134152737300000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-failure_and_damages-rallyrace.spb",
+      "size": 689,
+      "date": 134152737300000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-navigation_aids-rallyrace.spb",
+      "size": 682,
+      "date": 134152737300000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-notification-rallyrace.spb",
+      "size": 705,
+      "date": 134152737300000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-piloting-tutorial_rallyrace.spb",
+      "size": 782,
+      "date": 134152737300000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-poi-rallyrace.spb",
+      "size": 715,
+      "date": 134152737300000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-user_experience-rallyrace.spb",
+      "size": 843,
+      "date": 134152737300000002
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 858,
+      "date": 133886662260000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 828,
+      "date": 133886662260000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 911,
+      "date": 133886662260000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 911,
+      "date": 133886662260000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 829,
+      "date": 133886662260000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 855,
+      "date": 133886662260000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 840,
+      "date": 133886662260000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 969,
+      "date": 133886662260000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 848,
+      "date": 133886662260000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/backontrack/simstate.flt",
+      "size": 2604,
+      "date": 133262174980000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/eventtriggerstimetrial.spb",
+      "size": 634,
+      "date": 134223852370000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/ghost/rallyraceghosthud.css",
+      "size": 286,
+      "date": 133380481780000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/ghost/rallyraceghosthud.html",
+      "size": 470,
+      "date": 133380481780000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/ghost/rallyraceghosthud.js",
+      "size": 6670,
+      "date": 133380481780000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyrace_hud_main/rallyrace_hud_main.d.ts",
+      "size": 582,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyrace_hud_main/rallyrace_hud_main.js",
+      "size": 432,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyrace_hud_main/rallyrace_hud_main.png",
+      "size": 115324,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyrace_hud_main/rallyrace_hud_main.uxml",
+      "size": 3333,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyracehud.css",
+      "size": 286,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyracehud.html",
+      "size": 456,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyracehud.js",
+      "size": 4185,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyracehud.js.map",
+      "size": 8892,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/main/rallyracehud.svg",
+      "size": 1595,
+      "date": 133380482010000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_golden.png",
+      "size": 40182,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_golden_arrow.png",
+      "size": 948,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_golden_background.png",
+      "size": 14097,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_golden_line.png",
+      "size": 3725,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_gradient.png",
+      "size": 3087,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_red.png",
+      "size": 28530,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_red_arrow.png",
+      "size": 697,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_red_background.png",
+      "size": 10977,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/notification_red_line.png",
+      "size": 1643,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/rallyrace_hud_sectionnotification.d.ts",
+      "size": 706,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/rallyrace_hud_sectionnotification.js",
+      "size": 507,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyrace_hud_sectionnotification/rallyrace_hud_sectionnotification.uxml",
+      "size": 11283,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyracehudnotification.css",
+      "size": 497,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyracehudnotification.html",
+      "size": 621,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyracehudnotification.js",
+      "size": 8678,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/hud/sectionnotification/rallyracehudnotification.js.map",
+      "size": 2755,
+      "date": 133380478330000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace.spb",
+      "size": 21713,
+      "date": 134223852370000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_briefingdata.spb",
+      "size": 911,
+      "date": 134223852370000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_briefingdata_fighter.spb",
+      "size": 460,
+      "date": 134223852370000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_edition.spb",
+      "size": 2531,
+      "date": 134223852370000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_fighter_logic_sound.spb",
+      "size": 673,
+      "date": 134223852370000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_ga_logic_sound.spb",
+      "size": 663,
+      "date": 134223852370000002
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 867,
+      "date": 133886662260000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 870,
+      "date": 133886662260000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 830,
+      "date": 133886662260000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 853,
+      "date": 133886662260000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 881,
+      "date": 133886662260000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 1076,
+      "date": 133886662260000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 861,
+      "date": 133886662260000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 871,
+      "date": 133886662260000000
+    },
+    {
+      "path": "widgets/activities/placeholder.jpg",
+      "size": 54796,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/activities/tile_dune_activities.jpg",
+      "size": 1054223,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_rallyrace_activities.xml",
+      "size": 517,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_rallyrace_trainings.xml",
+      "size": 510,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/categorywidgetparams_rallyrace.xml",
+      "size": 507,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/images/challenges_bg.jpg",
+      "size": 2756890,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/images/placeholder.jpg",
+      "size": 54796,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/images/tile_challenges.png",
+      "size": 1742454,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/images/tile_training.png",
+      "size": 1637167,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/images/trainings_bg.jpg",
+      "size": 1256216,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/widgetparams_rallyrace_activities.xml",
+      "size": 641,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/widgetparams_rallyrace_trainings.xml",
+      "size": 631,
+      "date": 133330379240000000
+    },
+    {
+      "path": "widgets/widgetsactivities.xml",
+      "size": 851,
+      "date": 133330379240000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 808,
+      "date": 133886662260000000
+    }
+  ]
+}

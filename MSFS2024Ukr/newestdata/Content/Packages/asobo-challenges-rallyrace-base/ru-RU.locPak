@@ -1,0 +1,21 @@
+{
+  "LocalisationPackage": {
+    "Language": "ru-RU",
+    "Strings": {
+      "CHALLENGE_NEXTGATE": "Следующие ворота",
+      "FINISH_GATE": "Финиш",
+      "GHOST": "Призрак",
+      "MENU.DUNE_ACTIVITIES": "Дюна — меню",
+      "MENU.MISSIONTYPE_ACTIVITIES_DNE": "Испытания",
+      "MENU.MISSIONTYPE_ACTIVITIES_DNE_DESCR": "Заглушка — описание активностей",
+      "MENU.MISSIONTYPE_DNE": "Дюна",
+      "MENU.MISSIONTYPE_DNE_ACTIVITIES_10TIMEATTACK": "СКОРОСТНОЕ ПРОХОЖДЕНИЕ МАРШРУТА",
+      "MENU.MISSIONTYPE_DNE_ACTIVITIES_20EXOTICCHALLENGE": "Экзотическое испытание",
+      "MENU.MISSIONTYPE_TUTORIAL_DNE": "ОБУЧЕНИЕ",
+      "MENU.MISSIONTYPE_TUTORIAL_DNE_DESCR": "Заглушка — описание обучающих заданий",
+      "START_GATE": "Старт",
+      "TRANSITION.TIMEATTACK_FINISHED": "ЗАДАНИЕ ВЫПОЛНЕНО",
+      "TRANSITION.TIMEATTACK_STARTED": "Задание начинается"
+    }
+  }
+}

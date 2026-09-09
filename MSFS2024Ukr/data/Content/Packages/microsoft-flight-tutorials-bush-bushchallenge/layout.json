@@ -1,0 +1,1064 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/microsoft-flight-tutorials-bush-bushchallenge/contenthistory.json",
+      "size": 222,
+      "date": 133459007990000000
+    },
+    {
+      "path": "contentinfo/microsoft-flight-tutorials-bush-bushchallenge/thumbnail.jpg",
+      "size": 28461,
+      "date": 132804270000000000
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 9110,
+      "date": 134108894580000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 8225,
+      "date": 134108894580000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 9076,
+      "date": 134108894580000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 9036,
+      "date": 134108894580000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 8468,
+      "date": 134108894580000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 9123,
+      "date": 134108894580000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 9039,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 9490,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 8865,
+      "date": 134108894580000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/07_bushchallenge.flt",
+      "size": 10470,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/bushchallenge.spb",
+      "size": 176046,
+      "date": 132804219190000002
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/bushchallenge_edition.spb",
+      "size": 28287,
+      "date": 132804219190000002
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/images/activity_widget.jpg",
+      "size": 244222,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/images/briefing.jpg",
+      "size": 2047069,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/images/bushchallenge/bushchallenge.js",
+      "size": 410,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/images/bushchallenge/bushchallenge.uxml",
+      "size": 1352,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/images/loading_screen.jpg",
+      "size": 2905326,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/images/rewardscreen.jpg",
+      "size": 2353923,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_choosedowndraft.wav",
+      "size": 423824,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_choosedowndraft_male.wav",
+      "size": 472950,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_chooseupdraft.wav",
+      "size": 454380,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_chooseupdraft_male.wav",
+      "size": 498206,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_choosevalleyside.wav",
+      "size": 617918,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_choosevalleyside_male.wav",
+      "size": 679814,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_flapsclimb.wav",
+      "size": 512990,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_flapsclimb_male.wav",
+      "size": 560138,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_intro1.wav",
+      "size": 441298,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_intro1_male.wav",
+      "size": 512298,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_intro2.wav",
+      "size": 311778,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_intro2_male.wav",
+      "size": 370852,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_intro3.wav",
+      "size": 225566,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_intro3_male.wav",
+      "size": 230180,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_maintain1500ft.wav",
+      "size": 476290,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_maintain1500ft_fail.wav",
+      "size": 278708,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_maintain1500ft_fail_male.wav",
+      "size": 347484,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_maintain1500ft_male.wav",
+      "size": 541042,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_maintain1500ft_reminder.wav",
+      "size": 384966,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_maintain1500ft_reminder_male.wav",
+      "size": 448202,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_outro1.wav",
+      "size": 505122,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_outro1_male.wav",
+      "size": 499694,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_outro2.wav",
+      "size": 717082,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_outro2_male.wav",
+      "size": 730350,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_overflylanding1.wav",
+      "size": 217564,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_overflylanding1_male.wav",
+      "size": 262762,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_overflylanding2.wav",
+      "size": 624794,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_overflylanding2_male.wav",
+      "size": 762712,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_overflylanding3.wav",
+      "size": 591994,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_overflylanding3_male.wav",
+      "size": 655596,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach1.wav",
+      "size": 764110,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach1_male.wav",
+      "size": 862286,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach2.wav",
+      "size": 461920,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach2_male.wav",
+      "size": 520818,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach3.wav",
+      "size": 437938,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach3_male.wav",
+      "size": 526694,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach4.wav",
+      "size": 420442,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_prepapproach4_male.wav",
+      "size": 475298,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_rightturnvalley.wav",
+      "size": 318700,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_rightturnvalley_male.wav",
+      "size": 390336,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_runwayclear.wav",
+      "size": 125014,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_runwayclear_male.wav",
+      "size": 142838,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_takeoff.wav",
+      "size": 241346,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/de-de/bushchallenge_dlg_takeoff_male.wav",
+      "size": 286016,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_choosedowndraft.wav",
+      "size": 473332,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_choosedowndraft_male.wav",
+      "size": 437664,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_chooseupdraft.wav",
+      "size": 455068,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_chooseupdraft_male.wav",
+      "size": 411406,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_choosevalleyside.wav",
+      "size": 591662,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_choosevalleyside_alt01_male.wav",
+      "size": 578944,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_choosevalleyside_male.wav",
+      "size": 627444,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_flapsclimb.wav",
+      "size": 431056,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_flapsclimb_male.wav",
+      "size": 466894,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_intro1.wav",
+      "size": 436598,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_intro1_male.wav",
+      "size": 416244,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_intro2.wav",
+      "size": 330420,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_intro2_male.wav",
+      "size": 380244,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_intro3.wav",
+      "size": 190808,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_intro3_male.wav",
+      "size": 188994,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_maintain1500ft.wav",
+      "size": 411890,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_maintain1500ft_fail.wav",
+      "size": 212866,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_maintain1500ft_fail_male.wav",
+      "size": 203794,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_maintain1500ft_male.wav",
+      "size": 440694,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_maintain1500ft_reminder.wav",
+      "size": 288264,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_maintain1500ft_reminder_male.wav",
+      "size": 343144,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_outro1.wav",
+      "size": 350430,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_outro1_alt01.wav",
+      "size": 389986,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_outro1_male.wav",
+      "size": 375644,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_outro2.wav",
+      "size": 639566,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_outro2_male.wav",
+      "size": 550644,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_overflylanding1.wav",
+      "size": 195108,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_overflylanding1_male.wav",
+      "size": 162444,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_overflylanding2.wav",
+      "size": 682222,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_overflylanding2_male.wav",
+      "size": 697944,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_overflylanding3.wav",
+      "size": 381268,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_overflylanding3_male.wav",
+      "size": 407244,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach1.wav",
+      "size": 596470,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach1_male.wav",
+      "size": 571344,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach2.wav",
+      "size": 319580,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach2_male.wav",
+      "size": 344844,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach3.wav",
+      "size": 428876,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach3_male.wav",
+      "size": 471344,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach4.wav",
+      "size": 375998,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_prepapproach4_male.wav",
+      "size": 448444,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_rightturnvalley.wav",
+      "size": 240778,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_rightturnvalley_male.wav",
+      "size": 300594,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_runwayclear.wav",
+      "size": 135084,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_runwayclear_alt01.wav",
+      "size": 140440,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_runwayclear_alt01_male.wav",
+      "size": 129444,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_runwayclear_male.wav",
+      "size": 135244,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_takeoff.wav",
+      "size": 176452,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_takeoff_alt01_male.wav",
+      "size": 231094,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/en-us/bushchallenge_dlg_takeoff_male.wav",
+      "size": 188844,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_choosedowndraft.wav",
+      "size": 498382,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_choosedowndraft_male.wav",
+      "size": 426172,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_chooseupdraft.wav",
+      "size": 478486,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_chooseupdraft_male.wav",
+      "size": 430796,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_choosevalleyside.wav",
+      "size": 609480,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_choosevalleyside_male.wav",
+      "size": 580122,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_flapsclimb.wav",
+      "size": 378316,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_flapsclimb_male.wav",
+      "size": 385150,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_intro1.wav",
+      "size": 523354,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_intro1_male.wav",
+      "size": 495458,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_intro2.wav",
+      "size": 336740,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_intro2_male.wav",
+      "size": 297188,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_intro3.wav",
+      "size": 181600,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_intro3_male.wav",
+      "size": 174040,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_maintain1500ft.wav",
+      "size": 474090,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_maintain1500ft_fail.wav",
+      "size": 237124,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_maintain1500ft_fail_male.wav",
+      "size": 218426,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_maintain1500ft_male.wav",
+      "size": 371406,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_maintain1500ft_reminder.wav",
+      "size": 305362,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_maintain1500ft_reminder_male.wav",
+      "size": 288742,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_outro1.wav",
+      "size": 490042,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_outro1_male.wav",
+      "size": 440204,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_outro2.wav",
+      "size": 569640,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_outro2_male.wav",
+      "size": 497992,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_overflylanding1.wav",
+      "size": 200248,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_overflylanding1_male.wav",
+      "size": 165170,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_overflylanding2.wav",
+      "size": 556908,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_overflylanding2_male.wav",
+      "size": 522684,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_overflylanding3.wav",
+      "size": 451092,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_overflylanding3_male.wav",
+      "size": 373372,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach1.wav",
+      "size": 554240,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach1_male.wav",
+      "size": 532442,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach2.wav",
+      "size": 270684,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach2_male.wav",
+      "size": 246462,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach3.wav",
+      "size": 476304,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach3_male.wav",
+      "size": 429872,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach4.wav",
+      "size": 502670,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_prepapproach4_male.wav",
+      "size": 439330,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_rightturnvalley.wav",
+      "size": 275018,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_rightturnvalley_male.wav",
+      "size": 264910,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_runwayclear.wav",
+      "size": 145608,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_runwayclear_male.wav",
+      "size": 129172,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_takeoff.wav",
+      "size": 147854,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/fr-fr/bushchallenge_dlg_takeoff_male.wav",
+      "size": 136068,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_choosedowndraft.wav",
+      "size": 485516,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_choosedowndraft_male.wav",
+      "size": 493802,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_chooseupdraft.wav",
+      "size": 528712,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_chooseupdraft_male.wav",
+      "size": 559148,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_choosevalleyside.wav",
+      "size": 620926,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_choosevalleyside_male.wav",
+      "size": 646068,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_flapsclimb.wav",
+      "size": 470584,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_flapsclimb_male.wav",
+      "size": 490468,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_intro1.wav",
+      "size": 420390,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_intro1_male.wav",
+      "size": 449618,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_intro2.wav",
+      "size": 366638,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_intro2_male.wav",
+      "size": 380516,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_intro3.wav",
+      "size": 203154,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_intro3_male.wav",
+      "size": 215936,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_maintain1500ft.wav",
+      "size": 485466,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_maintain1500ft_fail.wav",
+      "size": 201696,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_maintain1500ft_fail_male.wav",
+      "size": 233276,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_maintain1500ft_male.wav",
+      "size": 475180,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_maintain1500ft_reminder.wav",
+      "size": 359086,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_maintain1500ft_reminder_male.wav",
+      "size": 400130,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_outro1.wav",
+      "size": 461462,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_outro1_male.wav",
+      "size": 414108,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_outro2.wav",
+      "size": 674098,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_outro2_male.wav",
+      "size": 637648,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_overflylanding1.wav",
+      "size": 200330,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_overflylanding1_male.wav",
+      "size": 192986,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_overflylanding2.wav",
+      "size": 593898,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_overflylanding2_male.wav",
+      "size": 606662,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_overflylanding3.wav",
+      "size": 414024,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_overflylanding3_male.wav",
+      "size": 388066,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach1.wav",
+      "size": 728840,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach1_male.wav",
+      "size": 791004,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach2.wav",
+      "size": 316332,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach2_male.wav",
+      "size": 400788,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach3.wav",
+      "size": 428608,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach3_male.wav",
+      "size": 454960,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach4.wav",
+      "size": 362342,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_prepapproach4_male.wav",
+      "size": 357240,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_rightturnvalley.wav",
+      "size": 239752,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_rightturnvalley_male.wav",
+      "size": 231888,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_runwayclear.wav",
+      "size": 175486,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_runwayclear_male.wav",
+      "size": 176406,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_takeoff.wav",
+      "size": 169586,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/sound/pt-br/bushchallenge_dlg_takeoff_male.wav",
+      "size": 165802,
+      "date": 134200497890000000
+    },
+    {
+      "path": "missions/asobo/kh/tutorials/bushpilot/7-bushchallenge/weather.wpr",
+      "size": 2940,
+      "date": 134200497890000000
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 8028,
+      "date": 134108894580000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 9123,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 8329,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 8516,
+      "date": 134108894580000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 8708,
+      "date": 134108894580000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 12410,
+      "date": 134108894580000000
+    },
+    {
+      "path": "stringsspeakers.spk",
+      "size": 7849,
+      "date": 134108894580000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 8336,
+      "date": 134108894580000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 8678,
+      "date": 134108894580000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 7845,
+      "date": 134108894580000000
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "content": [
+    {
+      "path": "assistancepresets/presetsglobal/preset_global-redbull.spb",
+      "size": 1311,
+      "date": 134152737270000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-aircraft_systems-redbull.spb",
+      "size": 676,
+      "date": 134152737270000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-failure_and_damages-redbull.spb",
+      "size": 681,
+      "date": 134152737270000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-navigation_aids-redbull.spb",
+      "size": 674,
+      "date": 134152737270000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-notification-redbull.spb",
+      "size": 697,
+      "date": 134152737270000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-piloting-tutorial_redbull.spb",
+      "size": 774,
+      "date": 134152737270000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-poi-redbull.spb",
+      "size": 707,
+      "date": 134152737270000002
+    },
+    {
+      "path": "assistancepresets/presetssection/preset_section-user_experience-redbull.spb",
+      "size": 835,
+      "date": 134152737270000002
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 643,
+      "date": 134184741920000000
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 637,
+      "date": 134184741920000000
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 677,
+      "date": 134184741920000000
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 679,
+      "date": 134184741920000000
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 651,
+      "date": 134184741920000000
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 678,
+      "date": 134184741920000000
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 661,
+      "date": 134184741920000000
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 655,
+      "date": 134184741920000000
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 657,
+      "date": 134184741920000000
+    },
+    {
+      "path": "missions/asobo/sr/challenges/redbull/default/generic_logic_flightpath.spb",
+      "size": 2582,
+      "date": 134056780190000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/redbull/default/redbull_briefingdata.spb",
+      "size": 878,
+      "date": 134056780190000002
+    },
+    {
+      "path": "missions/asobo/sr/challenges/redbull/default/redbull_logic_sound.spb",
+      "size": 648,
+      "date": 134056780190000002
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 642,
+      "date": 134184741920000000
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 646,
+      "date": 134184741920000000
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 649,
+      "date": 134184741920000000
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 661,
+      "date": 134184741920000000
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 685,
+      "date": 134184741920000000
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 782,
+      "date": 134184741920000000
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 643,
+      "date": 134184741920000000
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 647,
+      "date": 134184741920000000
+    },
+    {
+      "path": "widgets/activities/placeholder.jpg",
+      "size": 54796,
+      "date": 133857441810000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_redbull_activities.xml",
+      "size": 511,
+      "date": 133857441810000000
+    },
+    {
+      "path": "widgets/activitywidgetparams_redbull_trainings.xml",
+      "size": 504,
+      "date": 133857441810000000
+    },
+    {
+      "path": "widgets/categorywidgetparams_redbull.xml",
+      "size": 503,
+      "date": 133857441810000000
+    },
+    {
+      "path": "widgets/images/placeholder.jpg",
+      "size": 54796,
+      "date": 133857441810000000
+    },
+    {
+      "path": "widgets/widgetparams_redbull_activities.xml",
+      "size": 633,
+      "date": 133857441810000000
+    },
+    {
+      "path": "widgets/widgetparams_redbull_trainings.xml",
+      "size": 623,
+      "date": 133857441810000000
+    },
+    {
+      "path": "widgets/widgetsactivities.xml",
+      "size": 843,
+      "date": 133857441810000000
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 610,
+      "date": 134184741920000000
+    }
+  ]
+}

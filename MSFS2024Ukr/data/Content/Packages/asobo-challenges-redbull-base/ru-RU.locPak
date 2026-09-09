@@ -1,0 +1,19 @@
+{
+  "LocalisationPackage": {
+    "Language": "ru-RU",
+    "Strings": {
+      "COURSE_LEADERBOARD": "Таблица лидеров курса — {DIFFICULTY}",
+      "DIFFICULTY.BEGINNER": "Начальный",
+      "DIFFICULTY.LENIENT": "Упрощенный",
+      "DIFFICULTY.OFFICIAL": "Официальный",
+      "DIFFICULTY_RULESET": "Правила\r\n",
+      "DIFFICULTY_TITLE": "Сложность: {DIFFICULTY}",
+      "DIFFICULTY_TRACK": "Схема полета",
+      "REDBULL.PAUSE.BACK_TO_TRACK_SELECTION": "Вернуться к выбору маршрута",
+      "TITLE.BEGINNER": "Новичок",
+      "TITLE.CHALLENGER": "Эксперт",
+      "TITLE.INTERMEDIATE": "Средний",
+      "TITLE.TTL": "Реальные условия"
+    }
+  }
+}
