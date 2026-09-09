@@ -14,7 +14,7 @@ namespace MSFS2024Ukr
         {
             appState.LastDate = DateTime.Now;
             appStateStorage.SaveAsync(appState).Wait();
-            Console.WriteLine($"apiKey: {apiKey}");
+            Console.WriteLine($"apiKey: {Environment.GetEnvironmentVariable("GOOGLE_API_KEY")}");
             Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
             // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
         }
