@@ -12,6 +12,8 @@ namespace MSFS2024Ukr
         static TranslationClient client = TranslationClient.CreateFromApiKey(apiKey);
         static void Main(string[] args)
         {
+            appState.LastDate = DateTime.Now;
+            appStateStorage.SaveAsync(appState).Wait();
             Console.WriteLine($"apiKey: {apiKey}");
 
             var files = Directory
