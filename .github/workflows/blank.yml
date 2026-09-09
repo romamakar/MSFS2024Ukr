@@ -37,6 +37,8 @@ jobs:
         run: dotnet build --configuration Release
 
       - name: Run the program
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: .\MSFS2024Ukr\bin\Release\net8.0\MSFS2024Ukr.exe
         shell: powershell
       # запуск програми
