@@ -1,0 +1,4125 @@
+{
+  "LocalisationFile": {
+    "Version": 3,
+    "UUID": "a0a6b099-6985-42dc-bc6a-d1da461fbd16",
+    "Languages": [
+      "de-DE",
+      "en-US",
+      "es-ES",
+      "es-MX",
+      "fi-FI",
+      "fr-FR",
+      "it-IT",
+      "ja-JP",
+      "ko-KR",
+      "nb-NO",
+      "nl-NL",
+      "pl-PL",
+      "pt-BR",
+      "pt-PT",
+      "ru-RU",
+      "sv-SE",
+      "tr-TR",
+      "zh-CN"
+    ],
+    "Strings": {
+      "1c583eca-e4ff-4740-8fb7-6abfb45352d2": {
+        "Name": "AttitudesPitch.Step_Plane_Pitch_Down",
+        "Comment": "Placeholder refers to an input button from the players chosen controller",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Mit {STR_AXIS_ELEVATOR_SET} die obere Linie am Horizont ausrichten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Place the upper line onto the horizon using {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Sitúa la línea superior en el horizonte con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Sitúa la línea superior en el horizonte con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Vie yläviiva horisontin kohdalle {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Placer la ligne du haut sur l'horizon en utilisant {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Posiziona la linea superiore sull'orizzonte con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} で水平線上に上側のラインを合わせる",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "상단 선을 수평선에 맞게 배치 ({STR_AXIS_ELEVATOR_SET} 사용)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Plasser den øverste linjen på horisonten ved å bruke {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Plaats de bovenste lijn op de horizon met behulp van {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Ustaw górną linię na horyzoncie za pomocą {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Coloque a linha superior no horizonte usando {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Coloque a linha superior no horizonte ao utilizar {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Совместите верхнюю линию с линией горизонта при помощи {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Positionera den övre linjen på horisonten med {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} ile alt çizgiyi ufukla hizalayın",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "按下{STR_AXIS_ELEVATOR_SET}将上方的线置于地平线上",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "1d9b587c-681a-446c-b8a1-98f21e080f86": {
+        "Name": "AttitudesPitch.REWARD_LevelOff",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Die Reisefluglagenlinie auf Höhe des Horizonts halten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Maintain the cruise attitude line on the horizon",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Mantener la línea de actitud de crucero en el horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Mantener la línea de actitud de crucero en el horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Pidä matkalentoasentoviiva horisontin kohdalla",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Maintenir la ligne de l'assiette de croisière sur l'horizon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Mantieni la linea dell'assetto di crociera sull'orizzonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "巡航姿勢ラインを水平線上に維持する",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "순항 자세 선을 수평선에 유지",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Hold marsjorienteringslinjen på horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Houd de kruisvluchthoudingslijn op de horizon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Utrzymaj linię pochylenia odpowiedniego dla prędkości przelotowej równo z horyzontem",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Mantenha a linha de atitude de cruzeiro no horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Mantenha a linha de atitude de cruzeiro no horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Совместите линию крейсерского режима с линией горизонта и сохраняйте это положение",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Håll linjen för marschattityd på horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Seyir durumu çizgisini ufukta tutun",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "保持巡航姿态线在地平线上",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "2cf22a70-c343-43b8-89b3-475fc6aefb8a": {
+        "Name": "AttitudesPitch.Dlg_PitchLevel1Reminder",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Bewegen Sie das Steuerhorn, bis die Reisefluglagenlinie mit dem Horizont übereinstimmt.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Adjust the yoke until the cruise attitude line is level with the horizon.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ajusta el volante hasta que la línea de actitud de crucero esté nivelada con el horizonte.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Ajusta el volante hasta que la línea de actitud de crucero esté nivelada con el horizonte.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Liikuta ohjaussauvaa, kunnes horisontti on matkalentoasentoviivan kohdalla.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Ajustez le manche jusqu'à ce que la ligne de l'assiette de croisière soit au niveau de l'horizon.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Regola la barra fino a quando la linea di assetto di crociera non è al livello dell'orizzonte.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "巡航姿勢線が地平線に重なるまでヨークを調整します。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "순항 자세 실선이 수평선과 일치할 때까지 조종간을 움직이십시오.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Juster styrespaken til linjen for marsjorientering er innrette med horisonten.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Breng aanpassingen aan de stuurkolom aan tot de lijn voor de kruisvluchthouding op gelijke hoogte is met de horizon.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Poruszając wolantem, ustaw linię pochylenia odpowiedniego dla prędkości przelotowej równo z horyzontem.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Ajuste o manche até que a linha da atitude de cruzeiro esteja nivelada com o horizonte.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Ajuste a manche até que a linha de atitude de cruzeiro esteja nivelada com o horizonte.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Работайте штурвалом до тех пор, пока линия крейсерского режима не совпадёт с линией горизонта.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Justera styrspaken tills linjen för marschattityd är i nivå med horisonten.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Seyir durumu çizgisi ufukla aynı hizaya gelene kadar lövyeyi ayarlayın.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "调整控制杆，直至巡航姿态线与地平线平齐。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "3f1a19f8-7485-4eec-a661-50f89542124a": {
+        "Name": "AttitudesPitch.Goal_Plane_Pitch_Up",
+        "Comment": "Direction aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-07 17:36:56",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Steigen Sie auf",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Pitch up to climb",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Aumenta el cabeceo para ascender",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Aumenta el cabeceo para ascender",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Nosta nokkaa ylös ja nouse",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Cabrer pour monter",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Beccheggio verso l'alto per iniziare la salita",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ピッチ アップで上昇",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "피치를 높여 상승 자세 형성",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Pitch opp for å stige",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Neus omhoog om te klimmen",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Uniesienie dziobu dla wznoszenia",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Cabre para subir",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Arfe para cima para subir",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Кабрируйте, чтобы набрать высоту",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Höj nosläget för att stiga",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Tırmanmak için yukarı yunuslama yapın",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "向上仰起至爬升姿态",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "07c2eaa9-07d8-40db-b954-2c94810b59b0": {
+        "Name": "BasicControls.Dlg_UnexpectedLanding3",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-07 17:36:56",
+        "LocalizationStatus": "Active",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "de-DE": {
+            "Text": "An dieser Stelle wäre es wohl das Beste, wenn wir die Lektion neu beginnen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "At this point I think it's probably best if we start the lesson over.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Creo que ahora mismo lo mejor sería volver a repetir la lección.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Creo que ahora mismo lo mejor sería volver a repetir la lección.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Tässä vaiheessa on parasta aloittaa oppitunti alusta.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "À ce stade, je pense qu'il serait préférable de recommencer la leçon.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "A questo punto, credo sarebbe meglio se ricominciassimo la lezione da capo.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ここで教習をやり直すのがベストでしょう。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "이쯤 되면 교습을 다시 시작하는 편이 낫겠네요.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Nå tror jeg det er best om vi starter leksjonen på nytt.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Ik denk dat het nu waarschijnlijk het beste is de les opnieuw te starten.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Chyba najlepiej będzie, jeśli zaczniemy szkolenie od początku.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Sendo assim, acho que seria melhor recomeçarmos a lição.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Nesta altura, acho que seria melhor recomeçarmos a lição.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Поэтому я думаю, что лучше всего начать урок заново.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Vid det här laget är det nog bäst om vi tar om lektionen från början.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Durum böyleyken en iyisi derse baştan başlamak.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "既然这样的话，我觉得不如还是重新开始这节课吧。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "7fd2790e-d391-4c8f-b2d9-151965d1f575": {
+        "Name": "AttitudesPitch.Dlg_Feedback_GeneralAttitude_A",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Es ist für alle Arten von Manövern wichtig, eine präzise und stabile Fluglage beibehalten zu können.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Being able to maintain a precise and stable attitude is key to performing all types of maneuvers.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ser capaz de mantener una actitud precisa y estable es esencial para realizar todo tipo de maniobras.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Ser capaz de mantener una actitud precisa y estable es esencial para realizar todo tipo de maniobras.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Tarkan ja vakaan lentoasennon ylläpitäminen on avainasemassa kaikenlaisissa liikkeissä.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Pour effectuer tous types de manœuvres, il est essentiel de savoir maintenir une assiette stable et précise.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Essere in grado di mantenere un assetto preciso e stabile è fondamentale per eseguire tutti i tipi di manovre.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "正確で安定した姿勢を保つことが、あらゆる空中機動の基本になります。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "다양한 기동을 수행하려면 무엇보다도 정밀하고 안정적인 자세가 중요합니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Det å kunne opprettholde en presis og stabil orientering er nøkkelen til å utføre alle typer manøvrer.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Het handhaven van een exacte en stabiele vliegstand is de sleutel tot het uitvoeren van alle soorten manoeuvres.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Umiejętność precyzyjnego utrzymywania właściwego pochylenia jest kluczem do prawidłowego wykonywania wszelkich manewrów.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Conseguir manter uma atitude precisa e estável é fundamental para realizar todos os tipos de manobras.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Conseguir manter uma atitude precisa e estável é fundamental para realizar todos os tipos de manobras.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Умение точно удерживать стабильное пространственное положение лежит в основе выполнения всех манёвров.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Nyckeln till att kunna utföra alla typer av manövrar är att kunna upprätthålla en exakt och stabil attityd.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Kesin ve istikrarlı bir uçuş durumunu sürdürebilmek, her türlü manevrayı gerçekleştirmenin anahtarıdır.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "能够保持精准稳定的姿态是执行各种机动动作的关键。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "8c9b9d5c-11a6-4faa-93d8-310dcd377087": {
+        "Name": "AttitudesPitch.Goal_Plane_Pitch_Level",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-11-27 17:09:49",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Stabilisieren Sie das Flugzeug",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Level Off",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Estabilízate",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Estabilízate",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Oikaise vaakatasoon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Stabiliser l'avion",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Stabilizza",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "レベルオフ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "수평 비행",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Rett opp",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Horizontaal vliegen",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Wyrównanie",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Nivelado",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Nivelar",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Выравнивание",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Plana ut",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Düz Uçuş",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "矫直飞机",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "09dff36d-2da2-47e4-8ada-7acdc5f296fd": {
+        "Name": "AttitudesPitch.Dlg_PitchLevel1",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Bringen Sie uns jetzt wieder in eine gerade Position.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Now, let's level back out.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora, vamos a volver al vuelo uniforme.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Ahora, nivelémonos de nuevo.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Siirrytään takaisin vaakalentoasentoon.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Maintenant, revenons à la position initiale.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Ora rimetti l'aeromobile a livello.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "水平に戻りましょう。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "자, 다시 수평을 유지합시다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "La oss rette opp igjen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Laten we nu weer overgaan in horizontale vlucht.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Teraz wyrównajmy.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Agora, vamos nivelar de volta.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Agora, volte a nivela para fora.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "А теперь выровняйте самолёт.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Nu ska vi plana ut igen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Tamam, şimdi tekrar düz uçuş moduna geçin.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "现在让我们重新拉平。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "9d3554f9-b2d5-4534-8b21-8fdeb9c85aae": {
+        "Name": "AttitudesPitch.Step_Maintain_Pitch_Up",
+        "Comment": "Placeholder refers to an input button from the players chosen controller",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Mit {STR_AXIS_ELEVATOR_SET} die untere Linie 20 Sekunden auf dem Horizont halten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Maintain the lower line onto the horizon for 20 seconds using {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Mantén la línea inferior en el horizonte durante 20 segundos con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Mantén la línea inferior en el horizonte durante 20 segundos con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Pidä alaviiva horisontin kohdalla 20 sekunnin ajan {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Maintenir la ligne du haut sur l'horizon pendant 20 secondes en utilisant {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Mantieni la linea inferiore sull'orizzonte per 20 secondi con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} で水平線上に下側のラインを 20 秒間維持する",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "하단 선을 20초 동안 수평선에 유지 ({STR_AXIS_ELEVATOR_SET} 사용)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Hold den nederste linjen på horisonten i 20 sekunder ved å bruke {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Houd de onderste lijn gedurende 20 seconden op de horizon geplaatst met behulp van {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Utrzymaj dolną linię na horyzoncie przez 20 sekund za pomocą {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Mantenha a linha inferior no horizonte por 20 segundos usando {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Mantenha a linha inferior no horizonte por 20 segundos ao utilizar {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Удерживайте нижнюю линию на уровне горизонта в течение 20 секунд с помощью {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Håll den nedre linjen på horisonten i 20 sekunder med {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} ile alt çizgiyi 20 saniye boyunca ufukta tutun",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "按下{STR_AXIS_ELEVATOR_SET}将下方的线保持在地平线上20秒钟",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "15bd11e5-6dda-4dbf-bdf1-45219b195646": {
+        "Name": "AttitudesPitch.Briefing.FullBrief",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2025-03-07 15:41:35",
+        "LocalizationStatus": "PlaceHolder",
+        "Languages": {
+          "de-DE": {
+            "Text": "In diesem Tutorial lernen Sie die Grundlagen des Fluglagenmanagements kennen. </br></br> Die Fluglage bezieht sich auf die Ausrichtung des Flugzeugs in Bezug auf den Horizont, sei es durch Neigung* oder Rolle*. </br></br> In diesem Tutorial lernen Sie, wie Sie 3 Neigungslagen steuern können: </br></br><li>Steigflug <li>Reiseflug <li>Sinkflug </br></br> Sie lernen auch die Beziehung zwischen Neigung und Geschwindigkeit kennen. Wenn Sie nach oben neigen, verringert sich die Geschwindigkeit. Neigen Sie nach unten, erhöht sie sich. </br></br> In der Abbildung rechts stellen die gestrichelten Linien die Position des Horizonts beim Auf- oder Abstieg dar. </br></br> Verwechseln Sie nicht <b>Fluglage</b> mit <b>Höhe</b> (auch wenn es eine Korrelation zwischen den beiden gibt, da die Höhe je nach Fluglage gewonnen oder verloren wird). </br></br>*<b>Neigung</b> = Eine der drei Hauptbewegungsachsen, die durch das Höhenruder betätigt wird. Dies ermöglicht das Neigen des Flugzeugs nach oben oder unten (von der Nase zum Heck), was in der Regel zu einem Höhengewinn oder -verlust führt. </br>*<b>Rolle</b> = Eine weitere Hauptbewegungsachse, die von den Querrudern betätigt wird. Dies ermöglicht es dem Flugzeug, von einer Seite zur anderen (von Flügelspitze zu Flügelspitze) um eine zentrale Achse zu schaukeln, was in Kombination mit dem Höhenruder zu einer Drehung führt.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "In this tutorial you will learn the basics of attitude management. </br></br> Attitude refers to the aircraft's orientation in relation to the horizon be it through pitch* or roll*. </br></br> You will learn to manage 3 pitch attitudes in this tutorial: </br></br><li>Climb <li>Cruise <li>Descent </br></br> You will also learn about the relationship between pitch and speed. Pitching up will cause the speed to decrease while pitching down will cause it to increase. </br></br> In the image to the right, the dashed lines represent the horizon's position when ascending or descending. </br></br> Do not confuse <b>attitude</b> with <b>altitude</b> (even if there is a correlation between the two since altitude is gained or lost depending on the plane's attitude). </br></br>*<b>Pitch</b> = One of the three principal axes of movement, actuated by the elevator. This allows an aircraft to tilt up or down (from nose to tail), usually resulting in a gain or loss of altitude. </br> *<b>Roll</b> = Another principal axis of movement, actuated by the ailerons. This allows the aircraft to rock from side to side (from wing-tip to wing-tip) around a central axis, resulting in a turn when combined with some elevator input.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "En este tutorial aprenderás los conceptos básicos para gestionar la actitud. </br></br>La actitud hace referencia a la posición del morro del avión en relación con el horizonte, ya sea mediante cabeceo* o balanceo*. </br></br>Aprenderás a gestionar 3 actitudes de cabeceo en este tutorial: </br></br><li>Ascenso. <li>Crucero. <li>Descenso. </br></br>También aprenderás la relación entre el cabeceo y la velocidad. Aumentar el cabeceo hará que disminuya la velocidad, mientras que disminuir el cabeceo hará que aumente. </br></br>En la imagen de la derecha, las líneas discontinuas representan la posición del horizonte al ascender o descender.  </br></br>No se debe confundir la <b>actitud</b> con la <b>altitud</b> (incluso si hay correlación entre ambas, ya que la altitud se gana o se pierde según la actitud del avión). </br></br>*<b>Cabeceo</b> = Uno de los tres ejes principales de movimiento que acciona el timón de profundidad. Esto permite que una aeronave se incline hacia arriba o hacia abajo (desde el morro hasta la cola), lo que suele dar lugar a una ganancia o pérdida de altitud. </br>*<b>Balanceo</b> = Otro eje principal de movimiento, accionado por los alerones. Esto permite que la aeronave se mueva de lado a lado (desde el extremo de un ala al extremo de la otra) alrededor de un eje central, lo que se traduce en un giro cuando se combina con un poco de profundidad.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "En este tutorial aprenderás los conceptos básicos para gestionar la actitud. </br></br>La actitud hace referencia a la posición de la nariz del avión en relación con el horizonte, ya sea mediante cabeceo* o balanceo*. </br></br>Aprenderás a gestionar 3 actitudes de cabeceo en este tutorial: </br></br><li>Ascenso. <li>Crucero. <li>Descenso. </br></br>También aprenderás la relación entre el cabeceo y la velocidad. Aumentar el cabeceo hará que disminuya la velocidad, mientras que disminuir el cabeceo hará que aumente. </br></br>En la imagen de la derecha, las líneas discontinuas representan la posición del horizonte al ascender o descender.  </br></br>No se debe confundir la <b>actitud</b> con la <b>altitud</b> (incluso si hay correlación entre ambas, ya que la altitud se gana o se pierde según la actitud del avión). </br></br>*<b>Cabeceo</b> = Uno de los tres ejes principales de movimiento que acciona el timón de profundidad. Esto permite que una aeronave se incline hacia arriba o hacia abajo (desde la nariz hasta la cola), lo que suele dar lugar a una ganancia o pérdida de altitud. </br>*<b>Balanceo</b> = Otro eje principal de movimiento, accionado por los alerones. Esto permite que la aeronave se mueva de lado a lado (desde el extremo de un ala al extremo de la otra) alrededor de un eje central, lo que se traduce en un giro cuando se combina con un poco de profundidad.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Tällä oppitunnilla opetellaan lentoasennon hallinnan perusteet. </br></br> Lentoasennolla tarkoitetaan ilma-aluksen kallistusta poikittais-* tai pituusakselin* ympäri suhteessa horisonttiin. </br></br> Tällä oppitunnilla opit hallitsemaan kolmea eri pituuskallistusta: </br></br><li>Nousu<li>Matkalento<li>Laskeutuminen </br></br>Saat myös tietoa pituuskallistuksen eli nyökkäämisen ja nopeuden välisestä suhteesta. Pituuskallistus ylös pienentää nopeutta ja pituuskallistus alas suurentaa nopeutta. </br></br> Oikealla olevassa kuvassa katkoviivat kuvaavat horisontin paikkaa nousussa ja laskussa. </br></br><b>Lentoasentoa</b> ei pidä sekoittaa <b>korkeuteen</b> (vaikka ne liittyvätkin toisiinsa, sillä korkeus kasvaa tai laskee lentoasennon mukaan). </br></br>* <b>Pituuskallistus</b> = Yksi koneen kolmesta akselin ympäri tapahtuvasta pääliikesuunnasta, jota hallitaan korkeusperäsimellä. Kone voi kallistua pituussuunnassa (nokasta pyrstöön) ylös tai alas, jolloin tuloksena on tyypillisesti korkeuden lisääntyminen tai väheneminen. </br>* <b>Kallistus pituusakselin ympäri</b> = Toinen pääliikesuunta, jota hallitaan siivekkeillä. Kone voi kallistua sivulta toiselle (sivusuunnassa siivenkärjestä toiseen) pituusakselin ympäri, ja kun tähän yhdistetään korkeusperäsimen kääntäminen, kone kääntyy.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Dans ce tutoriel, vous apprendrez les bases de la gestion de l'assiette. </br></br> L'assiette désigne l'orientation de l'appareil par rapport à l'horizon, en terme de tangage* ou de roulis*. </br></br> Dans ce tutoriel, vous apprendrez à gérer 3 assiettes longitudinales :</br></br><li>Montée<li>Croisière<li>Descente </br></br> Vous en apprendrez également davantage sur la relation entre tangage et vitesse. Tanguer vers le haut (cabrer) fera perdre de la vitesse à l'appareil tandis que tanguer vers le bas (piquer) lui en fera prendre. </br></br> Sur l'image à droite, les lignes en pointillés représentent la position de l'horizon pendant la montée ou la descente. </br></br> Ne confondez pas <b>assiette</b> et <b>altitude</b> (cela dit, il existe bien un lien entre les deux : l'appareil prend ou perd de l'altitude en fonction de son assiette). </br></br> <b>*Tangage</b> = Un des trois axes de mouvement principaux, géré par la gouverne de profondeur. Permet d'incliner l'appareil vers l'avant ou vers l'arrière (du nez à la queue), ce qui lui fait généralement prendre ou perdre de l'altitude.</br> <b>*Roulis</b> = Un des trois axes de mouvement principaux, géré par les ailerons. Permet de faire pencher l'appareil d'un côté ou de l'autre (d'une extrémité d'aile à l'autre) autour d'un axe central, ce qui, conjugué à la gouverne de profondeur, permet d'effectuer des virages.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "In questo tutorial apprenderai le basi della gestione dell'assetto. </br></br> Con assetto si intende l'orientamento dell'aeromobile rispetto alla linea dell'orizzonte, sia in termini di beccheggio* sia di rollio*. </br></br> Imparerai a gestire tre assetti di beccheggio: </br></br><li>salita; <li>crociera; <li>discesa. </br></br> Approfondiremo inoltre il rapporto tra beccheggio e velocità. Il beccheggio verso l'alto tende a ridurre la velocità, mentre il beccheggio verso il basso la aumenta. </br></br> Nell'immagine a destra, le linee tratteggiate rappresentano la posizione dell'orizzonte durante la salita o la discesa. </br></br> Non bisogna confondere l'<b>assetto</b> con l'<b>altitudine</b>, benché i due valori siano correlati, dato che l'altitudine varia in base all'assetto. </br></br>*<b>Beccheggio</b> = uno dei tre assi di movimento principali, controllato tramite l'equilibratore. Consente all'aereo di inclinarsi verso l'alto o verso il basso (dal muso alla coda), comportando solitamente un guadagno o una perdita di quota. </br> *<b>Rollio</b> = un altro asse di movimento principale, controllato tramite gli alettoni. Consente all'aereo di oscillare lateralmente (da un'estremità alare all'altra) attorno a un asse centrale, il che si traduce in una virata se combinato a un input di equilibratore.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "このチュートリアルでは、姿勢管理の基本を学習します。</br></br>姿勢とは、ピッチまたはロールによる、水平線に対する航空機の向きを指します。</br></br>このチュートリアルでは、3 つのピッチ姿勢を管理する方法を学びます:</br></br><li>上昇姿勢<li>水平飛行姿勢<li>降下姿勢</br></br>また、ピッチと速度の関係についても学習します。機首を上げると速度が減少し、機首を下げると速度が増加します。</br></br>右の画像では、破線は上昇時または降下時の地平線の位置を表しています。</br></br><b>姿勢 (アティチュード)</b> と<b>高度 (アルティチュード)</b> を混同しないでください (航空機の姿勢によって高度が変化するため、両者には関連性がありますが)。</br></br><b>ピッチ</b> = 3 つの主要な運動軸の 1 つで、エレベーターによって制御されます。航空機が上方向または下方向に傾く (機首から尾部の傾き) ことを可能にし、通常は高度の増減につながります。</br><b>ロール</b> = もう 1 つの主要な運動軸で、エルロンによって制御されます。航空機が中心軸を中心に左右に傾く (翼端から翼端の傾き) ことを可能にし、エレベーター操作と組み合わせて旋回します。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "이 튜토리얼에서는 자세 관리의 기초를 배우게 됩니다. </br></br> 자세는 수평선을 기준으로 한 항공기의 기수 방향을 말하며 피치* 또는 롤*을 통해 구사합니다. </br></br> 이 튜토리얼에서는 다음의 3가지 피치 자세를 취하는 방법을 배웁니다. </br></br><li>상승 <li>순항 <li>하강 </br></br> 또한 피치와 속도의 관계에 대해서도 배우게 됩니다. 피치를 올리면 속도가 감소하고 피치를 낮추면 속도가 증가합니다. </br></br> 오른쪽 이미지에서 점선은 상승 또는 하강할 때 수평선의 위치를 나타냅니다.</br></br> <b>자세</b>와 <b>고도</b>를 혼동하지 마세요. 비행기의 자세에 따라 고도가 증가하거나 감소하기 때문에 둘 사이에 상관관계가 있긴 하지만요.</br></br>*<b>피치</b> = 승강타에 의해 작동되는 세 가지 주요 이동 축 중 하나. 항공기가 기수에서 꼬리까지 위 또는 아래로 기울어질 수 있도록 하여 일반적으로 고도를 높이거나 낮춥니다. </br> *<b>롤</b> = 에일러론에 의해 작동되는 또 다른 주요 이동 축. 항공기가 중심축을 중심으로 좌우로(날개 끝에서 날개 끝까지) 흔들릴 수 있으므로 승강타 실행과 결합할 때 회전이 발생합니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "I denne opplæringen lærer du det grunnleggende om å holde nesestillingen.</br></br>Nesestillingen indikerer flyets neseposisjon i forhold til horisonten, via høydeaksen* eller lengdeaksen*.</br></br>Du lærer å håndtere tre nesestillinger i denne opplæringen:</br></br><li>Stigning<li>Marsjflyvning<li> Nedstigning</br></br>Du lærer også om forholdet mellom nesestilling og fart. Når du setter nesen opp, fører dette til at farten reduseres, og når du setter den ned, øker farten.</br></br>På bildet til høyre representerer de stiplede linjene horisontens posisjon ved stigning eller nedstigning.</br></br>Ikke forveksle <b>nesestilling</b> med <b>høyde</b> (selv om det er en sammenheng mellom de to, siden høyde oppnås eller går tapt avhengig av flyets nesestilling). </br></br>*<b>Høydeaksen</b> = En av de tre viktigste bevegelsesaksene, justeres av høyderoret. Lar et fly vippe opp eller ned (fra nese til hale), noe som vanligvis resulterer i økning eller tap av høyde.</br> *<b>Lengdeaksen</b> = En annen hovedbevegelsesakse, aktivert av balanserorene. Lar flyet krenge fra side til side (fra vingespiss til vingespiss) rundt en sentral akse, noe som resulterer i en sving når det kombineres med en justering av høyderoret.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "In deze tutorial leer je de basisprincipes van het beheren van de vliegtuigstand. </br></br>Vliegtuigstand verwijst naar de oriëntatie van het vliegtuig ten opzichte van de horizon, of het nu gaat om pitch* of rol*. </br></br> In deze tutorial leer je 3 pitch-standen te beheren: </br></br><li>Klimmen <li>Kruisen <li>Dalen </br></br> Je leert ook over de relatie tussen pitch en snelheid. Een pitch omhoog zal ervoor zorgen dat de snelheid afneemt, terwijl een pitch omlaag ervoor zal zorgen dat deze toeneemt. </br></br> In de afbeelding rechts geven de stippellijnen de positie van de horizon weer bij het stijgen of dalen. </br></br> Verwar <b>vliegtuigstand</b> niet met <b>hoogte</b> (zelfs als er een correlatie is tussen die twee, aangezien hoogte wordt gewonnen of verloren afhankelijk van de stand van het vliegtuig). </br></br>*<b>Pitch</b> = Een van de drie belangrijkste bewegingsassen, bediend door het hoogteroer. Hiermee kan een vliegtuig omhoog of omlaag kantelen (van neus naar staart), wat meestal resulteert in een toename of verlies van hoogte. </br> *<b>Rol</b> = Een andere hoofdbewegingsas, bediend door de rolroeren. Hiermee kan het vliegtuig van links naar rechts schommelen (van vleugeltip tot vleugeltip) rond een centrale as, wat resulteert in een bocht in combinatie met wat hoogteroer.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "W tym samouczku nauczysz się podstaw sterowania pochyleniem. </br></br> Kąt nachylenia maszyny to pozycja statku powietrznego w stosunku do horyzontu poprzez pochylenie* lub przechylenie*. </br></br> W tym samouczku nauczysz się sterować 3 zakresami pochylenia: </br></br><li>Wznoszenie<li>Przelot<li> Zniżanie </br></br>Poznasz również związek między pochyleniem a prędkością. Odchylenie w górę spowoduje zmniejszenie prędkości, podczas gdy pochylenie w dół spowoduje jej wzrost. </br></br>Na obrazie po prawej stronie przerywane linie oznaczają położenie horyzontu podczas wznoszenia lub opadania. </br></br>Nie należy mylić <b>pochylenia</b> z <b>wysokością</b> (nawet jeśli istnieje związek między nimi, ponieważ wysokość jest zwiększana lub zmniejszana w zależności od pochylenia samolotu). </br></br>*<b> Pochylenie</b> = Jedna z trzech głównych osi ruchu, regulowana przez ster wysokości. Umożliwia pochylanie samolotu w górę lub w dół (od dzioba do ogona), co zwykle powoduje zwiększenie lub utratę wysokości.</br> *<b> Przechylenie</b> = Inna główna oś ruchu, regulowana przez lotki. Sprawia, ze samolot kołysze się z boku na bok (od końcówki jednego skrzydła do drugiego) po osi środkowej, co z pewnym udziałem steru wysokości powoduje skręt.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Neste tutorial, você aprenderá os conceitos básicos sobre gerenciamento de atitude. </br></br> Atitude refere-se à orientação da aeronave em relação ao horizonte, seja por meio de arfagem* ou rolamento*. </br></br> Você aprenderá a gerenciar 3 atitudes de arfagem neste tutorial: </br></br><li>Subida <li>Cruzeiro <li>Descida </br></br> Você também aprenderá sobre a relação entre arfagem e velocidade. Elevar o nariz fará a velocidade diminuir, enquanto abaixá-lo fará a velocidade aumentar. </br></br> Na imagem à direita, as linhas tracejadas representam a posição do horizonte durante a ascensão ou descida. </br></br> Não confunda <b>atitude</b> com <b>altitude</b> (mesmo que haja uma correlação entre as duas, já que a altitude é ganha ou perdida dependendo da atitude da aeronave). </br></br>*<b>Arfagem</b> = Um dos três eixos principais de movimento, controlado pelo profundor. Isso permite que a aeronave incline-se para cima ou para baixo (do nariz à cauda), geralmente resultando em ganho ou perda de altitude. </br> *<b>Rolagem</b> = Outro eixo principal de movimento, controlado pelos ailerons. Isso permite que a aeronave balance de um lado para o outro (de ponta de asa a ponta de asa) ao redor de um eixo central, resultando em uma curva quando combinado com algum comando de profundor.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Neste tutorial, vai aprender o essencial sobre a gestão da atitude. </br></br> “Atitude” refere-se à orientação da aeronave relativamente ao horizonte, seja por inclinação* ou rolamento*. </br></br> Vai aprender a gerir 3 atitudes de inclinação neste tutorial: </br></br><li>Subida <li>Cruzeiro <li>Descida </br></br> Também vai aprender sobre a relação entre a inclinação e a velocidade. Inclinar a aeronave para cima reduz a velocidade e incliná-la para baixo aumenta a velocidade. </br></br> Na imagem à direita, as linhas tracejadas representam a posição do horizonte ao subir ou descer. </br></br> Não confunda <b>atitude</b> e <b>altitude</b> (embora haja uma correlação ambas, visto que a altitude é ganha ou perdida conforme a atitude do avião). </br></br>*<b>Inclinação</b> = um dos três principais eixos de movimento; é controlada pelo leme de profundidade. Isto permite que a aeronave se incline para cima ou para baixo (do nariz à cauda), o que normalmente resulta no ganho ou na perda de altitude. </br> *<b>Rolamento</b> = outro eixo principal de movimento; é controlado pelos ailerons. Isto permite que a aeronave oscile de um lado para o outro (de uma ponta de asa a outra ponta de asa) em torno de um eixo central, o que resulta numa curva quando é combinado com o controlo do leme de profundidade.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "В этом уроке вы узнаете об основах пространственного положения. </br></br> Пространственное положение — ориентация самолета относительно горизонта по тангажу* или по крену*. </br></br> Здесь вы научитесь управлять 3 видами тангажа в пространственном положении: </br></br><li>Подъем. <li>Крейсерская высота. <li>Снижение. </br></br> Еще вы узнаете о взаимосвязи между тангажом и скоростью. При увеличении угла наклона скорость уменьшается, а при уменьшении — увеличивается. </br></br> На изображении справа пунктирные линии обозначают положение горизонта при подъеме или снижении. </br></br> Не путайте <b>пространственное положение</b> с <b>абсолютной высотой</b> (даже если между ними есть корреляция, поскольку абсолютная высота набирается или теряется в зависимости от положения самолета). </br></br>*<b>Тангаж</b> — одна из трех основных осей движения, приводимая в действие элеваторами. Тангаж позволяет самолету отклоняться вверх или вниз (от носа к хвосту), что обычно приводит к набору или потере высоты. </br> *<b>Крен</b> — другая главная ось движения, приводимая в действие элеронами. Крен позволяет самолету раскачиваться из стороны в сторону (от одного кончика крыла до другого) вокруг центральной оси, что приводит к повороту в сочетании с использованием элеваторов.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "I den här handledningen kommer du att lära dig grunderna i attitydhantering.</br></br>Attityd avser flygplanets orientering i förhållande till horisonten, vare sig det är genom pitch* eller roll*.</br></br>Du kommer att lära dig att hantera 3 pitchattityder i den här handledningen:</br></br><li>Stigning<li>Marsch<li>Nedstigning</br></br>Du kommer också att lära dig om förhållandet mellan pitch och fart. Om du pitchar upp kommer farten att minska medan pitch ner kommer att få den att öka.</br></br>I bilden till höger representerar de streckade linjerna horisontens position när du åker uppåt eller nedåt.</br></br>Blanda inte ihop <b>attityd</b> med <b>höjd</b> (även om det finns ett samband mellan de två eftersom höjd vinns eller förloras beroende på planets position).</br></br>*<b>Pitch</b> = En av de tre huvudsakliga rörelseaxlarna, som aktiveras av höjdrodret. Gör det möjligt för ett flygplan att luta uppåt eller nedåt (från nos till stjärt), vilket vanligtvis resulterar i en ökning eller förlust av höjd.</br>*<b>Roll</b> = En annan huvudaxel för rörelse, som aktiveras av skevrodren. Gör det möjligt för flygplanet att gunga från sida till sida (från vingspets till vingspets) runt en central axel, vilket resulterar i en sväng i kombination med viss höjdroderinmatning.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Bu eğitimde durum yönetiminin temellerini öğreneceksiniz. </br></br> Durum, hava aracının ufka göre olan yunuslama* veya tono* hareketini gösterir. </br></br> Bu eğitimde 3 yunuslama durumunu gerçekleştirmeyi öğreneceksiniz:</br></br><li>Tırmanış <li>Seyir <li>Alçalma </br></br> Ayrıca yunuslama ve hız arasındaki ilişkiyi de kavrayacaksınız. Örneğin hava aracını yukarı kaldırmak hızı azaltırken aşağı indirmek hızı artırır. </br></br> Sağdaki görüntüde kesikli çizgiler, tırmanış veya iniş sırasında ufkun konumunu temsil eder. </br></br> Her ne kadar aralarında bir ilişki olsa da <b>durumu</b> <b>irtifa</b> ile karıştırmamalısınız çünkü irtifa, hava aracının durumuna bağlı olarak kazanılır veya kaybedilir.</br></br>*<b>Yunuslama</b> = Üç ana hareket ekseninden biridir ve irtifa dümeni aracılığıyla gerçekleştirilir. Bir hava aracının burundan kuyruğa doğru yukarı kalkmasını veya aşağı eğilmesini sağlar ve genellikle irtifa kazancı veya kaybıyla sonuçlanır. </br>  *<b>Tono</b> = Bir diğer ana hareket eksenidir ve kanatçıklar tarafından gerçekleştirilir. Hava aracının bir kanat ucundan diğer kanat ucuna merkezi bir eksen etrafında yanlara doğru sallanmasını sağlar ve genellikle irtifa dümeni hareketiyle birleştiğinde dönüşle sonuçlanır.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "在本教程中，你将学习姿态管理的基础知识。</br></br>姿态是指飞机相对于地平线的方向，无论是通过俯仰*还是横滚*。</br></br>你将在本教程中学习管理3种俯仰姿态：</br></br><li>爬升<li>巡航<li>下降</br></br>你还将学习俯仰与速度之间的关系。机头上仰会导致速度下降，而机头下俯则会导致速度上升。</br></br>在右侧的图像中，虚线表示爬升或下降时地平线的位置。</br></br>不要将<b>姿态</b>与<b>高度</b>混淆（尽管两者之间有一定的关联，因为高度是根据飞机的姿态而增加或减少的）。</br></br>*<b>俯仰</b>=三个主要运动轴之一，由升降舵控制。该动作能使飞机上下倾斜（从机头到机尾），通常会导致高度的增加或减少。</br>*<b>横滚</b>=另一个主要运动轴，由副翼控制。该动作能使飞机围绕中央轴线左右摆动（从翼尖到翼尖），在结合一定的升降舵输入时导致转弯。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "43c389e2-efb3-4770-8513-64bb7b5cb7f7": {
+        "Name": "AttitudesPitch.Dlg_PitchDown2Reminder",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Nun drücken Sie das Steuerhorn sanft nach vorn. Wenn die Sinkfluglage mit dem Horizont übereinstimmt, behalten Sie diese Fluglage bei.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Push on the yoke gently, just until the descent attitude line matches the horizon. Then hold that attitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Empuja el volante suavemente, justo hasta que la línea de actitud de descenso coincida con el horizonte. Después mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Empuja el volante suavemente, justo hasta que la línea de actitud de descenso coincida con el horizonte. Después mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Työnnä varovasti ohjaussauvaa siihen asti, kunnes horisontti on vajoamisasentoviivan kohdalla. Sitten pidä tuo lentoasento.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Poussez légèrement le manche jusqu'à ce que la ligne d'assiette de descente s'aligne sur l'horizon. Pas plus. Ensuite, maintenez-la.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Spingi delicatamente la barra fino a quando la linea di assetto di discesa non corrisponde all'orizzonte. Mantieni poi quell'assetto.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ヨークをゆっくり押し、降下姿勢線と地平線が重なったらその姿勢を維持します。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "조종간을 앞으로 부드럽게 밀어 '하강 자세' 선을 수평선과 일치시킨 다음, 자세를 그대로 유지하십시오.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Skyv lett på styrespaken til linjen for nedstigningsorienteringen samsvarer med horisonten, deretter holder du denne orienteringen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Duw de stuurkolom rustig naar voren totdat de lijn voor de daalvluchthouding overeenkomt met de horizon. Houd vervolgens die vluchthouding aan.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Delikatnie odepchnij wolant, by linia pochylenia przy zniżaniu zrównała się z horyzontem. Utrzymuj to pochylenie.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Pique o manche suavemente, até que a linha da atitude de descida corresponda ao horizonte. Então mantenha essa atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Empurre a manche suavemente, até que a linha de atitude de descida corresponda ao horizonte. Então mantenha esta atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Не спеша дайте штурвал от себя, пока линия снижения не совпадёт с линией горизонта. Затем сохраняйте это пространственное положение.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Tryck försiktigt på styrspaken tills linjen för sjunkattityd matchar horisonten. Bibehåll sedan den attityden.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "İniş durumu çizgisi ufka uyana kadar lövyeyi yavaşça itin. Sonra bu durumu koruyun.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "轻轻推动控制杆，直至下降姿态线与地平线重合，然后保持该姿态。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "53a03f06-c28c-4483-9f71-c8412e45dcda": {
+        "Name": "AttitudesPitch.Dlg_Intro4Reminder2",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-07 17:36:56",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Wenn die Steigfluglagenlinie mit dem Horizont übereinstimmt, behalten Sie diese Fluglage bei.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "When the climb attitude line matches the horizon, maintain that attitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Cuando la línea de actitud de ascenso coincida con el horizonte, mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Cuando la línea de actitud de ascenso coincida con el horizonte, mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Kun horisontti on nousuasentoviivan kohdalla, pidä lentoasento.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Lorsque le trait d'assiette de montée s'aligne sur l'horizon, maintenez-la.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Quando la linea di assetto di salita corrisponde all'orizzonte, mantieni quell'assetto.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "上昇姿勢線と地平線が重なったら、その姿勢を維持します。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "상승 자세 선이 지평선과 일치하면 그대로 유지하세요.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Når linjen for stigningsorientering samsvarer med horisonten, holder du denne orienteringen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Wanneer de lijn voor de klimstand overeenkomt met de horizon, handhaaf je die vliegstand.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Gdy linia pochylenia przy wznoszeniu pokryje się z horyzontem, utrzymuj to pochylenie.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Quando a linha de atitude de subida corresponder ao horizonte, mantenha essa atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Quando a linha de atitude de subida corresponder ao horizonte, mantenha essa atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Когда линия набора высоты совпадёт с линией горизонта, сохраняйте это пространственное положение.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "När linjen för stigningsattityden matchar horisonten bibehåller du den attityden.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Tırmanış durumu çizgisi ufukla eşleştiğinde durumunuzu koruyun.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "当爬升姿态线与地平线重合时，保持该姿态。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "70b9756b-7f04-4c4c-9769-d7d1c9616fd5": {
+        "Name": "AttitudesPitch.Dlg_PitchUp2",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-07 17:36:56",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Allerdings verlieren wir an Fluggeschwindigkeit. Wir sind eben auch beim Aufstieg den Gesetzen der Physik unterworfen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "But we're losing airspeed. Proving you can't avoid basic physics while making a climb. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Pero estamos perdiendo velocidad aerodinámica. Esto demuestra que no puedes ignorar la física básica mientras realizas un ascenso.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Pero estamos perdiendo velocidad aerodinámica. Esto demuestra que no puedes ignorar la física básica mientras realizas un ascenso. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Ilmanopeus kuitenkin pienenee. Fysiikan peruslait pätevät myös nousun aikana. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Mais nous perdons de la vitesse. Preuve qu'il est impossible de s'affranchir des lois physiques en montée.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Ma stiamo perdendo velocità all'aria. Questa è la dimostrazione che non puoi evitare le leggi della fisica durante la salita. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ですが対気速度は下がりつつあります。上昇中は物理学から逃れられないのです。 ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "대기속도가 떨어지고 있어요. 상승하는 동안에도 기본적인 물리 법칙이 적용되는 거죠. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Vi mister imidlertid airspeed. Det beviser at du ikke kan slippe unna grunnleggende fysikk når du stiger. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Maar we verliezen luchtsnelheid. Waarmee wordt bewezen dat je eenvoudige natuurkunde niet kunt vermijden tijdens het opstijgen. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Ale tracimy prędkość. To dowodzi, że podczas wznoszenia obowiązują prawa fizyki. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Mas estamos perdendo velocidade em relação ao ar. Isso prova que não se pode evitar a física básica enquanto faz uma subida.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Mas estamos a perder velocidade no ar. O que comprova que não se pode evitar a física básica ao fazer uma subida. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "При наборе высоты наша воздушная скорость падает, потому что законы физики не обманешь. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Men vi tappar fart. Vilket bevisar att fysikens lagar gäller när du stiger. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Hava hızımız azalıyor. Bu da tırmanış yaparken temel fizik kurallarından kaçınamayacağınızın kanıtı. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "但是我们的空速也在不断下降。这也证明你在处于爬升状态时也不能逃避基本物理法则。 ",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "71c71dc8-29d7-46e0-a7ee-cc09ec6e4702": {
+        "Name": "AttitudesPitch.BriefingBg_Cruise_Attitude",
+        "Comment": "Aviation term when aircraft is straight and level",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Reisefluglage",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Cruise Attitude",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Actitud de crucero",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Actitud de crucero",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Matkalentoasento",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Assiette de croisière",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Assetto di crociera",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "巡航姿勢",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "순항 자세",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Marsjorientering",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Kruisvluchtstand",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Pochylenie odpowiednie dla prędkości przelotowej",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Atitude de cruzeiro",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Atitude de cruzeiro",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Крейсерский режим полёта",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Marschattityd",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Seyir Durumu",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "巡航姿态",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "79ad8943-607d-400c-8431-cda411eb66c4": {
+        "Name": "AttitudesPitch.BriefingBg_Descent_Attitude",
+        "Comment": "Aviation term when aircraft pitches down",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "kkafka",
+        "LastModifiedDate": "2024-09-23 12:06:43",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Sinkfluglage",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Descent Attitude",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Actitud de descenso",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Actitud de descenso",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Vajoamisasento",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Assiette de descente",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Assetto di discesa",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "降下姿勢",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "하강 자세",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Nedstigningsorientering",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Daalstand",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Pochylenie przy zniżaniu",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Atitude de descida",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Atitude de descida",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Положение для снижения",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Nedstigningsattityd",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "İniş Durumu",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "下降姿态",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "80eab16b-b149-4bfb-a589-7477f4e690a9": {
+        "Name": "AttitudesPitch.Goal_Plane_Pitch_Down",
+        "Comment": "Direction aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Zum Absinken die Nase nach unten neigen",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Pitch down to descend",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Cabecea hacia abajo para descender",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Cabecea hacia abajo para descender",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Laske nokkaa vajoamista varten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Incliner l'avion vers le bas pour descendre",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Beccheggia verso il basso per scendere",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ピッチダウンして降下する",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "피치를 내려 하강 자세 형성",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Pitch ned for å redusere høyden",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Breng de neus omlaag om te dalen",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Zwiększ pochylenie do pozycji odpowiedniej dla zniżania",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Pique para descer",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Pique para descer",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Выполните пикирование для снижения",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Sänk nosläget för att minska höjden",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "İnmek için aşağı doğru yunuslama yapın",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "向下倾斜至下降姿态",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "86e17e24-7373-406d-92b7-2ac07c0c033e": {
+        "Name": "AttitudesPitch.Dlg_IntroAlternative5",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Schauen wir uns an, was das bedeutet. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Let's dig deeper into what that means. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Vamos a centrarnos en lo que eso significa. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Profundicemos en lo que esto significa. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Katsotaan tarkemmin, mitä se tarkoittaa. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Je vais vous expliquer plus en détail ce que cela signifie. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Approfondiamo ciò che significa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "詳しく説明しましょう。 ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "지금부터 무슨 뜻인지 자세히 알아보죠. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "La oss se litt nærmere på hva det betyr. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Laten we eens nader kijken wat dit inhoudt. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Zobaczmy, co to oznacza. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Vamos entender bem o significado disso.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Vamos entender bem o significado disso.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Давайте разберёмся с этим поподробнее. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Låt oss kika närmare på vad det betyder. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Bunun ne anlama geldiğini daha ayrıntılı inceleyelim. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "让我们进一步深入探讨这些都意味着什么。 ",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "91e821b6-4e7b-4f66-8632-c65cd42e5621": {
+        "Name": "AttitudesPitch.Dlg_Feedback_Stability_B",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-11-27 17:09:49",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Passen Sie die Neigung immer nur ganz leicht an, um nicht zu übersteuern.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Try to make only small adjustments to your pitch, to avoid overcorrection.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Intenta realizar solo pequeños ajustes en tu cabeceo para evitar la sobrecorrección.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Intenta realizar solo pequeños ajustes en tu cabeceo para evitar la sobrecorrección.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Yritä tehdä vain pieniä säätöjä kallistusasentoon, jotta vältetään ylikorjaus.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Essayez de n'effectuer que de petits ajustements pour éviter la surcorrection.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Cerca di apportare solo piccole regolazioni al tuo beccheggio, onde evitare sovracompensazioni.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "やりすぎないよう、ピッチは小さく調整することを心がけてください。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "과도한 수정조작을 피하려면 피치를 미세하게 조정하십시오.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Prøv å bare gjøre små justeringer på pitchen din, for å unngå overkorrigering.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Probeer je pitch slechts licht aan te passen om overcorrectie te voorkomen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Staraj się zmieniać pochylenie delikatnie, żeby nie przesadzić.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Tente fazer apenas pequenos ajustes na arfagem para evitar uma correção excessiva.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Tente fazer apenas pequenos ajustes na arfagem para evitar uma correção excessiva.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Постарайтесь изменять тангаж небольшими шагами, чтобы избежать избыточной коррекции.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Försök att bara göra små justeringar av nosläget för att undvika överkorrigering.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Aşırı düzeltmeden kaçınmak için yunuslamanıza yalnızca ufak düzeltmeler yapın",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "在调整俯仰角时尽量只做微调，以避免过校正。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "439c7466-4206-4b59-a235-d2d6c2d1e09c": {
+        "Name": "AttitudesPitch.Briefing",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-12-03 11:46:59",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "In diesem Tutorial lernen Sie die Grundlagen des Fluglagenmanagements kennen. </br></br> Die Fluglage bezieht sich auf die Position der Nase des Flugzeugs relativ zum Horizont, sei es durch Neigung oder Rolle. </br></br> In der Abbildung rechts stellen die gestrichelten Linien die Position des Horizonts beim Auf- oder Abstieg dar.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "In this tutorial you will learn the basics of attitude management. </br></br> Attitude refers to the aircraft's nose position relative to the horizon, be it through pitch or roll. </br></br> In the image to the right, the lines represent the horizon's position when ascending or descending.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "En este tutorial aprenderás los conceptos básicos para gestionar la actitud. </br></br>La actitud hace referencia a la posición del morro del avión en relación con el horizonte, ya sea mediante cabeceo o balanceo. </br></br>En la imagen a la derecha, las líneas representan la posición del horizonte al ascender o descender.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "En este tutorial aprenderás los conceptos básicos para gestionar la actitud. </br></br>La actitud hace referencia a la posición de la nariz del avión en relación con el horizonte, ya sea mediante cabeceo o balanceo. </br></br>En la imagen a la derecha, las líneas representan la posición del horizonte al ascender o descender.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Tällä oppitunnilla opetellaan lentoasennon hallinnan perusteet. </br></br> Lentoasennolla tarkoitetaan ilma-aluksen kallistusta poikittais- tai pituusakselin ympäri suhteessa horisonttiin. </br></br> Oikealla olevassa kuvassa katkoviivat kuvaavat horisontin paikkaa nousussa ja laskussa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Dans ce tutoriel, vous apprendrez les bases de la gestion de l'assiette. </br></br> L'assiette désigne l'orientation de l'appareil, latérale ou verticale, par rapport à l'horizon. </br></br> Sur l'image à droite, les lignes représentent la position de l'horizon pendant la montée ou la descente.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "In questo tutorial apprenderai le basi della gestione dell'assetto. </br></br> Con assetto si intende l'orientamento dell'aeromobile rispetto alla linea dell'orizzonte, sia in termini di beccheggio sia di rollio. </br></br> Nell'immagine a destra, le linee tratteggiate rappresentano la posizione dell'orizzonte durante la salita o la discesa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "このチュートリアルでは、姿勢管理の基本を学習します。</br></br>姿勢とは、ピッチまたはロールによる、水平線に対する航空機の機首の位置を指します。</br></br>右の画像では、線は上昇時または降下時の地平線の位置を表しています。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "이 튜토리얼에서는 자세 관리의 기초를 배우게 됩니다. </br></br> 자세는 수평선을 기준으로 한 항공기의 기수 방향을 말하며 피치 또는 롤을 통해 구사합니다. </br></br> 오른쪽 이미지의 선은 상승 또는 하강할 때 수평선의 위치를 나타냅니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "I denne opplæringen lærer du det grunnleggende om å holde nesestillingen.</br></br>Nesestillingen indikerer flyets neseposisjon i forhold til horisonten.</br></br>På bildet til høyre representerer de stiplede linjene horisontens posisjon ved stigning eller nedstigning.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "In deze tutorial leer je de basisprincipes van het beheren van de vliegtuigstand. </br></br>Vliegtuigstand verwijst naar de oriëntatie van het vliegtuig ten opzichte van de horizon, of het nu gaat om pitch of rol. </br></br> In de afbeelding rechts geven de lijnen de positie van de horizon weer bij het stijgen of dalen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "W tym samouczku nauczysz się podstaw sterowania pochyleniem. </br></br> Kąt nachylenia maszyny to pozycja statku powietrznego w stosunku do horyzontu poprzez pochylenie lub przechylenie. </br></br>Linie na obrazie po prawej stronie oznaczają położenie horyzontu podczas wznoszenia lub opadania.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Neste tutorial, você aprenderá os conceitos básicos sobre gerenciamento de atitude. </br></br> Atitude refere-se à posição do nariz da aeronave em relação ao horizonte, seja por meio de arfagem ou rolamento. </br></br> Na imagem à direita, as linhas representam a posição do horizonte durante a ascensão ou descida.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Neste tutorial, vai aprender o essencial sobre a gestão da atitude. </br></br> “Atitude” refere-se à posição do nariz da aeronave relativamente ao horizonte, seja por inclinação ou rolamento. </br></br> Na imagem à direita, as linhas representam a posição do horizonte ao subir ou descer.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "В этом уроке вы узнаете об основах пространственного положения. </br></br> Пространственное положение — это положение носа самолета относительно горизонта по тангажу или по крену. </br></br> Линии на изображении справа обозначают положение горизонта при подъеме или снижении.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "I den här handledningen får du lära dig grunderna i attitydhantering.</br></br>Attityd avser flygplanets nosposition i förhållande till horisonten.</br></br>I bilden till höger representerar linjerna horisontens position vid upp- eller nedstigning.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Bu eğitimde durum yönetiminin temellerini öğreneceksiniz. </br></br> Durum, hava aracının ufka göre olan yunuslama veya tono hareketini gösterir. </br></br> Sağdaki görüntüde kesikli çizgiler, tırmanış veya iniş sırasında ufkun konumunu temsil eder.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "在本教程中，你将学习姿态管理的基础知识。</br></br>姿态是指飞机相对于地平线的方向，无论是通过俯仰还是横滚。</br></br>在右侧的图像中，虚线表示爬升或下降时地平线的位置。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "721dbc74-804b-4acf-853c-6753f2519af6": {
+        "Name": "AttitudesPitch.REWARD_PitchUpToClimb",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Die untere Linie auf Höhe des Horizonts halten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Maintain the lower line on the horizon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "Mantén la línea inferior en el horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Mantén la línea inferior en el horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Pidä alaviiva horisontin kohdalla",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Maintenir la ligne du bas sur l'horizon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Mantieni la linea inferiore sull'orizzonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "下側のラインを水平線上に維持する",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "하단 선을 수평선에 유지",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Hold den nederste linjen på horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Houd de onderste lijn op de horizon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Utrzymuj dolną linię równo z horyzontem",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Mantenha a linha inferior no horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Mantenha a linha inferior no horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Удерживайте нижнюю линию на уровне горизонта",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Håll den nedre linjen på horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Alt çizgiyi ufukta tutun",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "保持下方的线在地平线上",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "3507a84a-0b1e-4435-860f-cd83e189d66b": {
+        "Name": "BasicControls.Dlg_UnexpectedLanding1",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "de-DE": {
+            "Text": "Oh, hier sollten Sie eigentlich nicht landen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Hmm, you weren't really supposed to land there.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Vaya, se suponía que no tenías que aterrizar ahí.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Hmm, no se suponía que aterrizaras ahí.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Hmm, sinun ei pitänyt laskeutua tuonne.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Euh... vous n'étiez pas censé atterrir ici.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Mh, non era lì che dovevi atterrare.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "うーん、そこに着陸するのは違いますね。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "흠. 원래 착륙할 장소는 그쪽이 아닌데 말이죠.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Hm, du skulle egentlig ikke lande der.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Hmm, het was niet de bedoeling dat je daar zou landen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Hmm, to nie tutaj należało wylądować.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Hum, na verdade, não era para você pousar aí.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Hum, na verdade, não era para aterrar lá.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Хм, вообще мы с вами не планировали приземляться здесь.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Hmm, det var inte riktigt meningen att du skulle landa där.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Hımm, aslında oraya inmemeniz gerekiyordu.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "嗯，你好像不太应该那里降落。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "5384afcd-bcfb-4d76-af81-9a47fb2dbcf9": {
+        "Name": "AttitudesPitch.Dlg_PitchDown2_2",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-11-27 17:09:49",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "und behalten Sie dann diese Fluglage bei.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "then maintain that attitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "después mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "después mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "ja pidä tuo lentoasento.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "puis maintenez-la.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "quindi mantieni quell'assetto.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "-- その姿勢を維持します。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "자세를 그대로 유지하세요.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "deretter holder du denne orienteringen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "en handhaaf die vliegstand.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "a potem utrzymuj to pochylenie.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "em seguida, mantenha essa atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "em seguida, mantenha essa atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Сохраняйте это пространственное положение.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "och bibehåll sedan den attityden.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Sonrasında durumu koruyun.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "然后保持该姿态。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "6476c1a7-e9f8-4aae-8c4e-0e37f1468949": {
+        "Name": "BasicControls.Dlg_UnexpectedLanding2",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-07 17:36:56",
+        "LocalizationStatus": "Active",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "de-DE": {
+            "Text": "Eine gute Landung, keine Frage. Aber nicht das, was ich erwartet hatte.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "It's well done, don't get me wrong… just not what was expected.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "A ver si me explico: no está mal, pero no es lo que estaba previsto.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "A ver si me explico: no está mal, pero no es lo que estaba previsto.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Hyvä suoritus, älä ymmärrä väärin… ei kuitenkaan mennyt ihan odotetusti.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Je ne vous jette pas la pierre, mais ce n'était pas prévu au programme...",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Non fraintendermi, hai fatto un buon lavoro… ma non era quello che mi aspettavo.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "よくできましたが、予定とは違います...",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "잘하긴 하셨는데… 나쁘게 듣진 마시고, 예상과는 좀 다르네요.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Ikke misforstå meg, det var godt gjort … bare ikke helt som forventet.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Het is goed gedaan, begrijp me niet verkeerd... alleen niet wat er werd verwacht.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Nie zrozum mnie źle, poszło Ci świetnie… ale nie o to chodziło.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Foi bem feito, não me entenda mal… só não foi o que eu esperava.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Está bem feito, não me entenda mal... apenas não o que se esperava.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Поймите правильно… Посадка прошла успешно, но задача была не совсем такой.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Det var bra gjort, missförstå mig rätt … bara inte riktigt vad jag väntade mig.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Yanlış anlamayın, güzeldi. Sadece beklediğim gibi değildi.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "别误会，你做得很好……只是没料到你会这么做。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "8268e5f5-465c-447d-9875-2a5c80f3e223": {
+        "Name": "AttitudesPitch.Dlg_PitchDown3",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Wie Sie sehen können, nimmt unsere Höhe ab und unsere Geschwindigkeit zu, wenn die Nase des Flugzeugs nach unten zeigt.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "As expected, with a nose-down attitude, our altitude is decreasing while our speed is picking up.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Como era de esperar, con una actitud de morro hacia abajo, la altitud disminuye mientras que la velocidad aumenta.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Como era de esperar, con una actitud de nariz hacia abajo, la altitud disminuye mientras que la velocidad aumenta.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Kuten odottaa saattaa, korkeus pienenee ja nopeus suurenee nokan ollessa alaspäin.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Comme on s'y attendait, avec une assiette en piqué, notre altitude diminue alors que notre vitesse augmente.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Come previsto, con un assetto discendente del muso, la nostra altitudine diminuisce, mentre la velocità aumenta.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "機首を下げた姿勢を取ると、当然、高度が下がり、速度が上がります。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "하강 자세를 취하니 예상대로 고도가 내려가고 속도가 빨라집니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Som forventet med orientering med nesen ned, reduseres høyden samtidig som hastigheten øker.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Zoals verwacht, neemt bij een vluchthouding met de neus omlaag onze hoogte af terwijl onze snelheid toeneemt.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Jak można się było spodziewać, przy opuszczonym dziobie nasza wysokość spada, a prędkość rośnie.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Como é de se esperar, com uma atitude de nariz para baixo, nossa altitude diminui enquanto nossa velocidade aumenta.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Como esperado, com uma atitude de nariz para baixo, a nossa altitude está a diminuir enquanto a nossa velocidade aumenta.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Как и ожидалось, при пикировании наша высота уменьшается, а скорость растёт.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Som väntat, med en nosläge-ner-attityd, minskar höjden medan farten ökar.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Tahmin edileceği üzere burun aşağı bir durumda hızımız yükselirken irtifamız azalıyor.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "如同预期，将机头下沉之后，我们的高度已经开始下降，飞机的速度也在提高。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "9538f007-8bad-41a9-91c3-01074aafeafc": {
+        "Name": "AttitudesPitch.Dlg_Intro4Reminder1",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-11-27 17:09:49",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Ziehen Sie jetzt sanft das Steuerhorn nach hinten.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Go ahead and gently pull back on the yoke.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Continúa y tira del volante suavemente hacia atrás.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Continúa y tira suavemente el volante hacia atrás.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Vedä ohjaussauvaa varovasti.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Allez-y, tirez doucement sur le manche.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Adesso tira gentilmente indietro la barra.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "では、ヨークをゆっくり引いて。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "이제 조종간을 부드럽게 뒤로 당기십시오.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Sett i gang og trekk styrespaken forsiktig bakover.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Trek de knuppel rustig naar achteren.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Śmiało, delikatnie ściągnij wolant.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Cabre o manche suavemente.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Cabre a manche suavemente.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "А теперь плавно возьмите штурвал на себя.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Dra försiktigt styrspaken mot dig.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Şimdi lövyeyi yavaşça geri çekin.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "试一试吧，轻轻地向后控制杆。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "12633a9e-b2cb-4c36-8501-1614ae897845": {
+        "Name": "BasicControls.Dlg_OufOfBound",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "de-DE": {
+            "Text": "Sie haben den Übungsluftraum verlassen, Sie müssen umkehren!",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "You've left the Training airspace, you need to go back.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Has abandonado el espacio aéreo de entrenamiento. Tienes que regresar.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Abandonaste el espacio aéreo de capacitación. Tienes que volver.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Olet poistunut harjoituksen ilmatilasta, sinun täytyy palata.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Vous avez quitté l'espace aérien de formation, vous devez faire demi-tour.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Hai lasciato lo spazio aereo per l'addestramento, devi tornare indietro.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "訓練空域から出てしまいました。戻ってください。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "훈련 공역을 벗어났어요. 복귀해야 합니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Du har forlatt opplæringsluftrommet, du må dra tilbake.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Je hebt het trainingsluchtruim verlaten, je moet terug.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Opuszczasz strefę lotów szkolnych, musisz zawrócić.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Você saiu do espaço aéreo de treinamento. Você precisa voltar.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Saiu do espaço aéreo de formação. Precisa de voltar.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Вы покинули учебное воздушное пространство. Вернитесь.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Du har lämnat utbildningsluftrummet och måste vända tillbaka.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Eğitim hava sahasından çıktınız. Dönmeniz gerekiyor.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "您已离开训练空域，请您返回。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "43606ba6-8d67-45ee-8a8f-ace78ca81f6d": {
+        "Name": "AttitudesPitch.Briefing.ShortBrief",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-12-03 11:46:59",
+        "LocalizationStatus": "PlaceHolder",
+        "Languages": {
+          "de-DE": {
+            "Text": "In diesem Tutorial lernen Sie die Grundlagen des Fluglagenmanagements kennen. </br></br> Die Fluglage bezieht sich auf die Position der Nase des Flugzeugs relativ zum Horizont, sei es durch Neigung oder Rolle. </br></br> In der Abbildung rechts stellen die gestrichelten Linien die Position des Horizonts beim Auf- oder Abstieg dar.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "In this tutorial you will learn the basics of attitude management. </br></br> Attitude refers to the aircraft's nose position relative to the horizon, be it through pitch or roll. </br></br> In the image to the right, the lines represent the horizon's position when ascending or descending.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "En este tutorial aprenderás los conceptos básicos para gestionar la actitud. </br></br>La actitud hace referencia a la posición del morro del avión en relación con el horizonte, ya sea mediante cabeceo o balanceo. </br></br>En la imagen a la derecha, las líneas representan la posición del horizonte al ascender o descender.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "En este tutorial aprenderás los conceptos básicos para gestionar la actitud. </br></br>La actitud hace referencia a la posición de la nariz del avión en relación con el horizonte, ya sea mediante cabeceo o balanceo. </br></br>En la imagen a la derecha, las líneas representan la posición del horizonte al ascender o descender.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Tällä oppitunnilla opetellaan lentoasennon hallinnan perusteet. </br></br> Lentoasennolla tarkoitetaan ilma-aluksen kallistusta poikittais- tai pituusakselin ympäri suhteessa horisonttiin. </br></br> Oikealla olevassa kuvassa katkoviivat kuvaavat horisontin paikkaa nousussa ja laskussa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Dans ce tutoriel, vous apprendrez les bases de la gestion de l'assiette. </br></br> L'assiette désigne l'orientation de l'appareil, latérale ou verticale, par rapport à l'horizon. </br></br> Sur l'image à droite, les lignes représentent la position de l'horizon pendant la montée ou la descente.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "In questo tutorial apprenderai le basi della gestione dell'assetto. </br></br> Con assetto si intende l'orientamento dell'aeromobile rispetto alla linea dell'orizzonte, sia in termini di beccheggio sia di rollio. </br></br> Nell'immagine a destra, le linee tratteggiate rappresentano la posizione dell'orizzonte durante la salita o la discesa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "このチュートリアルでは、姿勢管理の基本を学習します。</br></br>姿勢とは、ピッチまたはロールによる、水平線に対する航空機の機首の位置を指します。</br></br>右の画像では、線は上昇時または降下時の地平線の位置を表しています。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "이 튜토리얼에서는 자세 관리의 기초를 배우게 됩니다. </br></br> 자세는 수평선을 기준으로 한 항공기의 기수 방향을 말하며 피치 또는 롤을 통해 구사합니다. </br></br> 오른쪽 이미지의 선은 상승 또는 하강할 때 수평선의 위치를 나타냅니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "I denne opplæringen lærer du det grunnleggende om å holde nesestillingen.</br></br>Nesestillingen indikerer flyets neseposisjon i forhold til horisonten.</br></br>På bildet til høyre representerer de stiplede linjene horisontens posisjon ved stigning eller nedstigning.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "In deze tutorial leer je de basisprincipes van het beheren van de vliegtuigstand. </br></br>Vliegtuigstand verwijst naar de oriëntatie van het vliegtuig ten opzichte van de horizon, of het nu gaat om pitch of rol. </br></br> In de afbeelding rechts geven de lijnen de positie van de horizon weer bij het stijgen of dalen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "W tym samouczku nauczysz się podstaw sterowania pochyleniem. </br></br> Kąt nachylenia maszyny to pozycja statku powietrznego w stosunku do horyzontu poprzez pochylenie lub przechylenie. </br></br>Linie na obrazie po prawej stronie oznaczają położenie horyzontu podczas wznoszenia lub opadania.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Neste tutorial, você aprenderá os conceitos básicos sobre gerenciamento de atitude. </br></br> Atitude refere-se à posição do nariz da aeronave em relação ao horizonte, seja por meio de arfagem ou rolamento. </br></br> Na imagem à direita, as linhas representam a posição do horizonte durante a ascensão ou descida.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Neste tutorial, vai aprender o essencial sobre a gestão da atitude. </br></br> “Atitude” refere-se à posição do nariz da aeronave relativamente ao horizonte, seja por inclinação ou rolamento. </br></br> Na imagem à direita, as linhas representam a posição do horizonte ao subir ou descer.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "В этом уроке вы узнаете об основах пространственного положения. </br></br> Пространственное положение — это положение носа самолета относительно горизонта по тангажу или по крену. </br></br> Линии на изображении справа обозначают положение горизонта при подъеме или снижении.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "I den här handledningen får du lära dig grunderna i attitydhantering.</br></br>Attityd avser flygplanets nosposition i förhållande till horisonten.</br></br>I bilden till höger representerar linjerna horisontens position vid upp- eller nedstigning.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Bu eğitimde durum yönetiminin temellerini öğreneceksiniz. </br></br> Durum, hava aracının ufka göre olan yunuslama veya tono hareketini gösterir. </br></br> Sağdaki görüntüde kesikli çizgiler, tırmanış veya iniş sırasında ufkun konumunu temsil eder.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "在本教程中，你将学习姿态管理的基础知识。</br></br>姿态是指飞机相对于地平线的方向，无论是通过俯仰还是横滚。</br></br>在右侧的图像中，虚线表示爬升或下降时地平线的位置。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "76596d29-deb8-442a-a1cf-644710a39420": {
+        "Name": "AttitudesPitch.Step_Maintain_Pitch_Down",
+        "Comment": "Placeholder refers to an input button from the players chosen controller",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Mit {STR_AXIS_ELEVATOR_SET} die obere Linie 10 Sekunden auf dem Horizont halten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Maintain the upper line onto the horizon for 10 seconds using {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Mantén la línea superior en el horizonte durante 10 segundos con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Mantén la línea superior en el horizonte durante 10 segundos con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Pidä yläviiva horisontin kohdalla 10 sekunnin ajan {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Maintenir la ligne du haut sur l'horizon pendant 10 secondes en utilisant {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Mantieni la linea superiore sull'orizzonte per 10 secondi con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} で水平線上に上側のラインを 10 秒間維持する",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "상단 선을 10초 동안 수평선에 유지 ({STR_AXIS_ELEVATOR_SET} 사용)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Hold den øverste linjen på horisonten i 10 sekunder ved å bruke {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Houd de bovenste lijn gedurende 10 seconden op de horizon geplaatst met behulp van {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Utrzymaj górną linię na horyzoncie przez 10 sekund za pomocą {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Mantenha a linha superior no horizonte por 10 segundos usando {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Mantenha a linha superior no horizonte por 10 segundos ao utilizar {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Удерживайте верхнюю линию на уровне горизонта в течение 10 секунд с помощью {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Håll den övre linjen på horisonten i 10 sekunder med {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} kullanarak üst çizgiyi 10 saniye boyunca ufukla aynı hizada tutun.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "按下{STR_AXIS_ELEVATOR_SET}将上方的线保持在地平线上10秒钟",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "1124806a-5692-4568-8f2c-44a78b763c19": {
+        "Name": "AttitudesPitch.Step_Plane_Pitch_Up",
+        "Comment": "Placeholder refers to an input button from the players chosen controller",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Mit {STR_AXIS_ELEVATOR_SET} die untere Linie am Horizont ausrichten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Place the lower line onto the horizon using {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Sitúa la línea inferior en el horizonte con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Sitúa la línea inferior en el horizonte con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Vie alaviiva horisontin kohdalle {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Placer la ligne du bas sur l'horizon en utilisant {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Posiziona la linea inferiore sull'orizzonte con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} で水平線上に下側のラインを合わせる",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "하단 선을 수평선에 맞게 배치 ({STR_AXIS_ELEVATOR_SET} 사용)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Plasser den nederste linjen på horisonten ved å bruke {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Plaats de onderste lijn op de horizon met behulp van {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Ustaw dolną linię na horyzoncie za pomocą {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Coloque a linha inferior no horizonte usando {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Coloque a linha inferior no horizonte ao utilizar {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Совместите нижнюю линию с линией горизонта при помощи {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Positionera den nedre linjen på horisonten med {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} ile alt çizgiyi ufukla hizalayın",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "按下{STR_AXIS_ELEVATOR_SET}将下方的线置于地平线上",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "4965354d-9751-4f05-88f0-d89101f649be": {
+        "Name": "AttitudesPitch.BriefingBg_Climb_Attitude",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-07 17:36:56",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Steigfluglage",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Climb Attitude",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "Actitud de ascenso",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Actitud de ascenso",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Nousuasento",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Assiette de montée",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Assetto di salita",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "上昇姿勢",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "상승 자세",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Stigningsorientering",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Klimstand",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Pochylenie przy wznoszeniu",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Atitude de subida",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Atitude de subida",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Положение для набора высоты",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Stigningsattityd",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Tırmanma Durumu",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "爬升姿态",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "a37516af-9bf0-4559-aa87-16f93bc7d9bb": {
+        "Name": "AttitudesPitch.Location",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "In der Nähe von Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Near Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "Cerca de Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Cerca de Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Lähellä Sedonaa",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Près de Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Vicino a Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "セドナ付近",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "세도나 근처",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Nær Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "In de buurt van Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "W pobliżu Sedony",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Perto de Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Perto de Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Рядом с Седоной",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Nära Sedona",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Sedona'nın yakınında",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "塞多纳附近",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "a70964c0-6fc6-47d7-be20-74f9f0d0eb29": {
+        "Name": "AttitudesPitch.Prerequisite1Alternative",
+        "Comment": "Placeholder refers to an input button from the players chosen controller",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Sie müssen in der Cockpitansicht bleiben, um das Training abzuschließen. Drücken Sie {STR_???}. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "You need to be in cockpit view to complete the training. Press {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "Tienes que usar la vista de cabina para completar el entrenamiento. Pulsa {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Tienes que usar la vista de cabina para completar la capacitación. Presiona {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Koulutuksen suorittamiseksi sinun on oltava ohjaamonäkymässä. Valitse {STR_???}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Vous devez être en vue du cockpit pour terminer la formation. Appuyez sur {STR_???}. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Devi essere in visuale cabina per completare questo addestramento. Premi {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "訓練を完了するには、コックピット ビューにする必要があります。{STR_???} を押してください ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "훈련을 완료하려면 조종실 시점을 선택해야 합니다. {STR_???} 버튼을 누르십시오. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Du må være i cockpitvisning for å fullføre opplæringen. Trykk på {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Om de training te voltooien, moet de cockpitweergave actief zijn. Druk op {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Do szkolenia konieczny jest widok kokpitu. Naciśnij {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Você precisa estar na vista do cockpit para completar o treinamento. Pressione {STR_???}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Tem de estar em vista de cabina para completar o treino. Pressione {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Чтобы завершить урок, вам нужно переключиться на камеру в кабине. Нажмите {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Du måste vara i cockpitvyn för att slutföra utbildningen. Tryck på {STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Eğitimi tamamlamak için kokpit görünümünde olmanız gerekir. {STR_???} tuşuna basın. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "你需要以驾驶舱视角完成培训。按下{STR_???} ",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "aa96f973-7ceb-4c0b-b3c9-bd2b27331357": {
+        "Name": "AttitudesPitch.Dlg_PitchUp1",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Wie Sie auf dem Höhenmesser ablesen können, beginnen wir an Höhe zu gewinnen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "According to your Altimeter, we're gaining Altitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Como puedes ver en el altímetro, estamos ganando altitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Como puedes ver en el altímetro, estamos ganando altitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Korkeusmittarin mukaan olemme nousemassa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "L'altimètre indique que nous gagnons en altitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Secondo quanto dice l'altimetro, stiamo guadagnando altitudine.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "高度計によると、機体の高度は上がっています。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "고도계를 보면 위로 상승하고 있죠?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Ifølge høydemåleren stiger vi.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Volgens je hoogtemeter winnen we hoogte.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Wysokościomierz pokazuje, że nabieramy wysokości.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "De acordo com seu altímetro, estamos ganhando altitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "De acordo com o seu Altímetro, estamos a ganhar altitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Судя по вашему высотомеру, мы набираем высоту.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Enligt höjdmätaren tar vi höjd.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Altimetrenize göre İrtifa kazanıyoruz.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "通过高度表可以看到，我们的高度正在上升。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "ad6415f2-b809-4bd7-9420-2a567a6606a8": {
+        "Name": "AttitudesPitch.Dlg_PitchLevel2",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Unsere Geschwindigkeit steigt und unsere Flughöhe bleibt stabil.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Our speed is increasing and our altitude is stable.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Nuestra velocidad está aumentando y nuestra altitud es estable.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Nuestra velocidad está aumentando y nuestra altitud es estable.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Nopeutemme kasvaa ja korkeutemme on vakaa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Notre vitesse augmente et notre altitude est stable.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "La nostra velocità sta aumentando e l'altitudine è stabile.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "速度は上がりつつあり、高度は安定しています。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "속도가 증가하고 있으며 고도도 안정적입니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Hastigheten vår øker og høyden vår er stabil.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Onze snelheid neemt toe en onze hoogte is stabiel.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Nasza prędkość rośnie, a wysokość jest stała.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "A velocidade está aumentando e nossa altitude está estável.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "A velocidade está a aumentar e a nossa altitude está estável.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Наша скорость растёт, а высота не меняется.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Farten ökar och höjden är stabil.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Hızımız artıyor ve irtifamız sabit.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "我们的速度在增加，高度保持稳定。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "af67a665-97f4-4c12-ad64-38c9cf1dc853": {
+        "Name": "AttitudesPitch.Prerequisite1",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Dieses Training können Sie nicht im Außenansichtsmodus absolvieren.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "You cannot perform this training in external view.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "No puedes realizar este entrenamiento desde una vista externa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "No puedes realizar esta capacitación desde una vista externa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Tätä koulutusta ei voi suorittaa ulkoisessa näkymässä.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Vous ne pouvez pas effectuer cet exercice en vue externe.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Non puoi completare questo addestramento in visuale esterna.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "外部ビューでこの訓練を行うことはできません。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "외부 시점으로 보는 동안에는 이 훈련을 진행할 수 없습니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Du kan ikke utføre denne opplæringen i utvendig visning.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Je kunt deze training niet uitvoeren in de externe weergave.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "To szkolenie nie jest możliwe przy widoku zewnętrznym.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Você não pode realizar este treinamento na vista externa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Não pode realizar este treino em vista exterior.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Этот урок нельзя пройти в режиме внешней камеры.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Du kan inte utföra den här utbildningen i extern vy.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Bu eğitimi dış görünümde gerçekleştiremezsiniz.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "你不能以外部视角执行此培训。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "b2ba956f-f763-4547-8799-f845c5103a33": {
+        "Name": "AttitudesPitch.Dlg_IntroAlternative2",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Sehen Sie, wie die mittlere Linie dem Horizont entspricht, wenn wir horizontal fliegen?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Notice how the middle line matches the horizon while we're flying level?",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "¿Te das cuenta de que la línea central coincide con el horizonte mientras volamos?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "¿Te das cuenta de que la línea central coincide con el horizonte mientras volamos?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Huomaatko, miten keskilinja vastaa horisonttia, kun lennämme vaakatasossa?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Vous voyez comme celui du milieu s'aligne sur l'horizon ?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Vedi che la linea in mezzo corrisponde all'orizzonte mentre voliamo?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "水平飛行中は真ん中の線と地平線が一致していますね?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "수평 비행 시 가운데 선이 지평선과 일치하는 게 보이죠?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Ser du hvordan midtlinjen samsvarer med horisonten når vi flyr rett?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Zie je hoe de middelste lijn overeenkomt met de horizon terwijl we recht vliegen?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Widzisz, że w locie poziomym środkowa linia pokrywa się z horyzontem?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Notou como a linha do meio corresponde ao horizonte quando voamos nivelados?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Notou como a linha do meio corresponde ao horizonte quando voamos nivelados?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Смотрите: в горизонтальном полёте линия посередине совпадает с линией горизонта.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Ser du att mittlinjen ligger vid horisonten när vi flyger i våg?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Düz uçtuğumuzda ortadaki çizginin ufukla tam uyuştuğunu fark ettiniz mi?",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "注意当我们水平飞行时，中线是如何与地平线重合的。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "b9e94d91-2d07-435d-a604-f4d5b59fa2e0": {
+        "Name": "MENU.TUTORIAL.NAME_ATTITUDEPITCH",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-11-27 17:09:49",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Fluglage (Neigung)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Attitude (Pitch)",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Actitud (cabeceo)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Actitud (cabeceo)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Lentoasento (nokan nosto/lasku)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Assiette (tangage)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Assetto (beccheggio)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "姿勢 (ピッチ)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "자세 (피치)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Orientering (pitch)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Vluchthouding (neusstand)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Pochylenie",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Atitude (arfagem)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Atitude (passo)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Положение (тангаж)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Attityd (pitch)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Durum (Yunuslama)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "姿态（俯仰角）",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "b2946047-fc35-44e2-983e-2a5de8f0a39c": {
+        "Name": "AttitudesPitch.Dlg_IntroAlternative1",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Um zu helfen, ein Gefühl für die Neigung zu entwickeln, habe ich drei Linien auf die Windschutzscheibe gezeichnet.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "To help demonstrate pitch, I've drawn three lines on the windshield.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Para ayudarte a ver el cabeceo, he dibujado tres líneas en el parabrisas.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Dibujé tres líneas en el parabrisas para ayudarte a ver el cabeceo.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Jotta opit tuntemaan nokan asennon, olen vetänyt tuulilasiin kolme viivaa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Pour vous aider à visualiser, j'ai dessiné trois traits sur le pare-brise.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Per illustrarti bene il beccheggio, ho disegnato tre linee sul parabrezza.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ピッチを理解する補助として、ウィンドシールドに 3 本の線を引きました。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "피치 설명을 위해 앞유리에 세 개의 선을 그렸습니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "For å demonstrere hva pitch er, har jeg tegne tre linjer på frontruten.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Om de pitch te demonstreren, heb ik drie lijnen op de voorruit getekend.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Aby pokazać pochylenie, zaznaczam na wiatrochronie trzy linie.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Para ajudar a demonstrar a arfagem, desenhei três linhas no para-brisa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Para ajudar a demonstrar a arfagem, desenhei três linhas no para-brisas.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Чтобы лучше понять, что такое тангаж, проведём на лобовом стекле три линии.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "För att demonstrera nosläget har jag ritat tre linjer på vindrutan.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Yunuslamayı göstermeye yardımcı olmak için ön cama üç çizgi çizdim.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "为了更好地做俯仰角的演示，我在挡风玻璃上画了三条线。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "c06cedb9-3783-4973-a060-a9e9e8998183": {
+        "Name": "AttitudesPitch.Description",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-09 14:48:00",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Lernen Sie, das Höhenruder zu verwenden",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Learn to use the elevator",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Aprende a usar el timón de profundidad",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Aprende a usar el timón de profundidad",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Opi käyttämään korkeusperäsintä",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Apprendre à utiliser la gouverne de profondeur",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Impara a usare l'equilibratore",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "エレベーターの使い方",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "엘리베이터 사용법 배우기",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Lær hvordan du bruker høyderoret",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Het hoogteroer leren gebruiken",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Naucz się używać steru wysokości",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Aprenda a usar os profundores",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Aprenda a utilizar o leme de profundidade",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Научитесь пользоваться рулем высоты",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Lär dig att använda höjdroder",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "İrtifa dümenini kullanmayı öğrenin.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "学会使用升降舵",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "ca4b5b44-d1a0-425d-a992-9bf0bd16b05d": {
+        "Name": "AttitudesPitch.Dlg_Intro4_1",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2025-03-07 15:41:35",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Ziehen Sie das Steuerhorn sanft zurück, bis die Steigfluglagenlinie mit dem Horizont übereinstimmt,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Pull back gently on the yoke until the climb attitude line matches the horizon,",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Tira del volante hacia atrás suavemente hasta que la línea de actitud de ascenso coincida con el horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Tira del volante hacia atrás suavemente hasta que la línea de actitud de ascenso coincida con el horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Vedä varovasti ohjaussauvaa, kunnes horisontti on nousuasentoviivan kohdalla,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Ramenez légèrement le manche vers vous jusqu'à ce que le trait d'assiette de montée s'aligne sur l'horizon,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Tira indietro delicatamente la barra fino a quando la linea di assetto di salita non corrisponde all'orizzonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ヨークをゆっくり引いて上昇姿勢線と地平線を重ね--",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "조종간을 뒤로 부드럽게 당겨 상승 자세 점선을 수평선과 일치시킨 다음,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Trekk styrespaken forsiktig bakover til linjen for stigningsorientering samsvarer med horisonten,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Trek de knuppel rustig naar achteren tot de lijn van de klimstand overeenkomt met de horizon,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Delikatnie ściągnij wolant, aż linia pochylenia przy wznoszeniu pokryje się z horyzontem,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Cabre o manche suavemente até que a linha de atitude de subida corresponda ao horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Cabre a manche suavemente até que a linha de atitude de subida corresponda ao horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Мягко возьмите штурвал на себя, пока линия набора высоты не совпадёт с линией горизонта,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Dra tillbaka styrspaken försiktigt tills linjen för stigningsattityd matchar horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Tırmanış durumu çizgisi ufukla hizalanana kadar lövyeyi yavaşça geri çekin.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "轻轻拉回控制杆，直至爬升姿态线与地平线重合，",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "ce543754-6f12-461f-93ae-d15d2067919e": {
+        "Name": "AttitudesPitch.Dlg_IntroAlternative4",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-07 17:36:56",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Die untere gepunktete Linie ist die Steigfluglage und die obere Linie ist die Sinkfluglage.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "The lower dotted line is the climb attitude, and the upper one is the descent attitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "La línea de puntos inferior es la actitud de ascenso y la superior es la actitud de descenso.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "La línea de puntos inferior es la actitud de ascenso y la superior es la actitud de descenso.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Alin viiva on nousuasentoviiva, ja yläviiva on vajoamisasennon viiva.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "La ligne en pointillés du bas représente l'assiette de montée et celle du haut, l'assiette de descente.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "La linea tratteggiata inferiore è l'assetto di salita, mentre quella superiore è l'assetto di discesa.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "下の点線は上昇姿勢、上の点線は降下姿勢の基準線です。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "수평선이 아래쪽 점선에 닿으면 상승 자세, 위쪽 점선에 닿으면 하강 자세라고 합니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Den nederste stiplede linjen er stigningsorienteringen og den øverste er nedstigningsorienteringen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "De onderste stippellijn is de klimstand, en de bovenste is de daalstand.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Dolna przerywana linia to pochylenie przy wznoszeniu, a górna – pochylenie przy zniżaniu.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "A linha pontilhada inferior é a atitude de subida e a superior é a atitude de descida.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "A linha pontilhada inferior é a atitude de subida e a superior é a atitude de descida.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Нижняя пунктирная линия — это режим набора высоты, а верхняя — режим снижения.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Den undre prickade linjen är stigningsattityden medan den övre är nedstigningsattityden.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Alttaki noktalı çizgi tırmanma durumudur. Üstteki çizgi ise iniş durumudur.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "下面的虚线代表爬升姿态，上面的虚线则代表下降姿态。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "d601ac45-60d8-4aef-831f-cfa895e11367": {
+        "Name": "AttitudesPitch.Dlg_IntroAlternative3",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Das ist die Reisefluglage.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "This is the cruise attitude. ",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Esta es la actitud de crucero.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Esta es la actitud de crucero. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Tämä on matkalentoasento. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Il s'agit de l'assiette de croisière. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Questo è l'assetto di crociera.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "これが巡航姿勢です。 ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "이 상태가 바로 순항 자세입니다. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Det er marsjorienteringen. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Dit is de kruisvluchtstand. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "To jest pochylenie odpowiednie dla prędkości przelotowej. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Esta é a atitude de cruzeiro.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Esta é a atitude de cruzeiro.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Это крейсерский режим полёта.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Det är detta som kallas marschattityd. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Bu, seyir durumudur. ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "这就是巡航姿态。 ",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "d14362ef-24ab-4560-a754-86e49765470e": {
+        "Name": "BasicInstruments.Failed_Training",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Sie haben es nicht geschafft, die Flugstunde abzuschließen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "You failed to complete the lesson.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "No has logrado completar la lección.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "No completaste la lección.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Et suorittanut oppituntia loppuun.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Vous n'avez pas réussi à terminer la leçon.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Non hai completato la lezione.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "教習は不合格です。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "교습을 마치지 못했습니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Du klarte ikke å fullføre leksjonen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Je hebt de les niet afgerond.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Nie udało Ci się ukończyć lekcji.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Você não conseguiu completar a lição.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Não conseguiu completar a lição.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Вам не удалось завершить урок.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Du slutförde inte lektionen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Dersi tamamlayamadınız.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "你没能完成课程。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "d78841fe-0b68-486c-9cd0-b517fbc13680": {
+        "Name": "AttitudesPitch.Dlg_PitchDown2_1",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-11-27 17:09:49",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Drücken Sie das Steuerhorn sanft nach vorn, bis die Sinkfluglagenlinie mit dem Horizont übereinstimmt,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Push gently on the yoke until the descent attitude line matches the horizon,",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Empuja el volante suavemente hasta que la línea de actitud de descenso coincida con el horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Empuja el volante suavemente hasta que la línea de actitud de descenso coincida con el horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Työnnä varovasti ohjaussauvaa, kunnes horisontti on vajoamisasentoviivan kohdalla,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Poussez légèrement le manche jusqu'à ce que la ligne d'assiette de descente s'aligne sur l'horizon,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Spingi delicatamente la barra fino a quando la linea di assetto di discesa non corrisponde all'orizzonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ヨークをゆっくり押して降下姿勢線と地平線を重ね--",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "조종간을 앞으로 부드럽게 밀어 하강 자세 점선을 수평선과 일치시킨 다음,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Skyv forsiktig på styrespaken til linjen for nedstigningsorienteringen samsvarer med horisonten,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Duw de knuppel rustig naar voren totdat de lijn voor de daalstand overeenkomt met de horizon,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Delikatnie odepchnij wolant, aż linia pochylenia przy zniżaniu pokryje się z horyzontem,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Pique o manche suavemente até que a linha da atitude de descida corresponda ao horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Pique a manche suavemente até que a linha da atitude de descida corresponda ao horizonte,",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Мягко дайте штурвал от себя, пока линия снижения не совпадёт с линией горизонта.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Tryck styrspaken försiktigt framåt tills linjen för nedstigningsattityden matchar horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "İniş durumu çizgisi ufukla hizalanana kadar lövyeyi yavaşça itin.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "轻轻向上推动控制杆，直到下降姿态线与地平线重合，",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "e4771816-4b33-4348-8638-3c49c8fe31a6": {
+        "Name": "AttitudesPitch.Dlg_PitchLevel3Reminder",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Jetzt bitte wieder gerade ausrichten.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "You can level us back out now.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora puedes volver al vuelo uniforme.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Ahora puedes volver al vuelo uniforme.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Voit nyt siirtyä vaakalentoasentoon.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Vous pouvez revenir vers la position initiale, maintenant.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Ora puoi raddrizzare l'aeromobile.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "水平飛行に戻して結構です。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "다시 수평 비행을 유지합시다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Du kan rette oss opp igjen nå.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Je kunt ons nu weer terugbrengen naar horizontale vlucht.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Teraz możesz wyrównać.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Você pode nos nivelar de volta agora.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Pode voltar a nivelar-nos agora.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Теперь давайте выровняем самолёт.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Du kan plana ut igen nu.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Şimdi bizi tekrar düz uçuş durumuna getirebilirsiniz.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "现在你可以把我们重新拉回至水平了。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "f0c5ce37-226a-4a1c-a4af-4d13a9d0d178": {
+        "Name": "AttitudesPitch.Dlg_Intro4_2",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-11-27 17:09:49",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "und behalten Sie dann diese Fluglage bei.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "then maintain that attitude.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "después mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "después mantén esa actitud.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "ja pidä tuo lentoasento.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "puis maintenez-la.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "quindi mantieni quell'assetto.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "-- その姿勢を維持します。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "자세를 그대로 유지하세요.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "deretter holder du denne orienteringen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "en handhaaf die vliegstand.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "a potem utrzymuj to pochylenie.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "em seguida, mantenha essa atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "em seguida, mantenha essa atitude.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "и сохраняйте это пространственное положение.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "och bibehåll sedan den attityden.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Sonrasında durumu koruyun.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "然后保持该姿态。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "f2e30537-cebf-44bb-9e21-319383108ad2": {
+        "Name": "AttitudesPitch.REWARD_PitchDownToDescend",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Die obere Linie auf Höhe des Horizonts halten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Maintain the upper line on the horizon",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Mantén la línea superior en el horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Mantén la línea superior en el horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Pidä yläviiva horisontin kohdalla",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Maintenir la ligne du haut sur l'horizon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Mantieni la linea superiore sull'orizzonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "上側のラインを水平線上に維持する",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "상단 선을 수평선에 유지",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Hold den øverste linjen på horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Houd de bovenste lijn op de horizon",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Utrzymuj górną linię równo z horyzontem",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Mantenha a linha superior no horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Mantenha a linha superior no horizonte",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Удерживайте верхнюю линию на уровне горизонта",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Håll den övre linjen på horisonten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Üst çizgiyi ufukta tutun",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "保持上方的线在地平线上",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "f6a8da29-a20d-4ce0-9eee-f7bbe0f032d1": {
+        "Name": "AttitudesPitch.Step_Plane_Pitch_Level",
+        "Comment": "Placeholder refers to an input button from the players chosen controller",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Mit {STR_AXIS_ELEVATOR_SET} die Reisefluglagenlinie wieder am Horizont ausrichten",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Place the cruise attitude line back onto the horizon using {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Sitúa la línea de actitud de crucero en el horizonte nuevamente con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Sitúa la línea de actitud de crucero en el horizonte nuevamente con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Vie matkalentoasentoviiva takaisin horisontin kohdalle {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Replacer la ligne de l'assiette de croisière du haut sur l'horizon en utilisant {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Posiziona nuovamente la linea dell'assetto di crociera sull'orizzonte con {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} で水平線上に巡航姿勢ラインを戻す",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "순항 자세 선을 수평선에 맞게 되돌리기 ({STR_AXIS_ELEVATOR_SET} 사용)",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Plasser linjen for marsjorienteringen tilbake på horisonten ved å bruke {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Plaats de lijn voor de kruisvluchthouding terug op de horizon met behulp van {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Ustaw linię pochylenia odpowiedniego dla prędkości przelotowej na horyzoncie za pomocą {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Coloque a linha de atitude de cruzeiro de volta ao horizonte usando {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Coloque a linha de atitude de cruzeiro de volta ao horizonte ao utilizar {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Снова совместите линию крейсерского режима с линией горизонта при помощи {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Positionera linjen för marschattityd på horisonten igen med {STR_AXIS_ELEVATOR_SET}",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "{STR_AXIS_ELEVATOR_SET} ile seyir durumu çizgisini ufukla tekrar hizalayın",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "按下{STR_AXIS_ELEVATOR_SET}将巡航姿态线置于地平线上",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "f8e520ac-4f56-4374-b120-a7dcdcfdfa92": {
+        "Name": "AttitudesPitch.Dlg_PitchLevel3",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Okay, bringen Sie uns wieder in die gerade Position.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Okay, bring us back to level flight.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Vale, volvamos al vuelo uniforme.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Bien, nivela el vuelo de nuevo.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "No niin, siirry takaisin vaakalentoasentoon.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "OK, revenez en vol en palier.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Ok, torniamo al volo orizzontale.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "水平飛行に戻してください。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "자, 이제 수평 비행으로 복귀합시다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "OK, gjør slik at vi flyr rett igjen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Oké, breng ons terug naar horizontale vlucht.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Dobrze, wyrównaj lot do poziomu.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Certo, nos leve de volta ao voo nivelado.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Ok, traga-nos de volta ao voo nivelado.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Так, а теперь вернёмся к горизонтальному полёту.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Okej, återgå till planflykt.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Şimdi bizi tekrar düz uçuş durumuna getirin.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "好了，把我们再拉回水平飞行。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "febe86c9-a0b4-439d-b1ea-f075a8d05dc7": {
+        "Name": "AttitudesPitch.Dlg_PitchLevel4",
+        "Comment": "VO TTS aviation instruction",
+        "Speaker": "INSTRUCTOR",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-06 16:33:45",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Nun wird Ihre Geschwindigkeit reduziert, und Ihre Höhe ist stabil.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Now your speed is decreasing, and your altitude is stable.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Ahora tu velocidad está disminuyendo y tu altitud es estable.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Ahora tu velocidad está disminuyendo y tu altitud es estable.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Nyt nopeus pienenee, ja korkeus pysyy samana.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Maintenant, votre vitesse est réduite et votre altitude est stable.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Ora la tua velocità sta diminuendo, mentre l'altitudine è stabile.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "現在、速度は下がり、高度は安定しています。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "속도도 느려지고 고도도 안정화되고 있습니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Nå reduseres hastigheten og høyden er stabil.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Nu daalt je snelheid en blijft je hoogte gelijk.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Teraz prędkość maleje, a wysokość jest stała.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Agora sua velocidade está diminuindo e sua altitude está estável.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Agora a sua velocidade está a diminuir e a sua altitude está estável.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Теперь ваша скорость снижается, а высота стабильна.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Nu minskar hastigheten och höjden är stabil.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Artık hızınız azalıyor ve irtifanız sabit.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "现在你的速度正在下降，高度保持稳定。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      }
+    }
+  }
+}

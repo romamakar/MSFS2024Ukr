@@ -1,0 +1,268 @@
+{
+  "LocalisationFile": {
+    "Version": 3,
+    "UUID": "6cbabb34-de65-4bdc-abd3-a14e9719c403",
+    "Languages": [
+      "de-DE",
+      "en-US",
+      "es-ES",
+      "es-MX",
+      "fi-FI",
+      "fr-FR",
+      "it-IT",
+      "ja-JP",
+      "ko-KR",
+      "nb-NO",
+      "nl-NL",
+      "pl-PL",
+      "pt-BR",
+      "pt-PT",
+      "ru-RU",
+      "sv-SE",
+      "tr-TR",
+      "zh-CN"
+    ],
+    "Strings": {
+      "8b03b0e3-898e-47d7-9a47-71ac9bb68e2e": {
+        "Name": "NASSAU_NAME",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-09-12 15:36:25",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "Nasáu",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Nasáu",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "ナッソー",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "나소",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Нассау",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Nassau",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "拿骚",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "8609565c-2b1b-4e93-964b-67b93e6bf60d": {
+        "Name": "NASSAU_BRIEFING",
+        "LastModifiedBy": "pzochalves",
+        "LastModifiedDate": "2024-10-09 14:34:09",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "Der auf der Insel New Providence unweit der Hauptstadt Nassau gelegenen Flughafen Lynden Pindling ist das primäre internationale Gateway zu den Bahamas. Allerdings sollten Piloten bedenken, dass auch der Weg zum Paradies hin und wieder mit starken Winden gepflastert sein kann.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "Located on the island of New Providence, near the capital city of Nassau, Lynden Pindling International Airport is the main international gateway to the Bahamas -- but be prepared, the approach path to paradise is often swept by high winds.",
+            "LocalizationStatus": "TranslationNeeded"
+          },
+          "es-ES": {
+            "Text": "Situado en la isla de Nueva Providencia, cerca de la capital, Nasáu, el Aeropuerto Internacional de Lynden Pindling es la principal puerta de entrada internacional a las Bahamas. No obstante, prepárate, porque suele haber vientos fuertes que azotan la ruta de aproximación al paraíso.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "Situado en la isla de Nueva Providencia, cerca de la capital, Nasáu, el Aeropuerto Internacional de Lynden Pindling es la principal puerta de entrada internacional a las Bahamas. No obstante, prepárate, porque suele haber vientos fuertes que azotan la ruta de aproximación al paraíso.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "Lynden Pindlingin kansainvälinen lentoasema sijaitsee New Providencen saarella lähellä pääkaupunki Nassauta. Se on tärkein kansainvälinen väylä Bahamaan. Ole kuitenkin varovainen, sillä tätä paratiisia lähestyvät joutuvat usein kovaan tuuleen.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "L'aéroport international Lynden Pindling, situé sur l'île de New Providence près de la capitale Nassau, est la principale voie d'entrée internationale vers les Bahamas. Prenez garde cependant : avant de vous poser au paradis, vous devrez passer une trajectoire d'approche souvent balayée par des vents infernaux.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "Situato sull'isola di New Providence, vicino alla capitale Nassau, l'Aeroporto Internazionale Lynden Pindling è il principale accesso internazionale alle Bahamas. Ma attenzione: l'avvicinamento al paradiso è ostacolato da venti molto forti.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "首都ナッソーの近くにあるニュー・プロビデンス島に位置するリンデン・ピンドリング国際空港は、バハマの主要な国際的出入り口である。だが、十分に用心しよう。楽園へのアプローチにはしばしば強風が吹き荒れている。",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "칠레의 수도 나소 근처의 뉴 프로미던스 섬에 위치한 린든 핀들링 국제공항은 바하마로 이어지는 주요 국제 관문입니다. 다만 이 낙원으로 가는 진입로에서 강풍에 휩쓸리는 경우가 종종 있으므로 주의가 필요합니다.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "Lynden Pindling International Airport ligger på øya New Providence, nær hovedstaden Nassau, og er den viktigste internasjonale inngangsporten til Bahamas – men vær forberedt, innflyvningen til paradis blir ofte herjet av kraftig vind.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "Lynden Pindling International Airport bevindt zich nabij de hoofdstad Nassau op het eiland New Providence en is de belangrijkste internationale toegangspoort tot de Bahama's. Wees echter voorbereid: de aanvliegroute naar het paradijs wordt vaak geplaagd door harde wind.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "Międzynarodowy port lotniczy Lynden Pindling, położony na wyspie New Providence niedaleko stołecznego Nassau, to główny węzeł komunikacyjny Bahamów. Zanim jednak wylądujesz w tym raju, przygotuj się na walkę z silnym wiatrem na podejściu.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "Localizado na ilha de New Providence, perto da cidade capital de Nassau, o Aeroporto Internacional Lynden Pindling é a principal porta de entrada internacional para as Bahamas. Mas, esteja preparado, a trajetória de aproximação ao paraíso é frequentemente varrida por ventos fortes.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "Localizado na ilha de New Providence, perto da cidade capital de Nassau, o Aeroporto Internacional Lynden Pindling é a principal porta de entrada internacional para as Baamas. Mas esteja preparado, a trajetória de aproximação ao paraíso é frequentemente varrida por ventos fortes.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "Международный аэропорт Нассау имени Линдена Пиндлинга — это крупнейший аэропорт на Багамских островах и главная воздушная гавань страны. Он расположен на западе острова Нью-Провиденс, недалеко от Нассау, столицы Багамских островов. При посадке в этом аэропорту будьте аккуратны: заход осложняют сильные ветра.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "Lynden Pindlings internationella flygplats ligger på ön New Providence i Bahamas, nära huvudstaden Nassau. Den är den viktigaste internationella ankomstpunkten till Bahamas, men du måste vara förberedd på att inflygningen till detta paradis ofta piskas av hårda vindar.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "Başkent Nassau yakınlarındaki New Providence Adası'nda bulunan Lynden Pindling Uluslararası Havalimanı, Bahamalar'ın dünyaya açılan ana kapısıdır. Fakat bu cennet adanın yaklaşma yolunda sıklıkla karşılaşılan sert rüzgârlara karşı hazırlıklı olun.",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "林登·平德林国际机场位于巴哈马首都拿骚附近的新普罗维登斯岛上，是通往巴哈马群岛的主要国际口岸——但请做好准备，通往这片乐土的道路经常伴有强烈的阵风。",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      },
+      "a4eb90a1-80e3-43cc-b532-71e9897a655c": {
+        "Name": "NASSAU_NAME_Descr",
+        "LastModifiedBy": "jdebarry",
+        "LastModifiedDate": "2022-12-13 15:36:05",
+        "LocalizationStatus": "Active",
+        "Languages": {
+          "de-DE": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "en-US": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-ES": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "es-MX": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fi-FI": {
+            "Text": "MYNN, Bahama",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "fr-FR": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "it-IT": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ja-JP": {
+            "Text": "MYNN、バハマ",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ko-KR": {
+            "Text": "MYNN, 바하마",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nb-NO": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "nl-NL": {
+            "Text": "MYNN, Bahama's",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pl-PL": {
+            "Text": "MYNN, Bahamy",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-BR": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "pt-PT": {
+            "Text": "MYNN, Baamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "ru-RU": {
+            "Text": "MYNN, Багамы",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "sv-SE": {
+            "Text": "MYNN, Bahamas",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "tr-TR": {
+            "Text": "MYNN, Bahamalar",
+            "LocalizationStatus": "TranslationOk"
+          },
+          "zh-CN": {
+            "Text": "巴哈马林登平德尔国际机场(MYNN)",
+            "LocalizationStatus": "TranslationOk"
+          }
+        }
+      }
+    }
+  }
+}
