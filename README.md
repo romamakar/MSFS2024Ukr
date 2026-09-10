@@ -39,11 +39,12 @@
 - **Steam:** `C:\Program Files (x86)\Steam\steamapps\common\Microsoft Flight Simulator 2024`
 - **Microsoft Store / Xbox App:** `C:\XboxGames\Microsoft Flight Simulator 2024\Content`
 
-4. У грі виберіть ту мову, для якої ви завантажили архів.
+
+У грі виберіть ту мову, для якої ви завантажили архів чи інсталятор.
 
 Наприклад:
-- якщо завантажено `MSFS2024ukr-en.zip` — у грі потрібно вибрати **англійську** мову;
-- якщо `MSFS2024ukr-pl.zip` — **польську**.
+- якщо завантажено `MSFS2024ukr-en.zip` або `MSFS2024Ukr_en.exe` — у грі потрібно вибрати **англійську** мову;
+- якщо `MSFS2024ukr-pl.zip` або `MSFS2024Ukr_pl.exe` — **польську**.
 
 
 ## Корисно знати
