@@ -58,3 +58,8 @@ foreach ($locFile in $locFiles) {
 }
 
 Write-Host "Copied $($locPakFiles.Count) ru-RU.locPak file(s) and $($locFiles.Count) .loc file(s) to '$destinationRootFull'."
+
+git pull
+git add .
+git commit -m "Added new ru-RU.locPak and .loc files"
+git push
