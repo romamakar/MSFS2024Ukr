@@ -19,23 +19,21 @@
 
 ### 1. Через інсталятор (найпростійший)
 
-1. Перейдіть на сторінку релізу: [exe](https://github.com/romamakar/MSFS2024Ukr/releases/tag/exe).
-2. Завантажте один із інсталяторів:
-   - `MSFS2024Ukr_en.exe`
-   - `MSFS2024Ukr_ru.exe`
-   - `MSFS2024Ukr_pl.exe`
-3. Запустіть інсталятор і дотримуйтесь його інструкцій.
-4. Після встановлення виберіть у грі відповідну мову.
+1. Завантажте один із інсталяторів:
+   - [MSFS2024Ukr_en.exe](https://github.com/romamakar/MSFS2024Ukr/releases/download/exe/MSFS2024Ukr_en.exe)
+   - [MSFS2024Ukr_ru.exe](https://github.com/romamakar/MSFS2024Ukr/releases/download/exe/MSFS2024Ukr_ru.exe)
+   - [MSFS2024Ukr_pl.exe](https://github.com/romamakar/MSFS2024Ukr/releases/download/exe/MSFS2024Ukr_pl.exe)
+2. Запустіть інсталятор і дотримуйтесь його інструкцій.
+3. Після встановлення виберіть у грі відповідну мову.
 
 
 ### 2. Через заміну файлів
 
-1. Перейдіть на сторінку релізу: [zip](https://github.com/romamakar/MSFS2024Ukr/releases/tag/zip).
-2. Завантажте один із архівів:
-   - `MSFS2024ukr-en.zip`
-   - `MSFS2024ukr-ru.zip`
-   - `MSFS2024ukr-pl.zip`
-3. Розпакуйте вміст архіву в папку, де встановлена гра.
+1. Завантажте один із архівів:
+   - [MSFS2024ukr-en.zip](https://github.com/romamakar/MSFS2024Ukr/releases/download/zip/MSFS2024ukr-en.zip)
+   - [MSFS2024ukr-ru.zip](https://github.com/romamakar/MSFS2024Ukr/releases/download/zip/MSFS2024ukr-ru.zip)
+   - [MSFS2024ukr-pl.zip](https://github.com/romamakar/MSFS2024Ukr/releases/download/zip/MSFS2024ukr-pl.zip)
+2. Розпакуйте вміст архіву в папку, де встановлена гра.
 
 Типові шляхи:
 - **Steam:** `C:\Program Files (x86)\Steam\steamapps\common\Microsoft Flight Simulator 2024`
