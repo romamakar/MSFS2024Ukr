@@ -3,23 +3,23 @@
     "Language": "ru-RU",
     "Strings": {
       "EFB.COMMON.BACK": "Назад",
-      "EFB.SETTINGS.ADD_FAVORITE": "в избранное",
-      "EFB.SETTINGS.AUTO_BRIGHTNESS": "автояркость",
-      "EFB.SETTINGS.BRIGHTNESS": "яркость",
-      "EFB.SETTINGS.DEFAULT_APP_LAUNCHED": "запущено приложение по умолчанию",
-      "EFB.SETTINGS.FAVORITES": "Избранное",
-      "EFB.SETTINGS.FAVORITES_BAR": "панель «избранное»",
-      "EFB.SETTINGS.HEIGHT": "высота",
-      "EFB.SETTINGS.HORIZONTAL": "ось X",
+      "EFB.SETTINGS.ADD_FAVORITE": "у вибране",
+      "EFB.SETTINGS.AUTO_BRIGHTNESS": "автояскравість",
+      "EFB.SETTINGS.BRIGHTNESS": "яскравість",
+      "EFB.SETTINGS.DEFAULT_APP_LAUNCHED": "запущено програму за замовчуванням",
+      "EFB.SETTINGS.FAVORITES": "Вибране",
+      "EFB.SETTINGS.FAVORITES_BAR": "панель \"обране\"",
+      "EFB.SETTINGS.HEIGHT": "висота",
+      "EFB.SETTINGS.HORIZONTAL": "вісь X",
       "EFB.SETTINGS.PRESSURE": "Pressure",
-      "EFB.SETTINGS.SPEED": "скорость",
-      "EFB.SETTINGS.TABLET_ORIENTATION": "ориентация планшета",
-      "EFB.SETTINGS.TABLET_SIZE": "размер планета",
+      "EFB.SETTINGS.SPEED": "швидкість",
+      "EFB.SETTINGS.TABLET_ORIENTATION": "орієнтація планшета",
+      "EFB.SETTINGS.TABLET_SIZE": "розмір планета",
       "EFB.SETTINGS.TEMPERATURE": "температура",
-      "EFB.SETTINGS.UNIT_OF_MEASURE": "единица измерения",
-      "EFB.SETTINGS.VERTICAL": "ось Y",
-      "EFB.SETTINGS.VOLUME": "объем",
-      "EFB.SETTINGS.WEIGHT": "вес"
+      "EFB.SETTINGS.UNIT_OF_MEASURE": "одиниця виміру",
+      "EFB.SETTINGS.VERTICAL": "вісь Y",
+      "EFB.SETTINGS.VOLUME": "обсяг",
+      "EFB.SETTINGS.WEIGHT": "вага"
     }
   }
 }

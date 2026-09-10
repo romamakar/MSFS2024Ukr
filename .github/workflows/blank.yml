@@ -37,24 +37,42 @@ jobs:
         run: dotnet restore
 
       - name: Build the project
-        run: dotnet build --configuration Release
-
-     
+        run: dotnet build --configuration Release     
 
       - name: Run the program
+        id: run_program
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: .\MSFS2024Ukr\bin\Release\net8.0\MSFS2024Ukr.exe
+        run: |
+          $ErrorActionPreference = 'Stop'
+
+          try {
+            $process = Start-Process -FilePath ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024Ukr.exe" -NoNewWindow -Wait -PassThru
+          }
+          catch {
+            "should_continue=false" >> $env:GITHUB_OUTPUT
+            exit 0
+          }
+
+          if ($process.ExitCode -ne 0) {
+            "should_continue=false" >> $env:GITHUB_OUTPUT
+            exit 0
+          }
+
+          "should_continue=true" >> $env:GITHUB_OUTPUT
         shell: powershell
 
       - name: Refresh state
+        if: steps.run_program.outputs.should_continue == 'true'
         run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\app.json ..\\MSFS2024Ukr\MSFS2024Ukr\state\app.json
       
       - name: Refresh data directory recursively
+        if: steps.run_program.outputs.should_continue == 'true'
         run: Copy-Item ".\MSFS2024Ukr\bin\Release\net8.0\data\*" "..\MSFS2024Ukr\MSFS2024Ukr\data\" -Recurse -Force
         shell: powershell
 
       - name: Zip MSFS2024ukr-en folder
+        if: steps.run_program.outputs.should_continue == 'true'
         shell: pwsh
         run: |
           $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-en\*"
@@ -62,6 +80,7 @@ jobs:
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
       - name: Zip MSFS2024ukr-ru folder
+        if: steps.run_program.outputs.should_continue == 'true'
         shell: pwsh
         run: |
           $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-ru\*"
@@ -69,6 +88,7 @@ jobs:
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
       - name: Zip MSFS2024ukr-pl folder
+        if: steps.run_program.outputs.should_continue == 'true'
         shell: pwsh
         run: |
           $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-pl\*"
@@ -77,15 +97,19 @@ jobs:
 
 
       - name: Build installer (silent)
+        if: steps.run_program.outputs.should_continue == 'true'
         run: ISCC.exe "${{ github.workspace }}\installer\setup-en.iss"
 
       - name: Build installer (silent)
+        if: steps.run_program.outputs.should_continue == 'true'
         run: ISCC.exe "${{ github.workspace }}\installer\setup-pl.iss"
         
       - name: Build installer (silent)
+        if: steps.run_program.outputs.should_continue == 'true'
         run: ISCC.exe "${{ github.workspace }}\installer\setup-ru.iss"
 
       - name: Upload release asset en
+        if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
           files: "MSFS2024ukr-en.zip"
@@ -94,6 +118,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload release asset pl
+        if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
           files: "MSFS2024ukr-pl.zip"
@@ -102,6 +127,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload release asset ru
+        if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
           files: "MSFS2024ukr-ru.zip"
@@ -110,6 +136,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload installer en
+        if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
           files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_en.exe"
@@ -118,6 +145,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload installer pl
+        if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
           files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_pl.exe"
@@ -126,6 +154,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload installer ru
+        if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
           files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_ru.exe"
@@ -134,6 +163,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Save state
+        if: steps.run_program.outputs.should_continue == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

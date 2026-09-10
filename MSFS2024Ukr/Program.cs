@@ -8,6 +8,7 @@ namespace MSFS2024Ukr
     {
         static AppStateStorage appStateStorage = new AppStateStorage(Path.Combine(AppContext.BaseDirectory, "state", "app.json"));
         static AppState appState = appStateStorage.LoadAsync().Result;
+        public static int allSymbols = 0;
         static string apiKey = Environment.GetEnvironmentVariable("GOOGLE_API_KEY");
         // Створюємо клієнт для Google Translation API
         static TranslationClient client = null;
@@ -20,33 +21,32 @@ namespace MSFS2024Ukr
             Console.WriteLine($"API key length: {apiKey?.Length ?? 0}");
             Console.WriteLine($"BaseDirectory: {AppContext.BaseDirectory}");
             ContnueWork();
-            // allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data");
+            //oldCode();
+            //allzise("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data2");
+            //LocPakFile.SyncFromNewestDataAndTranslate("C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data2", "C:\\Users\\roman\\OneDrive\\Desktop\\flight\\MSFS2024Ukr\\MSFS2024Ukr\\data3");
         }
 
         private static void ContnueWork()
         {
-            if (false)
+            if (appState.LastDate.Month != GetUkrainianTime().Month)
             {
-                if (appState.CurrentSymbols >= 500000 && appState.LastDate.Month == GetUkrainianTime().Month)
-                {
-                    Console.WriteLine($"CurrentSymbols: {appState.CurrentSymbols}");
-                    Console.WriteLine($"LastFilePath: {appState.LastFilePath}");
-                    Console.WriteLine($"LastDate: {appState.LastDate}");
-                    Console.WriteLine($"LastKey: {appState.LastKey}");
-                    throw new Exception("Перевищено ліміт символів для перекладу. Будь ласка, продовжіть роботу з останнього збереженого стану.");
-                }
+                appState.CurrentSymbols = 0;
+            }
 
-                if (appState.CurrentSymbols > 500000)
-                {
-                    appState.CurrentSymbols = 0;
-                }
+            if (appState.CurrentSymbols >= 500000 && appState.LastDate.Month == GetUkrainianTime().Month)
+            {
+                Console.WriteLine($"CurrentSymbols: {appState.CurrentSymbols}");
+                Console.WriteLine($"LastFilePath: {appState.LastFilePath}");
+                Console.WriteLine($"LastDate: {appState.LastDate}");
+                Console.WriteLine($"LastKey: {appState.LastKey}");
+            }
 
-                var result = LocPakFile.SyncFromNewestDataAndTranslate(Path.Combine(AppContext.BaseDirectory, "newestdata"), Path.Combine(AppContext.BaseDirectory, "data"));
-                Console.WriteLine($"Result of translation: {JsonConvert.SerializeObject(result)}");
-                if (result.WasError)
-                {
-                    throw new Exception("Сталася помилка під час синхронізації та перекладу файлів .locPak. Будь ласка, перевірте журнали для отримання додаткової інформації.");
-                }
+            var result = LocPakFile.SyncFromNewestDataAndTranslate(Path.Combine(AppContext.BaseDirectory, "newestdata"), Path.Combine(AppContext.BaseDirectory, "data"));
+            appStateStorage.SaveAsync(appState).Wait();
+            Console.WriteLine($"Result of translation: {JsonConvert.SerializeObject(result)}");
+            if (result.WasError)
+            {
+                throw new Exception("Сталася помилка під час синхронізації та перекладу файлів .locPak. Будь ласка, перевірте журнали для отримання додаткової інформації.");
             }
 
             LocPakFile.MakeArftifactDirectory(Path.Combine(AppContext.BaseDirectory, "data"), Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"), "en-US");
@@ -64,11 +64,11 @@ namespace MSFS2024Ukr
                 return text;
             }
             appState.CurrentSymbols += text.Length;
-
+            
             if (appState.CurrentSymbols > 500000)
             {
                 appStateStorage.SaveAsync(new AppState { CurrentSymbols = appState.CurrentSymbols, LastFilePath = file, LastDate = GetUkrainianTime(), LastKey = key }).Wait();
-                throw new Exception();
+                throw new Exception("Перевищено ліміт символів для перекладу.");
             }
 
             try
@@ -105,30 +105,35 @@ namespace MSFS2024Ukr
         {
             var filePath = Path.Combine(
               AppContext.BaseDirectory,
-              "data",
-              "Content",
-              "Packages",
-              "fs-base",
-              "ru-RU.locPak");
+              "ukr",
+              "pl-PL.locPak");
 
             var locPak = LocPakFile.Read(filePath);
             var totalLength = locPak.LocalisationPackage.Strings.Values.Sum(x => x.Length);
             var sum = 0;
             var lastKey = "";
+            var found = false;
             foreach (var item in locPak.LocalisationPackage.Strings)
             {
-                if (string.IsNullOrEmpty(item.Value?.Trim()) || !containsCyrillic(item.Value))
+                if (item.Key == "INPUT.KEY_DEVMODE_REDO")
                 {
+                    found = true;
                     continue;
                 }
-                sum += item.Value.Length;
-                if (sum > 500000)
+
+                if (found)
                 {
-                    break;
+                    if (string.IsNullOrEmpty(item.Value?.Trim()) || !containsCyrillic(item.Value))
+                    {
+                        continue;
+                    }
+                    sum += item.Value.Length;
+
+                    lastKey = item.Key;
+                    Console.WriteLine($"Total length of all strings: {sum}");
+
+                    locPak.LocalisationPackage.Strings[item.Key] = TranslateText(item.Value, filePath, item.Key);
                 }
-                lastKey = item.Key;
-                Console.WriteLine($"Total length of all strings: {sum}");
-                locPak.LocalisationPackage.Strings[item.Key] = TranslateText(item.Value, filePath, item.Key);
             }
 
             Console.WriteLine($"lastKey: {lastKey}");
@@ -155,7 +160,7 @@ namespace MSFS2024Ukr
                     sum += item.Value.Length;
                 }
             }
-
+            allSymbols = sum;
             Console.WriteLine(sum);
 
         }

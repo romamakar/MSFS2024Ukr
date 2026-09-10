@@ -102,6 +102,7 @@ namespace MSFS2024Ukr
                     {
                         foreach (var key in locPak.LocalisationPackage.Strings.Keys.ToList())
                         {
+                            Console.WriteLine($"Translating key '{key}' in file '{targetLocPakPath}' with value '{locPak.LocalisationPackage.Strings[key]}'");
                             locPak.LocalisationPackage.Strings[key] = Program.TranslateText(locPak.LocalisationPackage.Strings[key], targetLocPakPath, key);
                             translatedKeys.Add(key);
                             fileWithKeys.Keys.Add(key);
@@ -135,9 +136,6 @@ namespace MSFS2024Ukr
                 var targetLocPak = Read(targetLocPakPath);
                 var fileChanged = false;
 
-                
-
-
                 foreach (var sourceString in sourceLocPak.LocalisationPackage.Strings)
                 {
                     if (targetLocPak.LocalisationPackage.Strings.ContainsKey(sourceString.Key))
@@ -147,8 +145,8 @@ namespace MSFS2024Ukr
 
                     try
                     {
+                        Console.WriteLine($"Translating key '{sourceString.Key}' in file '{targetLocPakPath}' with value '{sourceString.Value}'");
                         targetLocPak.LocalisationPackage.Strings[sourceString.Key] = Program.TranslateText(sourceString.Value, targetLocPakPath, sourceString.Key);
-
                     }
                     catch (Exception ex)
                     {

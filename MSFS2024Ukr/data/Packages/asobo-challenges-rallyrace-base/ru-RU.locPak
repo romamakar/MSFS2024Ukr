@@ -2,20 +2,20 @@
   "LocalisationPackage": {
     "Language": "ru-RU",
     "Strings": {
-      "CHALLENGE_NEXTGATE": "Следующие ворота",
-      "FINISH_GATE": "Финиш",
-      "GHOST": "Призрак",
-      "MENU.DUNE_ACTIVITIES": "Дюна — меню",
-      "MENU.MISSIONTYPE_ACTIVITIES_DNE": "Испытания",
-      "MENU.MISSIONTYPE_ACTIVITIES_DNE_DESCR": "Заглушка — описание активностей",
+      "CHALLENGE_NEXTGATE": "Наступні ворота",
+      "FINISH_GATE": "Фініш",
+      "GHOST": "Примара",
+      "MENU.DUNE_ACTIVITIES": "Дюна - меню",
+      "MENU.MISSIONTYPE_ACTIVITIES_DNE": "Випробування",
+      "MENU.MISSIONTYPE_ACTIVITIES_DNE_DESCR": "Заглушка - опис активностей",
       "MENU.MISSIONTYPE_DNE": "Дюна",
-      "MENU.MISSIONTYPE_DNE_ACTIVITIES_10TIMEATTACK": "СКОРОСТНОЕ ПРОХОЖДЕНИЕ МАРШРУТА",
-      "MENU.MISSIONTYPE_DNE_ACTIVITIES_20EXOTICCHALLENGE": "Экзотическое испытание",
-      "MENU.MISSIONTYPE_TUTORIAL_DNE": "ОБУЧЕНИЕ",
-      "MENU.MISSIONTYPE_TUTORIAL_DNE_DESCR": "Заглушка — описание обучающих заданий",
+      "MENU.MISSIONTYPE_DNE_ACTIVITIES_10TIMEATTACK": "ШВИДКІСНЕ ПРОХОДЖЕННЯ МАРШРУТУ",
+      "MENU.MISSIONTYPE_DNE_ACTIVITIES_20EXOTICCHALLENGE": "Екзотичне випробування",
+      "MENU.MISSIONTYPE_TUTORIAL_DNE": "НАВЧАННЯ",
+      "MENU.MISSIONTYPE_TUTORIAL_DNE_DESCR": "Заглушка - опис навчальних завдань",
       "START_GATE": "Старт",
-      "TRANSITION.TIMEATTACK_FINISHED": "ЗАДАНИЕ ВЫПОЛНЕНО",
-      "TRANSITION.TIMEATTACK_STARTED": "Задание начинается"
+      "TRANSITION.TIMEATTACK_FINISHED": "ЗАВДАННЯ ВИКОНАНО",
+      "TRANSITION.TIMEATTACK_STARTED": "Завдання починається"
     }
   }
 }

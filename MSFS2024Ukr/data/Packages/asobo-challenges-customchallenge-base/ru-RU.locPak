@@ -2,8 +2,8 @@
   "LocalisationPackage": {
     "Language": "ru-RU",
     "Strings": {
-      "CHALLENGE_NEXTGATE": "Следующие ворота",
-      "GHOST": "Призрак"
+      "CHALLENGE_NEXTGATE": "Наступні ворота",
+      "GHOST": "Примара"
     }
   }
 }
