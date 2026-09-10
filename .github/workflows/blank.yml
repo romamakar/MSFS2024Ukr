@@ -39,14 +39,7 @@ jobs:
       - name: Build the project
         run: dotnet build --configuration Release
 
-      - name: Build installer (silent)
-        run: ISCC.exe "${{ github.workspace }}\installer\setup-en.iss"
-
-      - name: Build installer (silent)
-        run: ISCC.exe "${{ github.workspace }}\installer\setup-pl.iss"
-        
-      - name: Build installer (silent)
-        run: ISCC.exe "${{ github.workspace }}\installer\setup-ru.iss"
+     
 
       - name: Run the program
         env:
@@ -81,6 +74,16 @@ jobs:
           $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-pl\*"
           $zipFile = "MSFS2024ukr-pl.zip"
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
+
+
+      - name: Build installer (silent)
+        run: ISCC.exe "${{ github.workspace }}\installer\setup-en.iss"
+
+      - name: Build installer (silent)
+        run: ISCC.exe "${{ github.workspace }}\installer\setup-pl.iss"
+        
+      - name: Build installer (silent)
+        run: ISCC.exe "${{ github.workspace }}\installer\setup-ru.iss"
 
       - name: Upload release asset en
         uses: softprops/action-gh-release@v2
