@@ -2,18 +2,18 @@
   "LocalisationPackage": {
     "Language": "ru-RU",
     "Strings": {
-      "COURSE_LEADERBOARD": "Таблиця лідерів курсу - {DIFFICULTY}",
+      "COURSE_LEADERBOARD": "Таблиця лiдерiв курсу - {DIFFICULTY}",
       "DIFFICULTY.BEGINNER": "Початковий",
       "DIFFICULTY.LENIENT": "Спрощений",
-      "DIFFICULTY.OFFICIAL": "Офіційний",
+      "DIFFICULTY.OFFICIAL": "Офiцiйний",
       "DIFFICULTY_RULESET": "Правила\r\n",
-      "DIFFICULTY_TITLE": "Складність: {DIFFICULTY}",
+      "DIFFICULTY_TITLE": "Складнiсть: {DIFFICULTY}",
       "DIFFICULTY_TRACK": "Схема польоту",
       "REDBULL.PAUSE.BACK_TO_TRACK_SELECTION": "Повернутися до вибору маршруту",
       "TITLE.BEGINNER": "Новачок",
       "TITLE.CHALLENGER": "Експерт",
-      "TITLE.INTERMEDIATE": "Середній",
-      "TITLE.TTL": "Реальні умови"
+      "TITLE.INTERMEDIATE": "Середнiй",
+      "TITLE.TTL": "Реальнi умови"
     }
   }
 }

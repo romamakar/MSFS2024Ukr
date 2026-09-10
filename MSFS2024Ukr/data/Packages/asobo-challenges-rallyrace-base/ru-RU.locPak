@@ -2,14 +2,14 @@
   "LocalisationPackage": {
     "Language": "ru-RU",
     "Strings": {
-      "CHALLENGE_NEXTGATE": "Наступні ворота",
-      "FINISH_GATE": "Фініш",
+      "CHALLENGE_NEXTGATE": "Наступнi ворота",
+      "FINISH_GATE": "Фiнiш",
       "GHOST": "Примара",
       "MENU.DUNE_ACTIVITIES": "Дюна - меню",
       "MENU.MISSIONTYPE_ACTIVITIES_DNE": "Випробування",
       "MENU.MISSIONTYPE_ACTIVITIES_DNE_DESCR": "Заглушка - опис активностей",
       "MENU.MISSIONTYPE_DNE": "Дюна",
-      "MENU.MISSIONTYPE_DNE_ACTIVITIES_10TIMEATTACK": "ШВИДКІСНЕ ПРОХОДЖЕННЯ МАРШРУТУ",
+      "MENU.MISSIONTYPE_DNE_ACTIVITIES_10TIMEATTACK": "ШВИДКIСНЕ ПРОХОДЖЕННЯ МАРШРУТУ",
       "MENU.MISSIONTYPE_DNE_ACTIVITIES_20EXOTICCHALLENGE": "Екзотичне випробування",
       "MENU.MISSIONTYPE_TUTORIAL_DNE": "НАВЧАННЯ",
       "MENU.MISSIONTYPE_TUTORIAL_DNE_DESCR": "Заглушка - опис навчальних завдань",

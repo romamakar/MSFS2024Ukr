@@ -2,7 +2,7 @@
   "LocalisationPackage": {
     "Language": "ru-RU",
     "Strings": {
-      "TARGET.HELIPAD": "Вертолітний майданчик",
+      "TARGET.HELIPAD": "Вертолiтний майданчик",
       "TARGET.LANDING": "Точка приземлення",
       "TARGET.RUNWAY": "Крапка на ЗПС"
     }

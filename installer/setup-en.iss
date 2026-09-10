@@ -25,6 +25,7 @@ OutputDir=Output
 SetupIconFile=D:\a\MSFS2024Ukr\MSFS2024Ukr\installer\installer.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
+AppendDefaultDirName=no 
 
 [Messages]
 WelcomeLabel1=Вітаємо в майстрі встановлення {#MyAppName}!
