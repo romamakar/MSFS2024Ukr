@@ -30,11 +30,23 @@ jobs:
         with:
           dotnet-version: "8.0.x"
 
+      - name: Install Inno Setup
+        run: choco install innosetup -y
+
       - name: Restore dependencies
         run: dotnet restore
 
       - name: Build the project
         run: dotnet build --configuration Release
+
+      - name: Build installer (silent)
+        run: ISCC.exe "${{ github.workspace }}\installer\setup-en.iss"
+
+      - name: Build installer (silent)
+        run: ISCC.exe "${{ github.workspace }}\installer\setup-pl.iss"
+        
+      - name: Build installer (silent)
+        run: ISCC.exe "${{ github.workspace }}\installer\setup-ru.iss"
 
       - name: Run the program
         env:
@@ -91,6 +103,30 @@ jobs:
         with:
           files: "MSFS2024ukr-ru.zip"
           tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload installer en
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_en.exe"
+          tag_name: "exe"  # Можна використовувати будь-який тег, якщо потрібно
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload installer pl
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_pl.exe"
+          tag_name: "exe"  # Можна використовувати будь-який тег, якщо потрібно
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload installer ru
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_ru.exe"
+          tag_name: "exe"  # Можна використовувати будь-який тег, якщо потрібно
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
