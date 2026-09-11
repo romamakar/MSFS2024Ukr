@@ -61,7 +61,7 @@
       "EFB.COMMON.NOTIFICATION_DESCENT_RATE_SUPERIOR": "Ваша швидкiсть зниження перевищує {MAX_RATE}. Зберiгайте швидкiсть {TARGET_RATE}",
       "EFB.COMMON.NOTIFICATION_DETOUR_FROM_COURSE": "Ваше судно летить надто {SIDE}. Повернiться на висоту {ALTITUDE_VALUE} {ALTITUDE_UNIT}",
       "EFB.COMMON.NOTIFICATION_DEVIATING_FROM_COURSE": "Ви вiдхилилися вiд потрiбної висоти; скоригуйте курс на {DIRECTION}°",
-      "EFB.COMMON.NOTIFICATION_DEVIATING_FROM_TAXI": "Ви вiдхилилися вiд рекомендованої траєкторiї рулювання; виправте ситуацiю",
+      "EFB.COMMON.NOTIFICATION_DEVIATING_FROM_TAXI": "Ви вiдхилилися вiд рекомендованої траєкторiї руління; виправте ситуацiю",
       "EFB.COMMON.NOTIFICATION_DISTRIBUTE_ALL_MISSION_PAYLOAD": "Перерозподiлiть корисне польотне навантаження",
       "EFB.COMMON.NOTIFICATION_DRIZZLE_DETECTED": "Виявлена мряка!",
       "EFB.COMMON.NOTIFICATION_DUSTORM_DETECTED": "Виявлено пилову бурю!",
