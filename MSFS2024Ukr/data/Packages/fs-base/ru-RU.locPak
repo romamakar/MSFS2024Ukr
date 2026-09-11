@@ -476,7 +476,7 @@
       "ATC.MENU.AGENT_RADIO": "Радiо",
       "ATC.MENU.AGENT_TOWER": "Диспетчерська",
       "ATC.MENU.AGENT_TRAFFIC": "Повiтряний рух",
-      "ATC.MENU.AIRPORT_MENU_OPTION": "[% 1!s! (% 2!s!)]",
+      "ATC.MENU.AIRPORT_MENU_OPTION": "[ %1!s! ( %2!s! ) ]",
       "ATC.MENU.ANNOUNCE_BASE_LEG": "Повiдомити про вихiд на дiлянку пiсля третього розвороту",
       "ATC.MENU.ANNOUNCE_CLEAR_OF_RUNWAY": "Повiдомити про звiльнення смуги",
       "ATC.MENU.ANNOUNCE_CROSSWIND_LEG": "Повiдомити про вихiд на дiлянку пiсля першого розвороту",
