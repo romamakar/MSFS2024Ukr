@@ -14,6 +14,7 @@ namespace MSFS2024Ukr
         static TranslationClient client = null;
         static void Main(string[] args)
         {
+            LayoutFile.sum("C:\\XboxGames\\Microsoft Flight Simulator 2024\\Content\\Packages\\fs-base");
             appState.LastDate = GetUkrainianTime();
             appStateStorage.SaveAsync(appState).Wait();
             Console.WriteLine($"apiKey: {apiKey}");

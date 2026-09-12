@@ -112,18 +112,44 @@ namespace MSFS2024Ukr
             return updatedEntriesCount;
         }
 
-      
+        public static int sum(string rootFolder)
+        {
+
+            foreach (var path in Directory.EnumerateFiles(rootFolder, "layout.json", SearchOption.AllDirectories))
+            {
+                var updatedEntriesCount = 0;
+                long size = 0;
+
+
+
+
+                var layout = Read(path);
+
+                foreach (var s in layout.Content)
+                {
+
+                    size += s?.Size ?? 0;
+                }
+                updatedEntriesCount++;
+
+
+                return updatedEntriesCount;
+            }
+        }
+
+
+
+
+
+        public sealed class LayoutEntry
+        {
+            [JsonPropertyName("path")]
+            public string Path { get; set; } = string.Empty;
+
+            [JsonPropertyName("size")]
+            public long Size { get; set; }
+
+            [JsonPropertyName("date")]
+            public long Date { get; set; }
+        }
     }
-
-    public sealed class LayoutEntry
-    {
-        [JsonPropertyName("path")]
-        public string Path { get; set; } = string.Empty;
-
-        [JsonPropertyName("size")]
-        public long Size { get; set; }
-
-        [JsonPropertyName("date")]
-        public long Date { get; set; }
-    }
-}
