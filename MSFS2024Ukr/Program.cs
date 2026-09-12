@@ -14,7 +14,7 @@ namespace MSFS2024Ukr
         static TranslationClient client = null;
         static void Main(string[] args)
         {
-            LayoutFile.sum("C:\\XboxGames\\Microsoft Flight Simulator 2024\\Content\\Packages\\fs-base");
+        
             appState.LastDate = GetUkrainianTime();
             appStateStorage.SaveAsync(appState).Wait();
             Console.WriteLine($"apiKey: {apiKey}");
@@ -56,6 +56,9 @@ namespace MSFS2024Ukr
             LayoutFile.UpdateLocPakSizes(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"));
             LayoutFile.UpdateLocPakSizes(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-pl"));
             LayoutFile.UpdateLocPakSizes(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-ru"));
+            LayoutFile.UpdateSum(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-en"));
+            LayoutFile.UpdateSum(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-pl"));
+            LayoutFile.UpdateSum(Path.Combine(AppContext.BaseDirectory, "MSFS2024ukr-ru"));
         }
 
         public static string TranslateText(string text, string file, string key)
