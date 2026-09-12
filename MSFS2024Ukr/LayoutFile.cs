@@ -26,6 +26,15 @@ namespace MSFS2024Ukr
                 ?? throw new InvalidDataException($"Не вдалося прочитати файл '{path}'.");
         }
 
+        public static ManifestFile ReadManifest(string path)
+        {
+            ArgumentException.ThrowIfNullOrWhiteSpace(path);
+
+            var json = File.ReadAllText(path, Encoding.UTF8);
+            return JsonSerializer.Deserialize<ManifestFile>(json, SerializerOptions)
+                ?? throw new InvalidDataException($"Не вдалося прочитати файл '{path}'.");
+        }
+
         public static async Task<LayoutFile> ReadAsync(string path, CancellationToken cancellationToken = default)
         {
             ArgumentException.ThrowIfNullOrWhiteSpace(path);
@@ -112,30 +121,31 @@ namespace MSFS2024Ukr
             return updatedEntriesCount;
         }
 
-        public static int sum(string rootFolder)
+        public static void sum(string rootFolder)
         {
 
             foreach (var path in Directory.EnumerateFiles(rootFolder, "layout.json", SearchOption.AllDirectories))
             {
-                var updatedEntriesCount = 0;
                 long size = 0;
-
-
-
 
                 var layout = Read(path);
 
                 foreach (var s in layout.Content)
                 {
-
                     size += s?.Size ?? 0;
                 }
-                updatedEntriesCount++;
 
+                var directoryPath = Path.GetDirectoryName(path);
+                if (string.IsNullOrEmpty(directoryPath))
+                {
+                    continue;
+                }
 
-                return updatedEntriesCount;
+                var layoutPath = Path.Combine(directoryPath, "manifest.json");
+                var manfest = ReadManifest(layoutPath);
             }
         }
+    }
 
 
 
@@ -152,4 +162,32 @@ namespace MSFS2024Ukr
             [JsonPropertyName("date")]
             public long Date { get; set; }
         }
+
+    public sealed class ManifestFile
+    {
+        [JsonPropertyName("dependencies")]
+        public string dependencies { get; set; } = string.Empty;
+
+        [JsonPropertyName("content_type")]
+        public long content_type { get; set; }
+
+        [JsonPropertyName("title")]
+        public long title { get; set; }
+        [JsonPropertyName("manufacturer")]
+        public string manufacturer { get; set; } = string.Empty;
+
+        [JsonPropertyName("creator")]
+        public long creator { get; set; }
+
+        [JsonPropertyName("date")]
+        public long Date { get; set; }
+        [JsonPropertyName("dependencies")]
+        public string dependencies { get; set; } = string.Empty;
+
+        [JsonPropertyName("content_type")]
+        public long content_type { get; set; }
+
+        [JsonPropertyName("date")]
+        public long Date { get; set; }
     }
+}

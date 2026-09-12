@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "content_type": "MISC",
+  "title": "FlightControlTools - FCR Embedded",
+  "manufacturer": "Microsoft",
+  "creator": "Fabio Merlo",
+  "package_version": "1.1.4",
+  "minimum_game_version": "1.5.10",
+  "minimum_compatibility_version": "5.10.0.93",
+  "export_type": "Community",
+  "builder": "Microsoft Flight Simulator 2024",
+  "package_order_hint": "",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "3740531"
+}

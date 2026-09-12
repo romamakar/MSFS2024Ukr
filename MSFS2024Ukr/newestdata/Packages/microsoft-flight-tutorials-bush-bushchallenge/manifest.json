@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "content_type": "MISSION",
+  "title": "Flight Training - Bush - Bush Challenge",
+  "manufacturer": "",
+  "creator": "Microsoft / FS Academy",
+  "package_version": "0.1.8",
+  "minimum_game_version": "1.8.16",
+  "minimum_compatibility_version": "8.11.0.236",
+  "export_type": "Community",
+  "builder": "Microsoft Flight Simulator 2024",
+  "package_order_hint": "MISSION",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "81259142"
+}

@@ -1,0 +1,25 @@
+{
+  "dependencies": [
+    {
+      "name": "fs-base-ui-widgets",
+      "package_version": "0.1.47"
+    }
+  ],
+  "content_type": "MISC",
+  "title": "Asobo Challenges Low Altitude",
+  "manufacturer": "",
+  "creator": "Asobo Studio",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.8.16",
+  "minimum_compatibility_version": "8.11.0.236",
+  "export_type": "Community",
+  "builder": "Microsoft Flight Simulator 2024",
+  "package_order_hint": "MISSION",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "17064541"
+}

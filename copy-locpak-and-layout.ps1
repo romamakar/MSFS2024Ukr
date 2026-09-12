@@ -39,6 +39,11 @@ foreach ($locPakFile in $locPakFiles) {
 		$targetLayoutPath = Join-Path $targetDirectory 'layout.json'
 		Copy-Item -LiteralPath $layoutPath -Destination $targetLayoutPath -Force
 	}
+	$manifestPath = Join-Path $locPakFile.DirectoryName 'manifest.json'
+	if (Test-Path -LiteralPath $manifestPath -PathType Leaf) {
+		$targetManifestPath = Join-Path $targetDirectory 'manifest.json'
+		Copy-Item -LiteralPath $manifestPath -Destination $targetManifestPath -Force
+	}
 }
 
 foreach ($locFile in $locFiles) {
