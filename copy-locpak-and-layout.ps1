@@ -38,11 +38,13 @@ foreach ($locPakFile in $locPakFiles) {
 	if (Test-Path -LiteralPath $layoutPath -PathType Leaf) {
 		$targetLayoutPath = Join-Path $targetDirectory 'layout.json'
 		Copy-Item -LiteralPath $layoutPath -Destination $targetLayoutPath -Force
+		Copy-Item -LiteralPath $layoutPath -Destination $targetLayoutPath.Replace('newestdata', 'data') -Force
 	}
 	$manifestPath = Join-Path $locPakFile.DirectoryName 'manifest.json'
 	if (Test-Path -LiteralPath $manifestPath -PathType Leaf) {
 		$targetManifestPath = Join-Path $targetDirectory 'manifest.json'
 		Copy-Item -LiteralPath $manifestPath -Destination $targetManifestPath -Force
+		Copy-Item -LiteralPath $manifestPath -Destination $targetManifestPath.Replace('newestdata', 'data') -Force
 	}
 }
 
