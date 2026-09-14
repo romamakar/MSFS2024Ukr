@@ -33,9 +33,9 @@
 
 Завантажте відповідний інсталятор:
 
-- `MSFS2024Ukr_en.exe`
-- `MSFS2024Ukr_ru.exe`
-- `MSFS2024Ukr_pl.exe`
+- [MSFS2024Ukr_en.exe](https://github.com/romamakar/MSFS2024Ukr/releases/download/exe/MSFS2024Ukr_en.exe)
+- [MSFS2024Ukr_ru.exe](https://github.com/romamakar/MSFS2024Ukr/releases/download/exe/MSFS2024Ukr_ru.exe)
+- [MSFS2024Ukr_pl.exe](https://github.com/romamakar/MSFS2024Ukr/releases/download/exe/MSFS2024Ukr_pl.exe)
 
 Запустіть інсталятор і дотримуйтесь його інструкцій.
 
@@ -45,9 +45,9 @@
 
 Завантажте відповідний архів:
 
-- `MSFS2024ukr-en.zip`
-- `MSFS2024ukr-ru.zip`
-- `MSFS2024ukr-pl.zip`
+- [MSFS2024ukr-en.zip](https://github.com/romamakar/MSFS2024Ukr/releases/download/zip/MSFS2024ukr-en.zip)
+- [MSFS2024ukr-ru.zip](https://github.com/romamakar/MSFS2024Ukr/releases/download/zip/MSFS2024ukr-ru.zip)
+- [MSFS2024ukr-pl.zip](https://github.com/romamakar/MSFS2024Ukr/releases/download/zip/MSFS2024ukr-pl.zip)
 
 Розпакуйте вміст архіву в папку, де встановлена гра.
 
