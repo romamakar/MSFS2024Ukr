@@ -1,0 +1,89 @@
+# Unofficial Ukrainian Translation License
+
+Copyright (c) 2026 romamakar and contributors
+
+This license applies to the original Ukrainian translation work created by
+the authors and contributors of the MSFS2024Ukr project.
+
+## IMPORTANT
+
+The MSFS2024Ukr project is an unofficial fan-made localization project.
+
+Microsoft Flight Simulator 2024, its original text, software, assets,
+trademarks, logos, audio, images, and other original content remain the
+property of their respective copyright and trademark holders.
+
+This license does not grant, transfer, or sublicense any rights to Microsoft
+Flight Simulator 2024 or any third-party content.
+
+## PERMITTED USE
+
+Subject to the terms of this license, you may:
+
+1. use the Ukrainian translation for personal, non-commercial use with a
+   legally obtained copy of Microsoft Flight Simulator 2024;
+
+2. copy and redistribute the original Ukrainian translation files included
+   in this project;
+
+3. modify the Ukrainian translation;
+
+4. submit modifications and improvements to this project;
+
+5. create derivative versions of the Ukrainian translation for use with
+   compatible versions of the game.
+
+## CONDITIONS
+
+When redistributing the Ukrainian translation or a substantial part of it,
+you must:
+
+1. retain this license notice;
+
+2. clearly state that the localization is unofficial;
+
+3. not claim or imply that the translation is created, approved, sponsored,
+   or endorsed by Microsoft, Xbox, Asobo Studio, or another rights holder;
+
+4. retain attribution to the original project and its contributors where
+   reasonably possible;
+
+5. not remove copyright or attribution notices included with the project.
+
+## COMMERCIAL DISTRIBUTION
+
+This license does not grant permission to sell the Ukrainian translation as
+a standalone product or to sell access to Microsoft Flight Simulator 2024 or
+its original content.
+
+If you want to include the translation in a commercial product, service,
+distribution, or paid modification, you must obtain separate permission from
+the copyright holders of the translation.
+
+## THIRD-PARTY CONTENT
+
+Some text contained in the translation corresponds to or is derived from
+original game content.
+
+The rights of the original game copyright holders are not affected by this
+license.
+
+This license grants rights only to the original creative contribution made
+by the translation authors and contributors. It does not grant rights to the
+underlying original game content.
+
+## NO WARRANTY
+
+The translation is provided "AS IS", without warranty of any kind.
+
+The authors and contributors are not responsible for compatibility problems,
+errors, loss of data, game updates, or other issues resulting from the use of
+the translation.
+
+## NO AFFILIATION
+
+MSFS2024Ukr is an independent fan-made project.
+
+It is not affiliated with, sponsored by, authorized by, or endorsed by
+Microsoft, Xbox, Asobo Studio, or the publishers or developers of
+Microsoft Flight Simulator 2024.
