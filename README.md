@@ -132,6 +132,8 @@ MSFS2024Ukr/data
 
 https://send.monobank.ua/jar/7vcHp4XCig
 
+![Допомога](https://steamuserimages-a.akamaihd.net/ugc/15301647011007757/C65E0DC157F43C3EF234FE65E025503482A5349B/)
+
 Будь-яка фінансова підтримка є добровільною та не є оплатою за Microsoft Flight Simulator 2024 або доступ до його контенту.
 
 ## Відмова від гарантій
