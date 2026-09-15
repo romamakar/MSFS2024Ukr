@@ -47,7 +47,7 @@ jobs:
           $ErrorActionPreference = 'Stop'
 
           try {
-            $process = Start-Process -FilePath ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024Ukr.exe" -NoNewWindow -Wait -PassThru
+            $process = Start-Process -FilePath "${{ github.workspace }}\MSFS2024Ukr\bin\Release\net8.0\MSFS2024Ukr.exe" -NoNewWindow -Wait -PassThru
           }
           catch {
             "should_continue=false" >> $env:GITHUB_OUTPUT
@@ -64,35 +64,35 @@ jobs:
 
       - name: Refresh state
         if: steps.run_program.outputs.should_continue == 'true'
-        run: cp -r .\MSFS2024Ukr\bin\Release\net8.0\state\app.json ..\\MSFS2024Ukr\MSFS2024Ukr\state\app.json
+        run: cp -r "${{ github.workspace }}\MSFS2024Ukr\bin\Release\net8.0\state\app.json" "${{ github.workspace }}\MSFS2024Ukr\state\app.json"
       
       - name: Refresh data directory recursively
         if: steps.run_program.outputs.should_continue == 'true'
-        run: Copy-Item ".\MSFS2024Ukr\bin\Release\net8.0\data\*" "..\MSFS2024Ukr\MSFS2024Ukr\data\" -Recurse -Force
+        run: Copy-Item "${{ github.workspace }}\MSFS2024Ukr\bin\Release\net8.0\data\*" "${{ github.workspace }}\MSFS2024Ukr\data\" -Recurse -Force
         shell: powershell
 
       - name: Zip MSFS2024ukr-en folder
         if: steps.run_program.outputs.should_continue == 'true'
         shell: pwsh
         run: |
-          $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-en\*"
-          $zipFile = "MSFS2024ukr-en.zip"
+          $source = "${{ github.workspace }}\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-en\*"
+          $zipFile = "${{ github.workspace }}\MSFS2024ukr-en.zip"
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
       - name: Zip MSFS2024ukr-ru folder
         if: steps.run_program.outputs.should_continue == 'true'
         shell: pwsh
         run: |
-          $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-ru\*"
-          $zipFile = "MSFS2024ukr-ru.zip"
+          $source = "${{ github.workspace }}\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-ru\*"
+          $zipFile = "${{ github.workspace }}\MSFS2024ukr-ru.zip"
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
       - name: Zip MSFS2024ukr-pl folder
         if: steps.run_program.outputs.should_continue == 'true'
         shell: pwsh
         run: |
-          $source = ".\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-pl\*"
-          $zipFile = "MSFS2024ukr-pl.zip"
+          $source = "${{ github.workspace }}\MSFS2024Ukr\bin\Release\net8.0\MSFS2024ukr-pl\*"
+          $zipFile = "${{ github.workspace }}\MSFS2024ukr-pl.zip"
           Compress-Archive -Path $source -DestinationPath $zipFile -Force
 
 
@@ -112,8 +112,8 @@ jobs:
         if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          files: "MSFS2024ukr-en.zip"
-          tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
+          files: "${{ github.workspace }}/MSFS2024ukr-en.zip"
+          tag_name: "zip"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -121,8 +121,8 @@ jobs:
         if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          files: "MSFS2024ukr-pl.zip"
-          tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
+          files: "${{ github.workspace }}/MSFS2024ukr-pl.zip"
+          tag_name: "zip"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -130,8 +130,8 @@ jobs:
         if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          files: "MSFS2024ukr-ru.zip"
-          tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
+          files: "${{ github.workspace }}/MSFS2024ukr-ru.zip"
+          tag_name: "zip"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -139,8 +139,8 @@ jobs:
         if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_en.exe"
-          tag_name: "exe"  # Можна використовувати будь-який тег, якщо потрібно
+          files: "${{ github.workspace }}/installer/Output/MSFS2024Ukr_en.exe"
+          tag_name: "exe"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -148,8 +148,8 @@ jobs:
         if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_pl.exe"
-          tag_name: "exe"  # Можна використовувати будь-який тег, якщо потрібно
+          files: "${{ github.workspace }}/installer/Output/MSFS2024Ukr_pl.exe"
+          tag_name: "exe"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -157,8 +157,8 @@ jobs:
         if: steps.run_program.outputs.should_continue == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          files: "D:\\a\\MSFS2024Ukr\\MSFS2024Ukr\\installer\\Output\\MSFS2024Ukr_ru.exe"
-          tag_name: "exe"  # Можна використовувати будь-який тег, якщо потрібно
+          files: "${{ github.workspace }}/installer/Output/MSFS2024Ukr_ru.exe"
+          tag_name: "exe"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -168,8 +168,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add D:/a/MSFS2024Ukr/MSFS2024Ukr/MSFS2024Ukr/state/app.json
-          git add D:/a/MSFS2024Ukr/MSFS2024Ukr/MSFS2024Ukr/data/
+          git add "${{ github.workspace }}/MSFS2024Ukr/state/app.json"
+          git add "${{ github.workspace }}/MSFS2024Ukr/data/"
           git diff --cached --quiet || git commit -m "Update application state"
 
           git push
