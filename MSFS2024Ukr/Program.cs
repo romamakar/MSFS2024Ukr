@@ -14,9 +14,6 @@ namespace MSFS2024Ukr
         static TranslationClient client = null;
         static void Main(string[] args)
         {
-        
-            appState.LastDate = GetUkrainianTime();
-            appStateStorage.SaveAsync(appState).Wait();
             Console.WriteLine($"apiKey: {apiKey}");
             Console.WriteLine($"API key configured: {!string.IsNullOrWhiteSpace(apiKey)}");
             Console.WriteLine($"API key length: {apiKey?.Length ?? 0}");
