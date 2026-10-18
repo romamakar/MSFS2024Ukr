@@ -12518,7 +12518,9 @@
       "WEARANDTEAR.TECHNICIAN.ON_MENU_ENTRY.GROUNDED.GENERAL": "Давайте перевiримо лiтальний апарат, щоб дiзнатися, що потрiбно для його повернення в повiтря.",
       "WEARANDTEAR.TECHNICIAN.ON_MENU_ENTRY.MAINTENANCE_TIME.GENERAL": "Настав час провести {SCHEDULED_CHECKUP_TIME}-годинний огляд. Ви можете запросити його, коли ви будете готовi.",
       "WEARANDTEAR.TECHNICIAN.ON_MENU_ENTRY.MAINTENANCE_TIME_PAST.GENERAL": "Здається, ви пропустили {SCHEDULED_CHECKUP_TIME}-годинний огляд. Краще пiзно, анiж нiколи. Ви можете запросити його, коли ви будете готовi.",
-      "WEARANDTEAR.TECHNICIAN.ON_MENU_ENTRY.OTHER.GENERAL": "Вiтаю яка приємна зустрiч! Чим можу допомогти?"
+      "WEARANDTEAR.TECHNICIAN.ON_MENU_ENTRY.OTHER.GENERAL": "Вiтаю яка приємна зустрiч! Чим можу допомогти?",
+      "PassengerTransport.Notification.NoServiceAvailable.Descr": "Наземні служби недоступні, перехід до запуску",
+      "WEARANDTEAR.COMPONENT_TIPS.CIRCUIT_XML.DESC_1": "Може спричинити проблеми з електрикою, коротке замикання, вихід із ладу систем літального апарату."
     }
   }
 }

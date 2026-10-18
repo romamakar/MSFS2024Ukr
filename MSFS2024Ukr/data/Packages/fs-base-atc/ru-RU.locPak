@@ -22609,7 +22609,15 @@
       "CHARACTER.VOICE_SELECTION.TEST_PHRASE_6": "Бортпровiдники, пiдготувати дверi до прибуття та виконати перехресну перевiрку.",
       "CHARACTER.VOICE_SELECTION.TEST_PHRASE_7": "УВС, вимагаю дозволу на вилiт.",
       "CHARACTER.VOICE_SELECTION.TEST_PHRASE_8": "Небо кличе!",
-      "CHARACTER.VOICE_SELECTION.TEST_PHRASE_9": "\"Пiлотуй, орiєнтуйся, комунiкуй\" - це лише основа."
+      "CHARACTER.VOICE_SELECTION.TEST_PHRASE_9": "\"Пiлотуй, орiєнтуйся, комунiкуй\" - це лише основа.",
+      "ATCCOM.AC_AGNT_ANNOUNCE_SEPARATED.0.text": "{agent}, {callsign}, separated and away.",
+      "ATCCOM.AC_AGNT_ANNOUNCE_SEPARATED.0.tts": "{agent}, {callsign}, separated and away.",
+      "ATCCOM.AC_AGNT_REQUEST_RELEASE.0.text": "{agent}, {callsign}, request clearance for release.",
+      "ATCCOM.AC_AGNT_REQUEST_RELEASE.0.tts": "{agent}, {callsign}, request clearance for release.",
+      "ATCCOM.AGNT_AC_RELEASE_AUTHORISED.0.text": "{callsign}, cleared for release, report separation.",
+      "ATCCOM.AGNT_AC_RELEASE_AUTHORISED.0.tts": "{callsign}, cleared for release, report separation.",
+      "ATCCOM.PLUS_ONE.0.text": "+1",
+      "ATCCOM.PLUS_ONE.0.tts": "+1"
     }
   }
 }
