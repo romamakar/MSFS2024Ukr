@@ -1,0 +1,208 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/workingtitle-apps-groundservices/thumbnail.jpg",
+      "size": 5446,
+      "date": 134296484020000000,
+      "hash": 15113973862393051986
+    },
+    {
+      "path": "de-de.locpak",
+      "size": 3080,
+      "date": 134345727730000000,
+      "hash": 11959802214009468537
+    },
+    {
+      "path": "en-us.locpak",
+      "size": 2931,
+      "date": 134345727730000000,
+      "hash": 6801746451181994751
+    },
+    {
+      "path": "es-es.locpak",
+      "size": 3204,
+      "date": 134345727730000000,
+      "hash": 4998275879556261146
+    },
+    {
+      "path": "es-mx.locpak",
+      "size": 3194,
+      "date": 134345727730000000,
+      "hash": 5865494611084160011
+    },
+    {
+      "path": "fi-fi.locpak",
+      "size": 3100,
+      "date": 134345727730000000,
+      "hash": 2234698644819529567
+    },
+    {
+      "path": "fr-fr.locpak",
+      "size": 3052,
+      "date": 134345727730000000,
+      "hash": 1511864021531389319
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/app-icon.svg",
+      "size": 555,
+      "date": 134345730540000000,
+      "hash": 13742448225671523742
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/cargo.svg",
+      "size": 277,
+      "date": 134345730540000000,
+      "hash": 156902061870737545
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/catering.svg",
+      "size": 288,
+      "date": 134345730540000000,
+      "hash": 8347922990481763939
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/door.svg",
+      "size": 289,
+      "date": 134345730540000000,
+      "hash": 8742146638883344419
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/fuel.svg",
+      "size": 352,
+      "date": 134345730540000000,
+      "hash": 1255062718166256675
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/gpu.svg",
+      "size": 269,
+      "date": 134345730540000000,
+      "hash": 13362460142203489569
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/jetway.svg",
+      "size": 388,
+      "date": 134345730540000000,
+      "hash": 5967913006063405867
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/luggage.svg",
+      "size": 314,
+      "date": 134345730540000000,
+      "hash": 2006626906364106121
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/pushback-left.svg",
+      "size": 208,
+      "date": 134345730540000000,
+      "hash": 9413757305196707132
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/pushback-right.svg",
+      "size": 207,
+      "date": 134345730540000000,
+      "hash": 17030519717627508079
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/pushback-stop.svg",
+      "size": 143,
+      "date": 134345730540000000,
+      "hash": 1887329854312541158
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/pushback-straight.svg",
+      "size": 207,
+      "date": 134345730540000000,
+      "hash": 17955572594962830645
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/assets/stairs.svg",
+      "size": 240,
+      "date": 134345730540000000,
+      "hash": 15010464887884434357
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/gsapp.css",
+      "size": 18375,
+      "date": 134345730540000000,
+      "hash": 4814629717736789508
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/wtgroundservicesapp/gsapp.js",
+      "size": 437944,
+      "date": 134345730540000000,
+      "hash": 2727046834086199957
+    },
+    {
+      "path": "it-it.locpak",
+      "size": 3071,
+      "date": 134345727730000000,
+      "hash": 790559380050058592
+    },
+    {
+      "path": "ja-jp.locpak",
+      "size": 3236,
+      "date": 134345727730000000,
+      "hash": 8054476044905458489
+    },
+    {
+      "path": "ko-kr.locpak",
+      "size": 3130,
+      "date": 134345727730000000,
+      "hash": 8796237418932670805
+    },
+    {
+      "path": "nb-no.locpak",
+      "size": 3028,
+      "date": 134345727730000000,
+      "hash": 3010389055550785532
+    },
+    {
+      "path": "nl-nl.locpak",
+      "size": 3040,
+      "date": 134345727730000000,
+      "hash": 17348293319600217213
+    },
+    {
+      "path": "pl-pl.locpak",
+      "size": 3141,
+      "date": 134345727730000000,
+      "hash": 1794451292550384042
+    },
+    {
+      "path": "pt-br.locpak",
+      "size": 3141,
+      "date": 134345727730000000,
+      "hash": 16609452147538387401
+    },
+    {
+      "path": "pt-pt.locpak",
+      "size": 3185,
+      "date": 134345727730000000,
+      "hash": 13241340979175273393
+    },
+    {
+      "path": "ru-ru.locpak",
+      "size": 3743,
+      "date": 134345727730000000,
+      "hash": 508850998549939576
+    },
+    {
+      "path": "sv-se.locpak",
+      "size": 3053,
+      "date": 134345727730000000,
+      "hash": 3206779512888357370
+    },
+    {
+      "path": "tr-tr.locpak",
+      "size": 3042,
+      "date": 134345727730000000,
+      "hash": 7601194914432610858
+    },
+    {
+      "path": "zh-cn.locpak",
+      "size": 2945,
+      "date": 134345727730000000,
+      "hash": 17107249743080513785
+    }
+  ]
+}

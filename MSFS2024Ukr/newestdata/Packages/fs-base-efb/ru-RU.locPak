@@ -148,7 +148,7 @@
       "EFB.COMMON.SKIP": "Пропустить",
       "EFB.COMMON.SMALL": "мал.",
       "EFB.COMMON.STATUS_BAR_DATE_FORMAT_12": "ДД ММММ ДДДД ГГГГ чч:мм A",
-      "EFB.COMMON.STATUS_BAR_DATE_FORMAT_24": "DDDD, DD MMMM YYYY HH:mm",
+      "EFB.COMMON.STATUS_BAR_DATE_FORMAT_24": "dddd, DD MMMM YYYY HH:mm",
       "EFB.COMMON.TRAFFIC_SPOTTED_NEAR_YOU": "рядом с вами замечено воздушное движение",
       "EFB.COMMON.WEATHER": "погода",
       "EFB.COMMON.WELCOME": "добро пожаловать"

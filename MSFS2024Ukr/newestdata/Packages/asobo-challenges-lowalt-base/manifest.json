@@ -10,8 +10,8 @@
   "manufacturer": "",
   "creator": "Asobo Studio",
   "package_version": "0.1.0",
-  "minimum_game_version": "1.8.16",
-  "minimum_compatibility_version": "8.11.0.236",
+  "minimum_game_version": "1.9.18",
+  "minimum_compatibility_version": "9.18.0.250",
   "export_type": "Community",
   "builder": "Microsoft Flight Simulator 2024",
   "package_order_hint": "MISSION",
@@ -21,5 +21,5 @@
       "OlderHistory": ""
     }
   },
-  "total_package_size": "17064541"
+  "total_package_size": "17064610"
 }

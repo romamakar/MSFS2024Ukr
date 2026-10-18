@@ -119,7 +119,7 @@
       "NOTIFICATION.BACK_ON_TRACK_LEFT_AREA": "Вы покинули район задания",
       "NOTIFICATION.BACK_ON_TRACK_OVERSTRESSED": "Вы подвергли воздушное судно опасным перегрузкам",
       "NOTIFICATION.BOT_EXPLANATION": "На маршрут",
-      "NOTIFICATION.LEAVEAREA": "___Leaving game area___Вы приблизились к границам игровой зоны",
+      "NOTIFICATION.LEAVEAREA": "___Leaving game area___. Вы приблизились к границам игровой зоны",
       "REWARD.GHOST_NAME": "Призрак"
     }
   }
