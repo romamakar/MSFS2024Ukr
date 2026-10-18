@@ -92,48 +92,48 @@
     },
     {
       "path": "de-de.locpak",
-      "size": 15795,
-      "date": 134109567140000000
+      "size": 15797,
+      "date": 134327465980000000
     },
     {
       "path": "en-us.locpak",
-      "size": 13493,
-      "date": 134109567140000000
+      "size": 13495,
+      "date": 134327465980000000
     },
     {
       "path": "es-es.locpak",
-      "size": 15301,
-      "date": 134109567140000000
+      "size": 15303,
+      "date": 134327465980000000
     },
     {
       "path": "es-mx.locpak",
-      "size": 15222,
-      "date": 134109567140000000
+      "size": 15224,
+      "date": 134327465980000000
     },
     {
       "path": "fi-fi.locpak",
-      "size": 14067,
-      "date": 134109567140000000
+      "size": 14069,
+      "date": 134327465980000000
     },
     {
       "path": "fr-fr.locpak",
-      "size": 15355,
-      "date": 134109567140000000
+      "size": 15364,
+      "date": 134327465980000000
     },
     {
       "path": "it-it.locpak",
-      "size": 14603,
-      "date": 134109567140000000
+      "size": 14605,
+      "date": 134327465980000000
     },
     {
       "path": "ja-jp.locpak",
-      "size": 16065,
-      "date": 134109567140000000
+      "size": 16066,
+      "date": 134327465980000000
     },
     {
       "path": "ko-kr.locpak",
-      "size": 14207,
-      "date": 134109567140000000
+      "size": 14208,
+      "date": 134327465980000000
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/backontrack/simstate.flt",
@@ -142,8 +142,8 @@
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/eventtriggerslowaltitude.spb",
-      "size": 636,
-      "date": 134130317110000002
+      "size": 666,
+      "date": 134327458160000002
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/igm/lowalthudwaypoint/finishline.css",
@@ -193,27 +193,27 @@
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/lowalt_logic_flightpath.spb",
       "size": 3195,
-      "date": 134130317110000002
+      "date": 134327458160000002
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude.spb",
       "size": 33446,
-      "date": 134130317110000002
+      "date": 134327458160000002
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude_briefingdata.spb",
       "size": 885,
-      "date": 134130317110000002
+      "date": 134327458160000002
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude_edition.spb",
       "size": 319,
-      "date": 134130317110000002
+      "date": 134327458160000002
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/lowaltitude_logic_sound.spb",
       "size": 666,
-      "date": 134130317110000002
+      "date": 134327458160000002
     },
     {
       "path": "missions/asobo/sr/challenges/lowaltitude/default/panels/racelowaltghosthud/racelowaltghosthud.css",
@@ -377,43 +377,43 @@
     },
     {
       "path": "nb-no.locpak",
-      "size": 13872,
-      "date": 134109567140000000
+      "size": 13874,
+      "date": 134327465980000000
     },
     {
       "path": "nl-nl.locpak",
-      "size": 14774,
-      "date": 134109567140000000
+      "size": 14776,
+      "date": 134327465980000000
     },
     {
       "path": "pl-pl.locpak",
-      "size": 15456,
-      "date": 134109567140000000
+      "size": 15458,
+      "date": 134327465980000000
     },
     {
       "path": "pt-br.locpak",
-      "size": 14700,
-      "date": 134109567140000000
+      "size": 14701,
+      "date": 134327465980000000
     },
     {
       "path": "pt-pt.locpak",
-      "size": 14894,
-      "date": 134109567140000000
+      "size": 14896,
+      "date": 134327465980000000
     },
     {
       "path": "ru-ru.locpak",
-      "size": 21006,
-      "date": 134109567140000000
+      "size": 21008,
+      "date": 134327465980000000
     },
     {
       "path": "sv-se.locpak",
-      "size": 14262,
-      "date": 134109567140000000
+      "size": 14264,
+      "date": 134327465980000000
     },
     {
       "path": "tr-tr.locpak",
-      "size": 14517,
-      "date": 134109567140000000
+      "size": 14519,
+      "date": 134327465980000000
     },
     {
       "path": "widgets/activities/lc_f18_01_2.jpg",
@@ -507,8 +507,8 @@
     },
     {
       "path": "zh-cn.locpak",
-      "size": 12865,
-      "date": 134109567140000000
+      "size": 12866,
+      "date": 134327465980000000
     }
   ]
 }

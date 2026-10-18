@@ -92,8 +92,8 @@
     },
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/eventtriggerstimetrial.spb",
-      "size": 634,
-      "date": 134223852370000002
+      "size": 664,
+      "date": 134327465880000002
     },
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/hud/ghost/rallyraceghosthud.css",
@@ -238,32 +238,32 @@
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace.spb",
       "size": 21713,
-      "date": 134223852370000002
+      "date": 134327465880000002
     },
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_briefingdata.spb",
       "size": 911,
-      "date": 134223852370000002
+      "date": 134327465880000002
     },
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_briefingdata_fighter.spb",
       "size": 460,
-      "date": 134223852370000002
+      "date": 134327465880000002
     },
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_edition.spb",
       "size": 2531,
-      "date": 134223852370000002
+      "date": 134327465880000002
     },
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_fighter_logic_sound.spb",
       "size": 673,
-      "date": 134223852370000002
+      "date": 134327465880000002
     },
     {
       "path": "missions/asobo/sr/challenges/rallyrace/default/rallyrace_ga_logic_sound.spb",
       "size": 663,
-      "date": 134223852370000002
+      "date": 134327465880000002
     },
     {
       "path": "nb-no.locpak",
