@@ -33,12 +33,12 @@
     {
       "path": "html_ui/efb_ui/efb_os/assets/appcontainer.css",
       "size": 129,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/efbcontainer.css",
       "size": 199,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/fonts/malgun/malgun.ttf",
@@ -183,322 +183,367 @@
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/add.svg",
       "size": 542,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/all.svg",
       "size": 1702,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/arrow.svg",
       "size": 578,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/facilities/airport.svg",
       "size": 386,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/facilities/challenges.svg",
       "size": 616,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/facilities/intersection.svg",
       "size": 209,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/facilities/location.svg",
       "size": 343,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/facilities/ndb.svg",
       "size": 6108,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/facilities/vor.svg",
       "size": 577,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/facilities/waypoint.svg",
       "size": 385,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/all.svg",
       "size": 436,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/arrow.svg",
       "size": 255,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/arrowmultiple.svg",
       "size": 588,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/check.svg",
       "size": 229,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/check_full.svg",
       "size": 367,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/close.svg",
       "size": 286,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/externalized.svg",
       "size": 386,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/failure_full.svg",
       "size": 387,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/info_full.svg",
       "size": 598,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/search.svg",
       "size": 414,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/nomargin/warning.svg",
       "size": 354,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/notification.svg",
       "size": 515,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/notification_invisible.svg",
       "size": 536,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/icons/remove.svg",
       "size": 666,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/images/efb_9gridbackground.png",
       "size": 11085,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/reset.css",
       "size": 1906,
-      "date": 134358617890000000
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/assets/tmp/computer.png",
+      "size": 4797,
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/assets/ui/all.svg",
+      "size": 1690,
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/assets/ui/close.png",
+      "size": 1201,
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/assets/ui/menu.png",
+      "size": 370,
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/assets/ui/return.png",
+      "size": 1052,
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/assets/uiview.css",
       "size": 46,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/avionics.js",
       "size": 29963,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/common.js",
       "size": 290092,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/containers/panelui/panelui.css",
-      "size": 66864,
-      "date": 134358617890000000
+      "size": 64869,
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/containers/panelui/panelui.js",
-      "size": 215829,
-      "date": 134358617890000000
+      "size": 214827,
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/datastorage.js",
       "size": 1729,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/efb_9gridbackground-n7jhd5my.png",
       "size": 11085,
-      "date": 134358617890000000
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/efb_cockpit.html",
+      "size": 1142,
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/efb_os.css",
       "size": 95885,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/efb_os.js",
       "size": 216078,
-      "date": 134358617890000000
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/efb_panel.html",
+      "size": 2005,
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/efb_ui.html",
       "size": 1431,
-      "date": 134358617890000000
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/garminsdk.js",
+      "size": 2489313,
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/genericdatalistener.js",
       "size": 753,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/malgun-uycwflis.ttf",
       "size": 13457164,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/malgunbd-isybq2xe.ttf",
       "size": 12598360,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/malgunsl-tclc7vux.ttf",
       "size": 5083156,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/msfssdk-iife.js",
       "size": 4961074,
-      "date": 134358617890000000
+      "date": 134369012570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_os/msfssdk.js",
+      "size": 3057192,
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/netbingmap.js",
       "size": 13442,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/notosanssc-black-vjvpxsbf.ttf",
       "size": 22349509,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/notosanssc-bold-h7e74yv3.otf",
       "size": 8716461,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/notosanssc-light-sh4sec2h.otf",
       "size": 8434285,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/notosanssc-medium-vtkyqx3x.otf",
       "size": 8508649,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/notosanssc-regular-mdcsldei.ttf",
       "size": 21361201,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-blackitalic-q4dqvnxp.ttf",
       "size": 174167,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-bold-ynvd7ycc.ttf",
       "size": 167395,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-bolditalic-udvrgymt.ttf",
       "size": 171567,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-italic-p4upyb3f.ttf",
       "size": 170563,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-light-dlkqxcnl.ttf",
       "size": 167059,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-lightitalic-ezwbkof2.ttf",
       "size": 173231,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-medium-sicmfkqk.ttf",
       "size": 168703,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-mediumitalic-x7vw5cza.ttf",
       "size": 173475,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-regular-2c6ipkaz.ttf",
       "size": 168319,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/roboto-thinitalic-vwzditn2.ttf",
       "size": 172919,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/robotomono-bold-r7w7vcw5.ttf",
       "size": 114811,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/robotomono-light-vtq6n36s.ttf",
       "size": 119035,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/robotomono-medium+meiryobui-gd27iy4b.ttf",
       "size": 5992101,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/robotomono-medium-5wkjzgyd.ttf",
       "size": 114755,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/robotomono-regular-ardxjna7.ttf",
       "size": 114683,
-      "date": 134103759550000001
+      "date": 133954275580000001
     },
     {
       "path": "html_ui/efb_ui/efb_os/simplane.js",
       "size": 119915,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "html_ui/efb_ui/efb_os/simvar.js",
       "size": 21160,
-      "date": 134358617890000000
+      "date": 134369012570000000
     },
     {
       "path": "it-it.locpak",
